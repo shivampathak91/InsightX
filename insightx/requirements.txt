@@ -1,10 +1,9 @@
 streamlit
 pandas
-numpy
 plotly
-prophet
-supabase
-openai
-statsmodels
 scikit-learn
+groq
+supabase
+prophet
 reportlab
+kaleido
