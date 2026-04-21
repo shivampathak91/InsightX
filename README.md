@@ -150,6 +150,87 @@ The app automatically detects columns, but works best with:
 
 ---
 
+ ⚠️ Known Issue: Kaleido on Streamlit Cloud
+
+The app uses **Kaleido** to export Plotly charts as images for PDF report generation.
+
+ ❌ Problem
+
+* `kaleido` works perfectly in **local development**
+* But may **fail or not work on Streamlit Cloud / deployed environments**
+
+This happens due to:
+
+* Missing system dependencies
+* Headless rendering limitations in cloud environments
+
+---
+
+ 🧪 Works Fine On:
+
+* Local machine (Windows / Mac / Linux)
+* Virtual environments with full Python support
+
+---
+
+ 🚫 Issues On:
+
+* Streamlit Cloud (sometimes)
+* Restricted container environments
+
+---
+
+ ✅ Possible Fixes
+
+ Option 1: Add Kaleido explicitly
+
+Already included in requirements:
+
+```txt
+kaleido
+```
+
+---
+
+ Option 2: Force install dependencies (advanced)
+
+Create a `packages.txt` file:
+
+```txt
+libgl1
+libglib2.0-0
+```
+
+---
+
+ Option 3: Fallback (Recommended)
+
+If Kaleido fails, disable image export in PDF:
+
+Replace:
+
+```python
+img = fig_to_img(fig)
+story.append(Image(img, width=400, height=250))
+```
+
+With:
+
+```python
+story.append(Paragraph("Chart preview not available in cloud deployment", styles["Normal"]))
+```
+
+---
+
+ 💡 Recommendation
+
+For best performance:
+
+* Use **local environment** for full PDF generation
+* Use **Streamlit Cloud** for demo (without image export)
+
+---
+
  🚀 Future Improvements
 
 * Real-time database integration
@@ -172,8 +253,4 @@ This project is licensed under the MIT License.
 
 ---
 
-If you want, I can also:
 
-* create a **GitHub-ready version with badges**
-* add **screenshots section**
-* or write a **killer project description for resumes / LinkedIn**
