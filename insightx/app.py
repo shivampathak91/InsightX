@@ -16,9 +16,9 @@ from reportlab.lib.styles import getSampleStyleSheet
 st.set_page_config(page_title="InSightX", layout="wide")
 
 # 🔑 ADD YOUR KEYS HERE
-SUPABASE_URL = "https://gedkisvxmlmublfsmxwh.supabase.co"
-SUPABASE_KEY = "sb_publishable_i7-FAcAyCtGrz05tuP4B0g_a0FEHvVD"
-GROQ_API_KEY = "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"
+SUPABASE_URL = ""
+SUPABASE_KEY = ""
+GROQ_API_KEY = ""
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 client = Groq(api_key=GROQ_API_KEY)
