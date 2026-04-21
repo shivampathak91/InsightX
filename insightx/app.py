@@ -15,10 +15,15 @@ from reportlab.lib.styles import getSampleStyleSheet
 # ================= CONFIG =================
 st.set_page_config(page_title="InSightX", layout="wide")
 
-# 🔑 ADD YOUR KEYS HERE
-SUPABASE_URL = ""
-SUPABASE_KEY = ""
-GROQ_API_KEY = ""
+# 🔑 ADD YOUR KEYS HERE IF YOU ARE NOT DEPLOYING ON STREAMLIT
+# SUPABASE_URL = ""
+# SUPABASE_KEY = ""
+# GROQ_API_KEY = ""
+
+# I have used streamlit so keys are stored in secrets in streamlit 
+SUPABASE_URL = st.secrets["SUPABASE_URL"]
+SUPABASE_KEY = st.secrets["SUPABASE_KEY"]
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 client = Groq(api_key=GROQ_API_KEY)
