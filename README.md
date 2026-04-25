@@ -106,8 +106,50 @@ CSV Upload → Data Cleaning → KPI Analysis → Visualization → AI Insights 
 
 <hr>
 
-<h2>📸 Screenshots</h2>
-<p>👉 Add dashboard UI, charts, chatbot, and reports here</p>
+<h2 align="center">📸 Application Preview</h2>
+
+---
+
+<h3 align="center">🔐 1. Login / Signup</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivampathak91/InsightX/main/insightx/loginsignup.png" width="800"/>
+</p>
+
+---
+
+<h3 align="center">📂 2. Upload Dataset</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivampathak91/InsightX/main/insightx/upload.png" width="800"/>
+</p>
+
+---
+
+<h3 align="center">📊 3. Sales Dashboard</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivampathak91/InsightX/main/insightx/sales.png" width="800"/>
+</p>
+
+---
+
+<h3 align="center">🔮 4. Forecasting</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivampathak91/InsightX/main/insightx/forecast.png" width="800"/>
+</p>
+
+---
+
+<h3 align="center">🤖 5. AI Insights / Explanation</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivampathak91/InsightX/main/insightx/explain.png" width="800"/>
+</p>
+
+---
+
+<h3 align="center">💬 6. AI Chatbot</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivampathak91/InsightX/main/insightx/chatbot.png" width="800"/>
+</p>
+
 
 <hr>
 
@@ -196,7 +238,7 @@ libglib2.0-0
 
 <h2>👨‍💻 Author</h2>
 <p><b>Shivam Pathak</b><br>
-Aspiring Data Analyst | Future Data Engineer</p>
+Aspiring Data Analyst | Data Scientist |  Future Data Engineer</p>
 
 <hr>
 
