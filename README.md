@@ -1,256 +1,203 @@
+<h1 align="center">🚀 InSightX – AI-Powered Retail Analytics & Insights Platform</h1>
 
- 🚀 InSightX – Smart Retail Analytics & AI Insights Platform
+<p align="center">
+  📊 Transform raw retail data into actionable business insights using AI, Machine Learning & Interactive Dashboards  
+</p>
 
-InSightX is an end-to-end **AI-powered retail analytics dashboard** built with Streamlit. It transforms raw CSV data into actionable business insights using **data visualization, machine learning, and LLM-powered explanations**.
+<hr>
 
----
-📌 Features
+<h2>🔍 Overview</h2>
+<p>
+<b>InSightX</b> is an end-to-end AI-powered retail analytics dashboard built with Streamlit.  
+It converts raw CSV datasets into <b>interactive visualizations, predictive insights, and AI-generated business recommendations</b>.
+</p>
 
-📊 Data Analysis & Visualization
+<p>👉 It bridges the gap between <b>raw data → insights → decision-making</b>.</p>
 
-* Upload CSV files and instantly analyze data
-* KPI Metrics (Total Sales, Total Profit)
-* Category-wise sales analysis
-* Regional distribution (Pie Chart)
-* Correlation heatmap
-* Sales vs Profit segmentation
-* Monthly sales trends
-* Treemap (Category & Sub-category profitability)
-* Shipping efficiency analysis
-* Customer segment insights
-* Geographical sales mapping
+<hr>
 
----
+<h2>🎯 Problem Statement</h2>
+<ul>
+<li>Unstructured and inconsistent datasets</li>
+<li>Manual KPI calculations and slow reporting</li>
+<li>Lack of real-time insights and forecasting</li>
+</ul>
 
- 🤖 AI-Powered Insights
+<p>👉 <b>InSightX automates analysis, visualization, and insight generation in one platform.</b></p>
 
-* Auto-generated business explanations for every chart
-* Retail-focused insights using LLM (Groq API)
-* Smart summaries:
+<hr>
 
-  * Trends
-  * Business insights
-  * Actionable recommendations
+<h2>💡 Key Features</h2>
 
----
+<h3>📊 Data Analysis & Visualization</h3>
+<ul>
+<li>Upload CSV files and instantly analyze data</li>
+<li>KPI Metrics (Total Sales, Total Profit)</li>
+<li>Category-wise & regional analysis</li>
+<li>Correlation heatmaps & segmentation</li>
+<li>Monthly trends & treemap visualization</li>
+<li>Shipping efficiency & customer insights</li>
+<li>Geographical sales mapping</li>
+</ul>
 
-🔮 Machine Learning Forecasting
+<h3>🤖 AI-Powered Insights</h3>
+<ul>
+<li>Auto-generated explanations for charts</li>
+<li>Retail-focused insights using LLM (Groq API)</li>
+<li>Trends, insights & recommendations</li>
+</ul>
 
-* Time-series forecasting using Prophet
-* Predict:
+<h3>🔮 Machine Learning Forecasting</h3>
+<ul>
+<li>Time-series forecasting using Prophet</li>
+<li>Predict sales & profit</li>
+<li>7 Days | 30 Days | 6 Months | 1 Year</li>
+</ul>
 
-  * Sales
-  * Profit
-* Custom forecast ranges:
+<h3>💬 AI Chatbot</h3>
+<ul>
+<li>Ask natural language questions</li>
+<li>Context-aware dataset responses</li>
+</ul>
 
-  * 7 Days
-  * 30 Days
-  * 6 Months
-  * 1 Year
+<h3>📄 AI Report Generation</h3>
+<ul>
+<li>Generate PDF reports with charts & insights</li>
+<li>One-click download</li>
+</ul>
 
----
+<h3>🔐 Authentication</h3>
+<ul>
+<li>Login/signup using Supabase</li>
+<li>Secure session handling</li>
+</ul>
 
- 💬 AI Chatbot (Ask Your Data)
+<hr>
 
-* Ask natural language questions about your dataset
-* Context-aware responses based on:
+<h2>🛠️ Tech Stack</h2>
+<ul>
+<li><b>Frontend:</b> Streamlit</li>
+<li><b>Data:</b> Pandas</li>
+<li><b>Visualization:</b> Plotly</li>
+<li><b>ML:</b> Prophet, Scikit-learn</li>
+<li><b>AI:</b> Groq (LLaMA 3.1)</li>
+<li><b>Backend:</b> Supabase</li>
+<li><b>Reporting:</b> ReportLab</li>
+</ul>
 
-  * Dataset structure
-  * Sample data
-  * Statistical summary
+<hr>
 
----
+<h2>⚙️ System Workflow</h2>
 
-📄 AI Report Generation
+<pre>
+CSV Upload → Data Cleaning → KPI Analysis → Visualization → AI Insights → Forecasting → Report Generation
+</pre>
 
-* Generate full PDF reports including:
+<hr>
 
-  * Charts
-  * AI explanations
-  * Business insights
-* One-click download
+<h2>📊 Example Use Case</h2>
+<ul>
+<li>Analyze retail dataset (10K+ rows)</li>
+<li>Identify top-performing categories</li>
+<li>Track revenue trends</li>
+<li>Generate AI recommendations</li>
+<li>Forecast future sales</li>
+</ul>
 
----
+<hr>
 
-🔐 Authentication
+<h2>📸 Screenshots</h2>
+<p>👉 Add dashboard UI, charts, chatbot, and reports here</p>
 
-* User login/signup via Supabase
-* Secure session handling
+<hr>
 
----
+<h2>🚀 Installation</h2>
 
-🛠️ Tech Stack
-
-* **Frontend/UI:** Streamlit
-* **Data Processing:** Pandas
-* **Visualization:** Plotly
-* **Machine Learning:** Prophet, Scikit-learn
-* **AI/LLM:** Groq (LLaMA 3.1)
-* **Backend/Auth:** Supabase
-* **Reporting:** ReportLab
-
----
-
-⚙️ Installation
-
-```bash
+<pre>
 git clone https://github.com/your-username/insightx.git
 cd insightx
 pip install -r requirements.txt
-```
+</pre>
 
----
+<hr>
 
-🔑 Environment Setup
+<h2>🔑 Environment Setup</h2>
 
-Add your API keys in the script:
-
-```python
+<pre>
 SUPABASE_URL = "your_supabase_url"
 SUPABASE_KEY = "your_supabase_key"
 GROQ_API_KEY = "your_groq_api_key"
-```
+</pre>
 
----
+<hr>
 
- ▶️ Run the App
+<h2>▶️ Run the App</h2>
 
-```bash
+<pre>
 streamlit run app.py
-```
+</pre>
 
----
+<hr>
 
-📁 Expected Dataset Format
+<h2>📁 Dataset Format</h2>
+<ul>
+<li>Numerical → Sales, Profit</li>
+<li>Categorical → Category, Segment, Region</li>
+<li>Date → Order Date</li>
+<li>Optional → City, Ship Mode</li>
+</ul>
 
-The app automatically detects columns, but works best with:
+<hr>
 
-* Numerical columns → Sales, Profit
-* Categorical columns → Category, Segment, Region
-* Date column → Order Date / Ship Date
-* Optional → City, Ship Mode
+<h2>📈 Results & Impact</h2>
+<ul>
+<li>Automated KPI calculations</li>
+<li>Faster insights from raw data</li>
+<li>AI-driven decision support</li>
+</ul>
 
----
+<hr>
 
-📊 Example Use Cases
+<h2>⚠️ Limitations</h2>
+<ul>
+<li>Requires structured CSV</li>
+<li>AI depends on data quality</li>
+<li>Forecasting needs sufficient data</li>
+</ul>
 
-* Retail performance dashboards
-* Business intelligence reporting
-* Sales forecasting
-* Customer segmentation
-* Operational efficiency analysis
+<hr>
 
----
+<h2>⚠️ Kaleido Issue</h2>
 
- ⚠️ Limitations
+<p><b>Problem:</b> Works locally but may fail on Streamlit Cloud</p>
 
-* Requires structured CSV data
-* AI responses depend on data quality
-* Forecasting requires sufficient time-series data (≥10 rows)
-
----
-
- ⚠️ Known Issue: Kaleido on Streamlit Cloud
-
-The app uses **Kaleido** to export Plotly charts as images for PDF report generation.
-
- ❌ Problem
-
-* `kaleido` works perfectly in **local development**
-* But may **fail or not work on Streamlit Cloud / deployed environments**
-
-This happens due to:
-
-* Missing system dependencies
-* Headless rendering limitations in cloud environments
-
----
-
- 🧪 Works Fine On:
-
-* Local machine (Windows / Mac / Linux)
-* Virtual environments with full Python support
-
----
-
- 🚫 Issues On:
-
-* Streamlit Cloud (sometimes)
-* Restricted container environments
-
----
-
- ✅ Possible Fixes
-
- Option 1: Add Kaleido explicitly
-
-Already included in requirements:
-
-```txt
+<p><b>Fix:</b></p>
+<pre>
 kaleido
-```
+</pre>
 
----
-
- Option 2: Force install dependencies (advanced)
-
-Create a `packages.txt` file:
-
-```txt
+<p>Or create:</p>
+<pre>
 libgl1
 libglib2.0-0
-```
+</pre>
 
----
+<hr>
 
- Option 3: Fallback (Recommended)
+<h2>🚀 Future Improvements</h2>
+<ul>
+<li>Real-time data pipelines</li>
+<li>Cloud deployment</li>
+<li>Advanced ML models</li>
+<li>Role-based dashboards</li>
+</ul>
 
-If Kaleido fails, disable image export in PDF:
+<hr>
 
-Replace:
+<h2>👨‍💻 Author</h2>
+<p><b>Shivam Pathak</b><br>
+Aspiring Data Analyst | Future Data Engineer</p>
 
-```python
-img = fig_to_img(fig)
-story.append(Image(img, width=400, height=250))
-```
+<hr>
 
-With:
-
-```python
-story.append(Paragraph("Chart preview not available in cloud deployment", styles["Normal"]))
-```
-
----
-
- 💡 Recommendation
-
-For best performance:
-
-* Use **local environment** for full PDF generation
-* Use **Streamlit Cloud** for demo (without image export)
-
----
-
- 🚀 Future Improvements
-
-* Real-time database integration
-* Advanced forecasting models
-* Role-based dashboards
-* Export to PowerPoint
-* Multi-language AI insights
-
----
-
-🤝 Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
-
----
-
-📜 License
-
-This project is licensed under the MIT License.
-
----
-
-
+<p align="center">⭐ If you like this project, consider giving it a star!</p>
