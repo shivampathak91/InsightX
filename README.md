@@ -114,7 +114,7 @@ CSV Upload → Data Cleaning → KPI Analysis → Visualization → AI Insights 
 <h2>🚀 Installation</h2>
 
 <pre>
-git clone https://github.com/your-username/insightx.git
+git clone https://github.com/shivampathak91/insightx.git
 cd insightx
 pip install -r requirements.txt
 </pre>
