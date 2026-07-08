@@ -622,6 +622,47 @@ st.markdown("""
     ::-webkit-scrollbar-thumb:hover {
         background: var(--text-secondary);
     }
+
+    /* File Uploader Styling */
+    [data-testid="stFileUploaderDropzone"] {
+        background: rgba(79, 70, 229, 0.06) !important;
+        border: 2px dashed rgba(167, 139, 250, 0.5) !important;
+        border-radius: 16px !important;
+        padding: 40px 24px !important;
+        min-height: 140px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        transition: all 0.3s ease !important;
+    }
+
+    [data-testid="stFileUploaderDropzone"]:hover {
+        background: rgba(79, 70, 229, 0.12) !important;
+        border-color: rgba(167, 139, 250, 0.9) !important;
+        box-shadow: 0 0 24px rgba(79, 70, 229, 0.15) !important;
+    }
+
+    [data-testid="stFileUploader"] {
+        width: 100% !important;
+    }
+
+    [data-testid="stFileUploaderDropzoneInstructions"] span {
+        color: #A78BFA !important;
+        font-size: 15px !important;
+        font-weight: 500 !important;
+    }
+
+    [data-testid="stFileUploaderDropzoneInstructions"] small {
+        color: #6B7280 !important;
+        font-size: 12px !important;
+    }
+
+    @media (max-width: 768px) {
+        [data-testid="stFileUploaderDropzone"] {
+            padding: 30px 16px !important;
+            min-height: 120px !important;
+        }
+    }
     
     /* Responsive Sticky Header */
     .sticky-header {
@@ -802,13 +843,47 @@ if st.session_state.get("show_success_toast", False):
 
 # ================= FILE UPLOADER / PAYWALL =================
 if st.session_state["is_paid"]:
-    file = st.file_uploader("Upload CSV")
+    st.markdown("""
+    <div style="
+        background: rgba(79, 70, 229, 0.06);
+        border: 1px solid rgba(167, 139, 250, 0.2);
+        border-radius: 16px;
+        padding: 24px 28px;
+        margin-bottom: 16px;
+    ">
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
+            <span style="font-size: 22px;">📂</span>
+            <div>
+                <p style="margin: 0; color: #F9FAFB; font-weight: 600; font-size: 15px;">Upload Your Dataset</p>
+                <p style="margin: 0; color: #9CA3AF; font-size: 12px;">Supports CSV files. Your data is processed locally.</p>
+            </div>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
+    file = st.file_uploader("Drop your CSV file here or click to browse", type=["csv"], label_visibility="collapsed")
     if file:
         df = pd.read_csv(file, encoding='latin1')
         df.columns = df.columns.str.lower()
         st.session_state["df"] = df
 else:
-    st.info("🔒 Custom file upload is locked in Demo Mode. Upgrade to Premium to upload your own custom CSV datasets.")
+    st.markdown("""
+    <div style="
+        background: rgba(79, 70, 229, 0.04);
+        border: 1px solid rgba(167, 139, 250, 0.15);
+        border-radius: 16px;
+        padding: 24px 28px;
+        margin-bottom: 16px;
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    ">
+        <span style="font-size: 32px; flex-shrink: 0;">🔒</span>
+        <div>
+            <p style="margin: 0; color: #F9FAFB; font-weight: 600; font-size: 15px;">Custom Upload Locked — Demo Mode</p>
+            <p style="margin: 4px 0 0 0; color: #9CA3AF; font-size: 13px;">Upgrade to Premium to upload your own retail CSV datasets and unlock full AI-powered analysis.</p>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
 
 if st.session_state["df"] is None:
     st.stop()
