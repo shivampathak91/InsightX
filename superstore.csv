@@ -1,0 +1,1001 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2019-100001,03-02-2019,04-02-2019,Standard Class,CUST-016,Customer 8,Consumer,India,Hyderabad,Gujarat,704442,West,PROD-025,Office Supplies,Accessories,Notebook,18557,1,0.09,5053
+2,CA-2019-100002,15-02-2019,18-02-2019,Second Class,CUST-018,Customer 39,Home Office,India,Surat,Gujarat,315526,South,PROD-044,Technology,Storage,Smartphone,18734,1,0.15,4479
+3,CA-2019-100003,12-04-2019,16-04-2019,Standard Class,CUST-014,Customer 19,Home Office,India,Ahmedabad,Gujarat,345028,North,PROD-043,Office Supplies,Phones,Table,11944,3,0.14,1825
+4,CA-2019-100004,19-03-2019,23-03-2019,Second Class,CUST-008,Customer 43,Home Office,India,Delhi,Tamil Nadu,490840,West,PROD-001,Technology,Paper,Binder,23548,4,0.2,4691
+5,CA-2019-100005,19-03-2019,23-03-2019,Second Class,CUST-012,Customer 44,Corporate,India,Pune,Tamil Nadu,393876,West,PROD-053,Technology,Phones,Binder,21073,2,0.14,3238
+6,CA-2019-100006,03-05-2019,08-05-2019,Standard Class,CUST-025,Customer 13,Home Office,India,Chennai,Karnataka,822725,South,PROD-042,Office Supplies,Chairs,Headphones,37667,2,0.11,5283
+7,CA-2019-100007,25-04-2019,27-04-2019,Standard Class,CUST-016,Customer 41,Consumer,India,Delhi,Karnataka,668282,West,PROD-073,Office Supplies,Binders,Notebook,49370,5,0.11,4781
+8,CA-2019-100008,30-07-2019,31-07-2019,Standard Class,CUST-006,Customer 20,Corporate,India,Ahmedabad,Karnataka,454323,North,PROD-050,Technology,Binders,Storage Box,39589,5,0.03,2537
+9,CA-2019-100009,13-12-2019,14-12-2019,Standard Class,CUST-003,Customer 45,Corporate,India,Kochi,Telangana,310634,South,PROD-094,Furniture,Tables,Chair,6971,5,0.19,1071
+10,CA-2019-100010,25-10-2019,27-10-2019,First Class,CUST-016,Customer 1,Home Office,India,Surat,Kerala,187298,West,PROD-042,Furniture,Accessories,Table,37829,5,0.13,4130
+11,CA-2019-100011,06-07-2019,09-07-2019,Second Class,CUST-027,Customer 10,Home Office,India,Hyderabad,Telangana,595736,South,PROD-050,Technology,Tables,Headphones,16972,2,0.07,1982
+12,CA-2019-100012,02-06-2019,06-06-2019,First Class,CUST-036,Customer 22,Consumer,India,Chennai,Gujarat,231846,North,PROD-065,Office Supplies,Chairs,Laptop,38812,2,0.2,4873
+13,CA-2019-100013,09-06-2019,11-06-2019,First Class,CUST-008,Customer 10,Home Office,India,Bangalore,Karnataka,108345,West,PROD-005,Furniture,Laptops,Smartphone,18530,5,0.2,5188
+14,CA-2019-100014,23-06-2019,26-06-2019,Second Class,CUST-034,Customer 38,Corporate,India,Ahmedabad,Rajasthan,639862,South,PROD-013,Technology,Laptops,Notebook,49253,2,0.05,14062
+15,CA-2019-100015,08-05-2019,10-05-2019,First Class,CUST-047,Customer 32,Corporate,India,Delhi,Delhi,832274,South,PROD-036,Office Supplies,Tables,Storage Box,808,3,0.08,82
+16,CA-2019-100016,15-08-2019,17-08-2019,Standard Class,CUST-021,Customer 4,Corporate,India,Delhi,Telangana,188998,North,PROD-058,Office Supplies,Accessories,Notebook,25975,1,0.09,3389
+17,CA-2019-100017,22-01-2019,27-01-2019,Second Class,CUST-032,Customer 14,Consumer,India,Bangalore,Tamil Nadu,970683,West,PROD-036,Furniture,Chairs,Binder,14420,4,0.15,1906
+18,CA-2019-100018,17-07-2019,21-07-2019,Standard Class,CUST-038,Customer 47,Home Office,India,Ahmedabad,Tamil Nadu,690553,South,PROD-027,Furniture,Accessories,Binder,14527,1,0.1,2475
+19,CA-2019-100019,06-02-2019,10-02-2019,First Class,CUST-050,Customer 13,Home Office,India,Hyderabad,Kerala,578982,North,PROD-024,Technology,Laptops,Laptop,21680,1,0.15,4926
+20,CA-2019-100020,26-04-2019,27-04-2019,Second Class,CUST-008,Customer 18,Corporate,India,Bangalore,Tamil Nadu,829134,North,PROD-085,Furniture,Accessories,Chair,8258,4,0.08,1638
+21,CA-2019-100021,30-07-2019,02-08-2019,First Class,CUST-001,Customer 45,Consumer,India,Hyderabad,Maharashtra,540296,South,PROD-050,Technology,Laptops,Notebook,31478,3,0.09,2650
+22,CA-2019-100022,17-09-2019,18-09-2019,First Class,CUST-021,Customer 22,Consumer,India,Delhi,Rajasthan,817138,North,PROD-012,Furniture,Storage,Laptop,25458,2,0.14,1478
+23,CA-2019-100023,23-01-2019,28-01-2019,Standard Class,CUST-021,Customer 16,Consumer,India,Pune,Telangana,607094,West,PROD-008,Technology,Storage,Notebook,28646,5,0.17,5932
+24,CA-2019-100024,06-07-2019,09-07-2019,First Class,CUST-036,Customer 34,Home Office,India,Kochi,Kerala,442798,North,PROD-071,Furniture,Phones,Storage Box,6821,3,0.11,780
+25,CA-2019-100025,07-01-2019,12-01-2019,Standard Class,CUST-036,Customer 6,Home Office,India,Hyderabad,Maharashtra,368879,North,PROD-073,Office Supplies,Storage,Notebook,57064,1,0.03,9301
+26,CA-2019-100026,18-12-2019,19-12-2019,Standard Class,CUST-012,Customer 6,Corporate,India,Chennai,Delhi,642460,North,PROD-045,Office Supplies,Phones,Binder,2936,4,0.15,154
+27,CA-2019-100027,17-07-2019,20-07-2019,Standard Class,CUST-044,Customer 38,Home Office,India,Kochi,Tamil Nadu,881635,West,PROD-010,Furniture,Paper,Table,38162,4,0.03,10319
+28,CA-2019-100028,21-06-2019,22-06-2019,Second Class,CUST-032,Customer 16,Corporate,India,Mumbai,Delhi,417322,North,PROD-055,Office Supplies,Phones,Binder,36265,4,0.08,8403
+29,CA-2019-100029,15-04-2019,18-04-2019,Second Class,CUST-046,Customer 3,Consumer,India,Jaipur,Maharashtra,198825,West,PROD-002,Technology,Paper,Laptop,59196,3,0.03,17418
+30,CA-2019-100030,17-03-2019,20-03-2019,Standard Class,CUST-004,Customer 47,Home Office,India,Chennai,Maharashtra,849563,South,PROD-040,Office Supplies,Binders,Chair,21671,5,0.17,3170
+31,CA-2019-100031,07-06-2019,08-06-2019,Second Class,CUST-027,Customer 33,Corporate,India,Chennai,Delhi,563078,West,PROD-050,Office Supplies,Phones,Chair,58090,5,0.04,17226
+32,CA-2019-100032,12-09-2019,17-09-2019,Standard Class,CUST-019,Customer 14,Consumer,India,Jaipur,Gujarat,459148,South,PROD-093,Technology,Binders,Storage Box,54113,2,0.02,11211
+33,CA-2019-100033,20-11-2019,24-11-2019,Standard Class,CUST-047,Customer 46,Home Office,India,Chennai,Rajasthan,243503,West,PROD-012,Office Supplies,Chairs,Headphones,8291,3,0.04,2242
+34,CA-2019-100034,18-09-2019,19-09-2019,Second Class,CUST-009,Customer 25,Consumer,India,Surat,Tamil Nadu,334164,West,PROD-024,Technology,Paper,Table,43114,2,0.11,2972
+35,CA-2019-100035,05-07-2019,08-07-2019,Standard Class,CUST-015,Customer 18,Corporate,India,Ahmedabad,Maharashtra,282434,West,PROD-060,Technology,Accessories,Headphones,55668,3,0.03,3281
+36,CA-2019-100036,29-01-2019,31-01-2019,Standard Class,CUST-008,Customer 32,Home Office,India,Chennai,Delhi,737149,North,PROD-030,Office Supplies,Binders,Laptop,36390,4,0.11,4235
+37,CA-2019-100037,23-10-2019,24-10-2019,First Class,CUST-016,Customer 43,Corporate,India,Ahmedabad,Maharashtra,849427,South,PROD-052,Technology,Paper,Smartphone,13553,3,0.08,3368
+38,CA-2019-100038,29-01-2019,01-02-2019,First Class,CUST-027,Customer 27,Corporate,India,Kochi,Tamil Nadu,824356,North,PROD-016,Furniture,Chairs,Table,41934,5,0.09,9154
+39,CA-2019-100039,19-12-2019,21-12-2019,Standard Class,CUST-016,Customer 31,Consumer,India,Pune,Kerala,422340,North,PROD-083,Office Supplies,Laptops,Laptop,56538,3,0.19,3411
+40,CA-2019-100040,19-07-2019,20-07-2019,First Class,CUST-020,Customer 5,Home Office,India,Surat,Maharashtra,974625,South,PROD-026,Office Supplies,Binders,Laptop,6512,5,0.15,646
+41,CA-2019-100041,31-03-2019,05-04-2019,First Class,CUST-019,Customer 9,Consumer,India,Pune,Telangana,183278,West,PROD-088,Furniture,Storage,Storage Box,51622,2,0.11,13091
+42,CA-2019-100042,19-10-2019,24-10-2019,Standard Class,CUST-049,Customer 3,Corporate,India,Delhi,Gujarat,386813,North,PROD-027,Furniture,Storage,Notebook,23182,1,0.2,2532
+43,CA-2019-100043,08-12-2019,12-12-2019,First Class,CUST-017,Customer 33,Home Office,India,Mumbai,Maharashtra,871061,South,PROD-092,Technology,Laptops,Storage Box,13760,4,0.07,1625
+44,CA-2019-100044,15-06-2019,19-06-2019,Standard Class,CUST-046,Customer 10,Home Office,India,Bangalore,Karnataka,370830,West,PROD-011,Furniture,Laptops,Chair,39180,2,0.04,10008
+45,CA-2019-100045,03-04-2019,08-04-2019,Standard Class,CUST-050,Customer 26,Home Office,India,Delhi,Tamil Nadu,680740,North,PROD-077,Technology,Tables,Table,17481,5,0.02,4487
+46,CA-2019-100046,20-03-2019,22-03-2019,Standard Class,CUST-028,Customer 13,Consumer,India,Jaipur,Karnataka,580211,South,PROD-008,Furniture,Phones,Storage Box,33736,4,0.16,2176
+47,CA-2019-100047,20-08-2019,21-08-2019,Second Class,CUST-026,Customer 16,Corporate,India,Ahmedabad,Delhi,995016,South,PROD-054,Furniture,Chairs,Headphones,56406,2,0.1,8751
+48,CA-2019-100048,05-12-2019,06-12-2019,Standard Class,CUST-010,Customer 17,Home Office,India,Pune,Telangana,459288,South,PROD-051,Furniture,Tables,Table,57772,5,0.03,14050
+49,CA-2019-100049,23-06-2019,26-06-2019,Second Class,CUST-046,Customer 35,Home Office,India,Delhi,Tamil Nadu,598589,West,PROD-015,Furniture,Phones,Laptop,26811,4,0.17,7967
+50,CA-2019-100050,21-06-2019,24-06-2019,Standard Class,CUST-043,Customer 19,Home Office,India,Surat,Delhi,216671,South,PROD-013,Technology,Accessories,Chair,27047,2,0.11,1791
+51,CA-2019-100051,02-04-2019,07-04-2019,First Class,CUST-017,Customer 45,Consumer,India,Ahmedabad,Kerala,877595,West,PROD-074,Technology,Chairs,Storage Box,20761,2,0.03,3408
+52,CA-2019-100052,27-02-2019,02-03-2019,Standard Class,CUST-029,Customer 22,Corporate,India,Bangalore,Rajasthan,133974,West,PROD-070,Furniture,Binders,Laptop,2663,3,0.15,664
+53,CA-2019-100053,25-10-2019,30-10-2019,First Class,CUST-023,Customer 6,Corporate,India,Hyderabad,Kerala,845229,West,PROD-006,Furniture,Phones,Table,35088,5,0.11,2820
+54,CA-2019-100054,19-10-2019,20-10-2019,Standard Class,CUST-035,Customer 16,Corporate,India,Hyderabad,Rajasthan,483580,West,PROD-059,Furniture,Storage,Notebook,55157,1,0.19,13769
+55,CA-2019-100055,07-06-2019,10-06-2019,First Class,CUST-014,Customer 16,Consumer,India,Mumbai,Karnataka,265332,South,PROD-062,Technology,Paper,Storage Box,4211,5,0.05,1164
+56,CA-2019-100056,24-08-2019,27-08-2019,Second Class,CUST-044,Customer 18,Corporate,India,Hyderabad,Maharashtra,996507,West,PROD-021,Office Supplies,Phones,Table,52688,3,0.11,11038
+57,CA-2019-100057,20-06-2019,25-06-2019,First Class,CUST-031,Customer 29,Home Office,India,Mumbai,Maharashtra,188778,North,PROD-068,Office Supplies,Paper,Laptop,47237,4,0.01,4918
+58,CA-2019-100058,12-07-2019,16-07-2019,First Class,CUST-008,Customer 20,Corporate,India,Chennai,Rajasthan,261761,West,PROD-084,Furniture,Chairs,Binder,53696,3,0.19,15075
+59,CA-2019-100059,20-02-2019,23-02-2019,Standard Class,CUST-012,Customer 14,Consumer,India,Mumbai,Telangana,158891,West,PROD-028,Technology,Phones,Smartphone,45138,1,0.13,10969
+60,CA-2019-100060,15-10-2019,20-10-2019,First Class,CUST-002,Customer 50,Consumer,India,Delhi,Maharashtra,446076,South,PROD-076,Furniture,Accessories,Notebook,5270,5,0.14,895
+61,CA-2019-100061,30-07-2019,31-07-2019,Second Class,CUST-037,Customer 7,Consumer,India,Ahmedabad,Tamil Nadu,750654,South,PROD-022,Furniture,Storage,Storage Box,6641,4,0.01,1961
+62,CA-2019-100062,22-08-2019,27-08-2019,Second Class,CUST-024,Customer 7,Home Office,India,Surat,Tamil Nadu,820552,North,PROD-002,Furniture,Tables,Headphones,28235,5,0.08,8172
+63,CA-2019-100063,12-09-2019,14-09-2019,Second Class,CUST-018,Customer 40,Home Office,India,Chennai,Rajasthan,957721,West,PROD-016,Technology,Accessories,Laptop,51300,5,0.12,4558
+64,CA-2019-100064,11-09-2019,14-09-2019,First Class,CUST-013,Customer 19,Corporate,India,Delhi,Kerala,512932,South,PROD-018,Furniture,Phones,Storage Box,57885,1,0.02,6495
+65,CA-2019-100065,14-10-2019,18-10-2019,Second Class,CUST-017,Customer 3,Home Office,India,Surat,Kerala,308483,North,PROD-029,Office Supplies,Storage,Binder,5935,2,0.17,568
+66,CA-2019-100066,21-08-2019,25-08-2019,Second Class,CUST-011,Customer 2,Corporate,India,Surat,Rajasthan,736665,North,PROD-006,Technology,Paper,Notebook,57376,1,0.03,12443
+67,CA-2019-100067,09-11-2019,12-11-2019,Standard Class,CUST-006,Customer 39,Corporate,India,Pune,Kerala,667122,West,PROD-034,Office Supplies,Accessories,Smartphone,45812,3,0.16,5378
+68,CA-2019-100068,30-10-2019,04-11-2019,Second Class,CUST-012,Customer 31,Corporate,India,Surat,Karnataka,438692,South,PROD-046,Technology,Laptops,Table,55152,3,0.15,12193
+69,CA-2019-100069,19-09-2019,20-09-2019,Standard Class,CUST-007,Customer 16,Home Office,India,Surat,Kerala,516775,South,PROD-074,Technology,Paper,Table,17963,5,0.12,4082
+70,CA-2019-100070,01-06-2019,06-06-2019,Second Class,CUST-018,Customer 22,Corporate,India,Pune,Gujarat,151657,North,PROD-053,Technology,Storage,Storage Box,14038,4,0.01,3860
+71,CA-2019-100071,30-04-2019,02-05-2019,Second Class,CUST-002,Customer 26,Corporate,India,Ahmedabad,Kerala,271216,North,PROD-027,Technology,Phones,Headphones,27498,3,0.03,7418
+72,CA-2019-100072,08-05-2019,10-05-2019,First Class,CUST-042,Customer 47,Home Office,India,Jaipur,Gujarat,316659,South,PROD-082,Furniture,Tables,Chair,20908,3,0.03,5766
+73,CA-2019-100073,11-03-2019,16-03-2019,Standard Class,CUST-016,Customer 44,Consumer,India,Delhi,Delhi,620792,North,PROD-083,Technology,Storage,Binder,58905,1,0.08,13014
+74,CA-2019-100074,21-07-2019,24-07-2019,Standard Class,CUST-050,Customer 5,Consumer,India,Mumbai,Maharashtra,959456,West,PROD-070,Furniture,Phones,Smartphone,1324,4,0.17,182
+75,CA-2019-100075,05-05-2019,10-05-2019,Second Class,CUST-041,Customer 28,Corporate,India,Chennai,Gujarat,809210,West,PROD-052,Office Supplies,Phones,Table,42127,5,0.15,6854
+76,CA-2019-100076,30-08-2019,04-09-2019,Standard Class,CUST-028,Customer 17,Consumer,India,Delhi,Maharashtra,343215,South,PROD-067,Furniture,Binders,Laptop,4819,2,0.01,752
+77,CA-2019-100077,25-11-2019,28-11-2019,Second Class,CUST-019,Customer 10,Consumer,India,Kochi,Karnataka,726296,South,PROD-015,Office Supplies,Binders,Smartphone,39113,2,0.1,8782
+78,CA-2019-100078,13-01-2019,14-01-2019,First Class,CUST-021,Customer 33,Consumer,India,Bangalore,Delhi,130691,West,PROD-062,Furniture,Laptops,Storage Box,52939,5,0.15,8735
+79,CA-2019-100079,14-08-2019,17-08-2019,Second Class,CUST-006,Customer 26,Consumer,India,Delhi,Kerala,709043,South,PROD-016,Office Supplies,Accessories,Notebook,52771,1,0.14,5886
+80,CA-2019-100080,20-03-2019,25-03-2019,Standard Class,CUST-036,Customer 5,Corporate,India,Mumbai,Karnataka,819953,North,PROD-010,Office Supplies,Phones,Storage Box,42807,5,0.19,11638
+81,CA-2019-100081,05-10-2019,08-10-2019,Standard Class,CUST-016,Customer 5,Consumer,India,Bangalore,Rajasthan,234366,North,PROD-008,Office Supplies,Chairs,Headphones,5400,5,0.03,357
+82,CA-2019-100082,03-04-2019,07-04-2019,First Class,CUST-023,Customer 22,Consumer,India,Delhi,Kerala,230414,South,PROD-071,Office Supplies,Phones,Table,49197,4,0.08,8393
+83,CA-2019-100083,02-05-2019,04-05-2019,Second Class,CUST-002,Customer 46,Home Office,India,Surat,Gujarat,773853,South,PROD-048,Office Supplies,Binders,Storage Box,49473,4,0.05,10575
+84,CA-2019-100084,01-02-2019,02-02-2019,Second Class,CUST-036,Customer 48,Home Office,India,Ahmedabad,Karnataka,920479,North,PROD-032,Technology,Tables,Notebook,7541,2,0.02,1068
+85,CA-2019-100085,10-05-2019,14-05-2019,Second Class,CUST-042,Customer 4,Consumer,India,Pune,Karnataka,456587,North,PROD-099,Office Supplies,Binders,Notebook,39951,5,0.07,3556
+86,CA-2019-100086,24-01-2019,25-01-2019,Second Class,CUST-011,Customer 30,Home Office,India,Jaipur,Karnataka,107728,South,PROD-082,Technology,Storage,Storage Box,23430,3,0.03,2098
+87,CA-2019-100087,27-12-2019,28-12-2019,First Class,CUST-032,Customer 33,Home Office,India,Mumbai,Telangana,144314,West,PROD-093,Office Supplies,Phones,Chair,36169,1,0.03,9814
+88,CA-2019-100088,26-01-2019,29-01-2019,First Class,CUST-020,Customer 47,Consumer,India,Delhi,Delhi,319949,North,PROD-030,Furniture,Phones,Smartphone,48544,5,0.08,8605
+89,CA-2019-100089,08-09-2019,13-09-2019,Standard Class,CUST-038,Customer 15,Corporate,India,Mumbai,Tamil Nadu,169971,North,PROD-055,Office Supplies,Tables,Binder,50974,5,0.06,6213
+90,CA-2019-100090,27-09-2019,02-10-2019,Standard Class,CUST-049,Customer 10,Consumer,India,Mumbai,Karnataka,134969,South,PROD-083,Office Supplies,Chairs,Binder,28442,3,0.15,5686
+91,CA-2019-100091,17-08-2019,22-08-2019,Standard Class,CUST-037,Customer 31,Consumer,India,Surat,Tamil Nadu,550060,North,PROD-076,Office Supplies,Binders,Table,30715,3,0.16,5269
+92,CA-2019-100092,10-07-2019,12-07-2019,First Class,CUST-007,Customer 24,Corporate,India,Pune,Rajasthan,786579,South,PROD-084,Furniture,Binders,Table,6944,4,0.02,479
+93,CA-2019-100093,05-11-2019,06-11-2019,Standard Class,CUST-046,Customer 25,Consumer,India,Ahmedabad,Telangana,424910,West,PROD-098,Furniture,Binders,Storage Box,15384,1,0.12,1335
+94,CA-2019-100094,25-12-2019,27-12-2019,Second Class,CUST-034,Customer 13,Corporate,India,Pune,Telangana,458774,North,PROD-013,Technology,Phones,Notebook,10268,3,0.03,1078
+95,CA-2019-100095,12-03-2019,13-03-2019,Standard Class,CUST-019,Customer 50,Corporate,India,Surat,Maharashtra,103460,North,PROD-011,Office Supplies,Binders,Laptop,48789,5,0.16,11954
+96,CA-2019-100096,13-12-2019,14-12-2019,First Class,CUST-030,Customer 35,Home Office,India,Ahmedabad,Telangana,532069,West,PROD-065,Office Supplies,Binders,Chair,33599,5,0.15,6441
+97,CA-2019-100097,22-11-2019,23-11-2019,Second Class,CUST-041,Customer 35,Home Office,India,Delhi,Kerala,400751,South,PROD-097,Office Supplies,Tables,Headphones,52370,4,0.13,14168
+98,CA-2019-100098,05-05-2019,09-05-2019,Second Class,CUST-029,Customer 10,Consumer,India,Hyderabad,Telangana,932616,West,PROD-093,Office Supplies,Accessories,Binder,59387,3,0.04,9543
+99,CA-2019-100099,28-02-2019,01-03-2019,Second Class,CUST-043,Customer 35,Consumer,India,Mumbai,Telangana,899071,West,PROD-044,Furniture,Tables,Notebook,24403,4,0.13,3496
+100,CA-2019-100100,14-04-2019,17-04-2019,First Class,CUST-001,Customer 1,Home Office,India,Chennai,Telangana,554447,North,PROD-016,Furniture,Phones,Table,47920,5,0.16,4374
+101,CA-2019-100101,12-08-2019,17-08-2019,First Class,CUST-018,Customer 38,Home Office,India,Surat,Rajasthan,660580,West,PROD-079,Furniture,Laptops,Headphones,11617,2,0.18,3291
+102,CA-2019-100102,08-12-2019,12-12-2019,Second Class,CUST-021,Customer 24,Consumer,India,Pune,Delhi,269090,North,PROD-029,Furniture,Paper,Laptop,30566,2,0.18,6644
+103,CA-2019-100103,06-10-2019,07-10-2019,Second Class,CUST-019,Customer 33,Consumer,India,Mumbai,Karnataka,537247,West,PROD-058,Furniture,Laptops,Storage Box,25504,2,0.07,6656
+104,CA-2019-100104,24-08-2019,26-08-2019,First Class,CUST-001,Customer 11,Corporate,India,Chennai,Delhi,204555,South,PROD-016,Office Supplies,Chairs,Chair,35069,4,0.16,6803
+105,CA-2019-100105,26-09-2019,29-09-2019,Standard Class,CUST-026,Customer 29,Consumer,India,Jaipur,Rajasthan,344279,West,PROD-024,Office Supplies,Phones,Laptop,47000,3,0.08,5033
+106,CA-2019-100106,30-12-2019,01-01-2020,Second Class,CUST-050,Customer 10,Corporate,India,Bangalore,Maharashtra,923772,South,PROD-007,Office Supplies,Laptops,Smartphone,36819,5,0.04,4961
+107,CA-2019-100107,09-05-2019,11-05-2019,Standard Class,CUST-024,Customer 9,Corporate,India,Kochi,Maharashtra,660908,North,PROD-035,Technology,Binders,Headphones,43984,2,0.02,7863
+108,CA-2019-100108,14-06-2019,19-06-2019,Second Class,CUST-028,Customer 50,Consumer,India,Jaipur,Maharashtra,399746,West,PROD-026,Office Supplies,Chairs,Chair,16022,1,0.15,4197
+109,CA-2019-100109,16-11-2019,17-11-2019,Second Class,CUST-039,Customer 28,Consumer,India,Surat,Telangana,156848,West,PROD-019,Office Supplies,Chairs,Binder,47656,2,0.11,10485
+110,CA-2019-100110,08-01-2019,10-01-2019,Second Class,CUST-046,Customer 26,Home Office,India,Pune,Rajasthan,932478,South,PROD-090,Technology,Binders,Table,22178,1,0.02,5501
+111,CA-2019-100111,29-04-2019,01-05-2019,Standard Class,CUST-045,Customer 38,Consumer,India,Kochi,Gujarat,826701,South,PROD-071,Furniture,Storage,Laptop,15163,3,0.09,1260
+112,CA-2019-100112,19-08-2019,22-08-2019,Second Class,CUST-040,Customer 18,Corporate,India,Jaipur,Karnataka,416528,South,PROD-043,Technology,Paper,Laptop,53808,5,0.13,9103
+113,CA-2019-100113,16-10-2019,18-10-2019,Second Class,CUST-029,Customer 18,Corporate,India,Chennai,Gujarat,485859,South,PROD-092,Furniture,Paper,Notebook,28643,5,0.15,7317
+114,CA-2019-100114,18-03-2019,19-03-2019,First Class,CUST-043,Customer 43,Consumer,India,Kochi,Karnataka,135090,South,PROD-015,Office Supplies,Tables,Table,1569,4,0.16,470
+115,CA-2019-100115,27-03-2019,01-04-2019,Standard Class,CUST-038,Customer 50,Corporate,India,Hyderabad,Karnataka,320328,North,PROD-030,Office Supplies,Phones,Table,23625,1,0.09,4381
+116,CA-2019-100116,12-10-2019,13-10-2019,First Class,CUST-037,Customer 27,Home Office,India,Kochi,Maharashtra,454815,South,PROD-053,Technology,Phones,Storage Box,30682,1,0.09,8849
+117,CA-2019-100117,08-03-2019,10-03-2019,First Class,CUST-035,Customer 47,Corporate,India,Mumbai,Maharashtra,907120,North,PROD-063,Office Supplies,Tables,Notebook,48465,3,0.05,13271
+118,CA-2019-100118,30-10-2019,01-11-2019,First Class,CUST-027,Customer 27,Consumer,India,Delhi,Telangana,684532,West,PROD-096,Technology,Laptops,Laptop,20147,2,0.06,3040
+119,CA-2019-100119,06-01-2019,09-01-2019,Second Class,CUST-002,Customer 26,Home Office,India,Mumbai,Telangana,993141,South,PROD-089,Office Supplies,Laptops,Chair,31951,2,0.12,5857
+120,CA-2019-100120,27-09-2019,02-10-2019,Second Class,CUST-037,Customer 34,Consumer,India,Delhi,Kerala,674256,North,PROD-002,Furniture,Phones,Table,39815,2,0.08,4431
+121,CA-2019-100121,03-07-2019,05-07-2019,Second Class,CUST-012,Customer 18,Consumer,India,Hyderabad,Tamil Nadu,719246,West,PROD-002,Technology,Storage,Notebook,54466,1,0.19,13633
+122,CA-2019-100122,15-06-2019,16-06-2019,Standard Class,CUST-045,Customer 49,Consumer,India,Kochi,Telangana,426852,South,PROD-095,Furniture,Phones,Storage Box,27130,5,0.13,4206
+123,CA-2019-100123,19-11-2019,22-11-2019,First Class,CUST-044,Customer 39,Home Office,India,Pune,Gujarat,647095,North,PROD-050,Furniture,Tables,Binder,17845,4,0.08,3361
+124,CA-2019-100124,05-03-2019,08-03-2019,Standard Class,CUST-039,Customer 18,Corporate,India,Bangalore,Karnataka,661984,South,PROD-083,Office Supplies,Laptops,Binder,30729,4,0.03,4830
+125,CA-2019-100125,07-11-2019,11-11-2019,Second Class,CUST-040,Customer 10,Consumer,India,Chennai,Karnataka,683447,North,PROD-029,Technology,Binders,Binder,32790,4,0.03,8085
+126,CA-2019-100126,31-12-2019,01-01-2020,Second Class,CUST-047,Customer 20,Corporate,India,Ahmedabad,Karnataka,379149,South,PROD-067,Furniture,Accessories,Binder,59010,3,0.12,6125
+127,CA-2019-100127,13-04-2019,17-04-2019,Standard Class,CUST-006,Customer 19,Home Office,India,Surat,Tamil Nadu,677971,North,PROD-001,Technology,Accessories,Headphones,34052,5,0.11,9039
+128,CA-2019-100128,21-02-2019,22-02-2019,Second Class,CUST-046,Customer 18,Corporate,India,Bangalore,Tamil Nadu,371526,North,PROD-031,Technology,Laptops,Headphones,23750,1,0.04,6334
+129,CA-2019-100129,20-09-2019,23-09-2019,Second Class,CUST-036,Customer 30,Home Office,India,Surat,Delhi,463034,West,PROD-033,Technology,Laptops,Binder,43958,2,0.03,6754
+130,CA-2019-100130,22-10-2019,23-10-2019,First Class,CUST-023,Customer 45,Corporate,India,Surat,Tamil Nadu,337831,South,PROD-049,Furniture,Chairs,Chair,26675,5,0.11,7303
+131,CA-2019-100131,02-07-2019,05-07-2019,First Class,CUST-043,Customer 29,Corporate,India,Hyderabad,Gujarat,728829,West,PROD-003,Office Supplies,Phones,Storage Box,49968,1,0.05,6665
+132,CA-2019-100132,09-03-2019,11-03-2019,Standard Class,CUST-041,Customer 47,Home Office,India,Mumbai,Rajasthan,836017,West,PROD-030,Office Supplies,Chairs,Table,12040,3,0.18,3009
+133,CA-2019-100133,18-01-2019,20-01-2019,First Class,CUST-050,Customer 19,Home Office,India,Delhi,Kerala,792823,West,PROD-096,Furniture,Storage,Table,57283,1,0.06,7967
+134,CA-2019-100134,20-02-2019,24-02-2019,Standard Class,CUST-043,Customer 33,Home Office,India,Kochi,Kerala,953872,West,PROD-028,Office Supplies,Storage,Chair,7471,1,0.13,1118
+135,CA-2019-100135,29-07-2019,31-07-2019,Second Class,CUST-027,Customer 6,Corporate,India,Delhi,Gujarat,278452,North,PROD-064,Technology,Binders,Table,52742,2,0.2,4624
+136,CA-2019-100136,06-07-2019,08-07-2019,Second Class,CUST-028,Customer 50,Home Office,India,Hyderabad,Rajasthan,106434,West,PROD-002,Office Supplies,Accessories,Table,21170,1,0.02,3360
+137,CA-2019-100137,29-08-2019,01-09-2019,Second Class,CUST-012,Customer 20,Corporate,India,Kochi,Maharashtra,655812,West,PROD-045,Technology,Tables,Binder,34111,2,0.04,7156
+138,CA-2019-100138,10-04-2019,15-04-2019,Second Class,CUST-012,Customer 28,Consumer,India,Bangalore,Tamil Nadu,272770,West,PROD-049,Furniture,Storage,Headphones,46434,1,0.12,9177
+139,CA-2019-100139,10-02-2019,12-02-2019,Second Class,CUST-007,Customer 33,Consumer,India,Bangalore,Maharashtra,875103,West,PROD-055,Technology,Laptops,Storage Box,28174,4,0.15,2836
+140,CA-2019-100140,03-04-2019,06-04-2019,First Class,CUST-001,Customer 11,Home Office,India,Delhi,Gujarat,581458,West,PROD-049,Office Supplies,Accessories,Headphones,59669,5,0.18,13112
+141,CA-2019-100141,12-06-2019,14-06-2019,Standard Class,CUST-050,Customer 10,Consumer,India,Bangalore,Karnataka,240953,West,PROD-050,Office Supplies,Tables,Table,41009,1,0.06,10544
+142,CA-2019-100142,23-06-2019,26-06-2019,Second Class,CUST-042,Customer 35,Home Office,India,Chennai,Maharashtra,886475,West,PROD-040,Office Supplies,Chairs,Notebook,15562,1,0.06,3454
+143,CA-2019-100143,18-03-2019,23-03-2019,First Class,CUST-031,Customer 40,Corporate,India,Kochi,Delhi,580655,South,PROD-002,Furniture,Paper,Smartphone,51524,2,0.13,7782
+144,CA-2019-100144,15-02-2019,19-02-2019,First Class,CUST-034,Customer 49,Corporate,India,Mumbai,Telangana,941812,North,PROD-086,Office Supplies,Chairs,Storage Box,58178,4,0.02,9654
+145,CA-2019-100145,14-08-2019,17-08-2019,Standard Class,CUST-043,Customer 27,Consumer,India,Kochi,Kerala,776276,North,PROD-054,Office Supplies,Tables,Smartphone,40093,1,0.09,7578
+146,CA-2019-100146,20-08-2019,23-08-2019,Standard Class,CUST-042,Customer 47,Home Office,India,Jaipur,Karnataka,433153,South,PROD-057,Office Supplies,Phones,Notebook,52118,1,0.11,5056
+147,CA-2019-100147,21-09-2019,23-09-2019,Second Class,CUST-021,Customer 9,Home Office,India,Surat,Maharashtra,387057,West,PROD-089,Technology,Laptops,Binder,42799,4,0.01,11525
+148,CA-2019-100148,14-08-2019,19-08-2019,First Class,CUST-024,Customer 36,Home Office,India,Kochi,Rajasthan,251650,North,PROD-049,Office Supplies,Laptops,Chair,24176,5,0.06,4411
+149,CA-2019-100149,26-09-2019,29-09-2019,First Class,CUST-009,Customer 40,Consumer,India,Chennai,Tamil Nadu,168473,South,PROD-051,Office Supplies,Phones,Laptop,27716,1,0.03,1391
+150,CA-2019-100150,07-09-2019,12-09-2019,Second Class,CUST-038,Customer 40,Home Office,India,Ahmedabad,Kerala,689094,North,PROD-049,Technology,Storage,Headphones,8118,1,0.01,2423
+151,CA-2019-100151,29-05-2019,03-06-2019,First Class,CUST-004,Customer 3,Consumer,India,Hyderabad,Delhi,419656,West,PROD-083,Technology,Binders,Laptop,56190,5,0.11,11386
+152,CA-2019-100152,01-01-2020,05-01-2020,Standard Class,CUST-010,Customer 25,Home Office,India,Bangalore,Gujarat,392525,North,PROD-086,Office Supplies,Paper,Laptop,16643,3,0.09,3707
+153,CA-2019-100153,20-10-2019,25-10-2019,First Class,CUST-046,Customer 16,Consumer,India,Pune,Kerala,378670,West,PROD-063,Technology,Tables,Headphones,32696,1,0.19,5182
+154,CA-2019-100154,10-03-2019,11-03-2019,First Class,CUST-033,Customer 26,Consumer,India,Ahmedabad,Rajasthan,959438,South,PROD-031,Furniture,Paper,Laptop,57870,1,0.09,17319
+155,CA-2019-100155,16-05-2019,20-05-2019,Second Class,CUST-008,Customer 42,Home Office,India,Chennai,Kerala,388420,South,PROD-025,Office Supplies,Tables,Table,25950,5,0.07,4600
+156,CA-2019-100156,17-05-2019,20-05-2019,Second Class,CUST-021,Customer 49,Consumer,India,Hyderabad,Maharashtra,261792,North,PROD-089,Office Supplies,Storage,Binder,48841,1,0.06,11302
+157,CA-2019-100157,02-06-2019,07-06-2019,First Class,CUST-032,Customer 49,Consumer,India,Chennai,Gujarat,151941,North,PROD-084,Technology,Storage,Table,33490,1,0.02,2926
+158,CA-2019-100158,05-04-2019,06-04-2019,Second Class,CUST-018,Customer 37,Corporate,India,Delhi,Tamil Nadu,574910,South,PROD-042,Office Supplies,Storage,Chair,10579,5,0.19,1145
+159,CA-2019-100159,28-01-2019,02-02-2019,Standard Class,CUST-003,Customer 37,Corporate,India,Chennai,Maharashtra,163569,North,PROD-078,Furniture,Accessories,Storage Box,3411,5,0.15,777
+160,CA-2019-100160,01-08-2019,04-08-2019,Second Class,CUST-049,Customer 21,Corporate,India,Delhi,Kerala,310463,West,PROD-010,Furniture,Phones,Table,11776,5,0.07,2332
+161,CA-2019-100161,24-05-2019,29-05-2019,Second Class,CUST-032,Customer 23,Home Office,India,Bangalore,Karnataka,332884,South,PROD-094,Office Supplies,Laptops,Table,38347,2,0.17,5291
+162,CA-2019-100162,07-06-2019,11-06-2019,First Class,CUST-038,Customer 21,Corporate,India,Surat,Maharashtra,373380,West,PROD-081,Technology,Accessories,Smartphone,52043,2,0.14,15238
+163,CA-2019-100163,22-10-2019,25-10-2019,Second Class,CUST-020,Customer 23,Consumer,India,Pune,Tamil Nadu,465951,West,PROD-087,Office Supplies,Accessories,Laptop,16264,2,0.01,2561
+164,CA-2019-100164,11-01-2019,13-01-2019,Second Class,CUST-047,Customer 6,Home Office,India,Surat,Telangana,833486,South,PROD-055,Office Supplies,Accessories,Headphones,38511,3,0.1,7407
+165,CA-2019-100165,08-08-2019,09-08-2019,Second Class,CUST-005,Customer 42,Consumer,India,Mumbai,Telangana,755495,West,PROD-094,Furniture,Accessories,Headphones,26240,5,0.12,7686
+166,CA-2019-100166,14-11-2019,16-11-2019,First Class,CUST-022,Customer 25,Consumer,India,Hyderabad,Maharashtra,998734,North,PROD-005,Furniture,Accessories,Table,51473,1,0.18,3615
+167,CA-2019-100167,18-03-2019,21-03-2019,Standard Class,CUST-003,Customer 16,Home Office,India,Ahmedabad,Telangana,463073,West,PROD-076,Technology,Accessories,Binder,708,4,0.14,151
+168,CA-2019-100168,26-11-2019,29-11-2019,Second Class,CUST-005,Customer 32,Home Office,India,Hyderabad,Rajasthan,926551,North,PROD-004,Technology,Phones,Storage Box,6388,2,0.1,813
+169,CA-2019-100169,29-07-2019,02-08-2019,Standard Class,CUST-030,Customer 17,Home Office,India,Kochi,Maharashtra,157946,North,PROD-045,Technology,Tables,Headphones,55833,5,0.05,10464
+170,CA-2019-100170,21-06-2019,26-06-2019,First Class,CUST-010,Customer 35,Consumer,India,Hyderabad,Telangana,187426,South,PROD-097,Technology,Accessories,Smartphone,28818,5,0.01,5004
+171,CA-2019-100171,23-11-2019,26-11-2019,First Class,CUST-042,Customer 26,Corporate,India,Chennai,Kerala,831098,South,PROD-064,Office Supplies,Accessories,Smartphone,1265,2,0.04,67
+172,CA-2019-100172,01-01-2020,02-01-2020,First Class,CUST-020,Customer 49,Consumer,India,Surat,Tamil Nadu,540202,North,PROD-070,Furniture,Binders,Table,10442,2,0.02,1268
+173,CA-2019-100173,06-04-2019,07-04-2019,First Class,CUST-010,Customer 8,Consumer,India,Chennai,Gujarat,618941,West,PROD-004,Technology,Chairs,Binder,56211,1,0.07,3191
+174,CA-2019-100174,01-06-2019,05-06-2019,Second Class,CUST-050,Customer 25,Home Office,India,Jaipur,Karnataka,916873,West,PROD-002,Furniture,Paper,Notebook,7981,4,0.01,476
+175,CA-2019-100175,18-05-2019,21-05-2019,First Class,CUST-014,Customer 31,Corporate,India,Pune,Delhi,463865,North,PROD-087,Office Supplies,Accessories,Smartphone,40407,2,0.17,7388
+176,CA-2019-100176,06-06-2019,08-06-2019,Standard Class,CUST-042,Customer 50,Consumer,India,Mumbai,Rajasthan,208798,West,PROD-046,Technology,Binders,Headphones,27670,2,0.13,3554
+177,CA-2019-100177,28-12-2019,31-12-2019,Standard Class,CUST-043,Customer 26,Home Office,India,Mumbai,Telangana,147055,North,PROD-005,Technology,Chairs,Smartphone,52381,2,0.08,6051
+178,CA-2019-100178,01-04-2019,06-04-2019,Second Class,CUST-021,Customer 19,Home Office,India,Bangalore,Gujarat,331189,West,PROD-092,Furniture,Paper,Laptop,24864,4,0.16,3773
+179,CA-2019-100179,11-07-2019,13-07-2019,First Class,CUST-041,Customer 31,Consumer,India,Surat,Telangana,340566,West,PROD-090,Office Supplies,Laptops,Storage Box,54517,3,0.03,6894
+180,CA-2019-100180,22-04-2019,27-04-2019,First Class,CUST-006,Customer 36,Corporate,India,Bangalore,Rajasthan,955061,North,PROD-006,Technology,Storage,Table,30392,5,0.17,4739
+181,CA-2019-100181,30-06-2019,04-07-2019,Standard Class,CUST-024,Customer 6,Corporate,India,Mumbai,Tamil Nadu,307698,North,PROD-020,Furniture,Paper,Smartphone,53177,3,0.19,10268
+182,CA-2019-100182,27-04-2019,01-05-2019,Second Class,CUST-050,Customer 11,Consumer,India,Kochi,Rajasthan,744532,West,PROD-070,Office Supplies,Binders,Laptop,49300,1,0.02,8925
+183,CA-2019-100183,23-07-2019,27-07-2019,First Class,CUST-020,Customer 8,Consumer,India,Mumbai,Rajasthan,368523,South,PROD-016,Technology,Paper,Notebook,36107,1,0.06,8603
+184,CA-2019-100184,17-06-2019,21-06-2019,First Class,CUST-046,Customer 25,Home Office,India,Kochi,Kerala,493566,North,PROD-024,Technology,Chairs,Chair,34582,5,0.12,9755
+185,CA-2019-100185,21-12-2019,25-12-2019,First Class,CUST-030,Customer 6,Home Office,India,Bangalore,Delhi,610508,South,PROD-024,Technology,Binders,Storage Box,19903,2,0.14,2067
+186,CA-2019-100186,07-03-2019,12-03-2019,First Class,CUST-002,Customer 20,Consumer,India,Chennai,Gujarat,948931,North,PROD-053,Technology,Chairs,Notebook,1804,2,0.11,405
+187,CA-2019-100187,03-06-2019,06-06-2019,Second Class,CUST-049,Customer 5,Consumer,India,Kochi,Delhi,453777,South,PROD-038,Office Supplies,Accessories,Binder,42753,5,0.03,7133
+188,CA-2019-100188,22-02-2019,23-02-2019,First Class,CUST-009,Customer 32,Corporate,India,Jaipur,Karnataka,801546,North,PROD-039,Office Supplies,Tables,Storage Box,6576,4,0.17,1587
+189,CA-2019-100189,20-07-2019,24-07-2019,Second Class,CUST-021,Customer 9,Corporate,India,Delhi,Kerala,317705,West,PROD-033,Technology,Binders,Binder,19260,2,0.08,2082
+190,CA-2019-100190,27-05-2019,31-05-2019,Second Class,CUST-040,Customer 46,Corporate,India,Pune,Rajasthan,991609,North,PROD-078,Furniture,Tables,Binder,25833,2,0.16,3088
+191,CA-2019-100191,11-07-2019,15-07-2019,Second Class,CUST-034,Customer 44,Home Office,India,Kochi,Karnataka,460896,West,PROD-009,Office Supplies,Accessories,Notebook,25530,2,0.18,3272
+192,CA-2019-100192,18-12-2019,20-12-2019,First Class,CUST-003,Customer 5,Corporate,India,Ahmedabad,Karnataka,403440,West,PROD-075,Technology,Storage,Headphones,57028,5,0.16,8253
+193,CA-2019-100193,21-10-2019,23-10-2019,First Class,CUST-010,Customer 37,Home Office,India,Ahmedabad,Gujarat,125302,South,PROD-061,Technology,Accessories,Headphones,809,2,0.17,164
+194,CA-2019-100194,11-01-2019,12-01-2019,Standard Class,CUST-037,Customer 41,Corporate,India,Hyderabad,Kerala,713733,South,PROD-009,Furniture,Storage,Chair,49609,1,0.02,2914
+195,CA-2019-100195,11-07-2019,14-07-2019,Standard Class,CUST-019,Customer 26,Home Office,India,Delhi,Telangana,241842,North,PROD-100,Furniture,Accessories,Laptop,29662,2,0.04,1601
+196,CA-2019-100196,19-04-2019,22-04-2019,Second Class,CUST-024,Customer 40,Corporate,India,Surat,Gujarat,240959,West,PROD-003,Furniture,Chairs,Storage Box,2365,1,0.04,153
+197,CA-2019-100197,09-07-2019,10-07-2019,Standard Class,CUST-012,Customer 23,Consumer,India,Bangalore,Tamil Nadu,535821,South,PROD-093,Office Supplies,Laptops,Chair,33388,1,0.06,2145
+198,CA-2019-100198,23-08-2019,25-08-2019,First Class,CUST-011,Customer 9,Home Office,India,Jaipur,Gujarat,777770,West,PROD-068,Office Supplies,Storage,Notebook,43829,4,0.12,5706
+199,CA-2019-100199,25-07-2019,29-07-2019,First Class,CUST-035,Customer 37,Home Office,India,Mumbai,Telangana,764314,West,PROD-024,Technology,Phones,Binder,18345,5,0.13,1110
+200,CA-2019-100200,12-03-2019,14-03-2019,Second Class,CUST-042,Customer 18,Corporate,India,Hyderabad,Telangana,579449,North,PROD-009,Technology,Tables,Smartphone,8928,5,0.16,1150
+201,CA-2019-100201,12-05-2019,15-05-2019,Standard Class,CUST-020,Customer 48,Home Office,India,Bangalore,Tamil Nadu,616069,South,PROD-043,Technology,Binders,Chair,12848,4,0.09,2353
+202,CA-2019-100202,19-04-2019,21-04-2019,First Class,CUST-018,Customer 15,Corporate,India,Ahmedabad,Delhi,689226,West,PROD-060,Technology,Storage,Storage Box,37116,5,0.02,7180
+203,CA-2019-100203,07-11-2019,08-11-2019,First Class,CUST-019,Customer 31,Consumer,India,Pune,Tamil Nadu,511246,North,PROD-026,Technology,Laptops,Binder,26940,5,0.06,4818
+204,CA-2019-100204,25-06-2019,26-06-2019,Second Class,CUST-030,Customer 17,Consumer,India,Chennai,Maharashtra,520220,North,PROD-056,Office Supplies,Phones,Laptop,20679,2,0.1,4298
+205,CA-2019-100205,30-09-2019,04-10-2019,Second Class,CUST-005,Customer 6,Corporate,India,Chennai,Karnataka,609884,North,PROD-097,Furniture,Chairs,Table,31869,3,0.07,8323
+206,CA-2019-100206,04-04-2019,09-04-2019,Second Class,CUST-031,Customer 11,Home Office,India,Jaipur,Delhi,752340,West,PROD-085,Office Supplies,Accessories,Binder,27459,3,0.1,2933
+207,CA-2019-100207,29-12-2019,30-12-2019,Standard Class,CUST-034,Customer 21,Corporate,India,Pune,Maharashtra,724016,South,PROD-013,Office Supplies,Storage,Headphones,50138,4,0.05,4870
+208,CA-2019-100208,06-12-2019,09-12-2019,Second Class,CUST-015,Customer 21,Corporate,India,Bangalore,Rajasthan,247611,North,PROD-089,Furniture,Chairs,Smartphone,15181,3,0.05,3992
+209,CA-2019-100209,02-08-2019,07-08-2019,Standard Class,CUST-042,Customer 23,Home Office,India,Delhi,Karnataka,537991,West,PROD-099,Furniture,Paper,Storage Box,12949,3,0.17,3039
+210,CA-2019-100210,16-07-2019,20-07-2019,Second Class,CUST-049,Customer 27,Consumer,India,Surat,Delhi,858491,North,PROD-083,Furniture,Paper,Chair,30580,5,0.03,4080
+211,CA-2019-100211,28-05-2019,31-05-2019,Standard Class,CUST-014,Customer 43,Home Office,India,Surat,Maharashtra,602263,West,PROD-069,Technology,Storage,Binder,6913,3,0.17,575
+212,CA-2019-100212,25-10-2019,27-10-2019,Standard Class,CUST-021,Customer 45,Home Office,India,Hyderabad,Kerala,871950,West,PROD-072,Technology,Accessories,Storage Box,27786,1,0.18,3663
+213,CA-2019-100213,28-11-2019,03-12-2019,First Class,CUST-049,Customer 13,Corporate,India,Surat,Rajasthan,885293,West,PROD-080,Office Supplies,Accessories,Binder,12349,4,0.07,1591
+214,CA-2019-100214,10-03-2019,11-03-2019,Second Class,CUST-041,Customer 40,Corporate,India,Jaipur,Karnataka,235556,South,PROD-039,Furniture,Chairs,Smartphone,53100,1,0.19,12843
+215,CA-2019-100215,27-02-2019,03-03-2019,First Class,CUST-038,Customer 15,Corporate,India,Delhi,Tamil Nadu,826698,North,PROD-014,Furniture,Phones,Binder,37776,5,0.04,7892
+216,CA-2019-100216,06-07-2019,10-07-2019,First Class,CUST-022,Customer 2,Corporate,India,Delhi,Karnataka,859001,South,PROD-057,Furniture,Binders,Smartphone,10315,4,0.14,2481
+217,CA-2019-100217,08-04-2019,13-04-2019,Second Class,CUST-047,Customer 25,Home Office,India,Hyderabad,Delhi,238034,South,PROD-042,Furniture,Tables,Binder,43918,1,0.15,4383
+218,CA-2019-100218,21-10-2019,26-10-2019,Second Class,CUST-036,Customer 46,Corporate,India,Kochi,Karnataka,672109,South,PROD-079,Office Supplies,Storage,Chair,46913,4,0.12,10081
+219,CA-2019-100219,13-12-2019,18-12-2019,First Class,CUST-008,Customer 26,Corporate,India,Kochi,Kerala,786212,West,PROD-054,Furniture,Chairs,Chair,24860,5,0.1,4195
+220,CA-2019-100220,14-07-2019,16-07-2019,Second Class,CUST-034,Customer 37,Consumer,India,Jaipur,Kerala,903268,North,PROD-033,Office Supplies,Paper,Laptop,38276,5,0.08,8763
+221,CA-2019-100221,17-03-2019,19-03-2019,Second Class,CUST-036,Customer 8,Home Office,India,Chennai,Kerala,710415,North,PROD-014,Office Supplies,Accessories,Laptop,33207,5,0.02,3217
+222,CA-2019-100222,21-05-2019,24-05-2019,First Class,CUST-003,Customer 22,Corporate,India,Bangalore,Delhi,528506,West,PROD-074,Office Supplies,Accessories,Notebook,58567,4,0.09,14027
+223,CA-2019-100223,13-12-2019,14-12-2019,Standard Class,CUST-002,Customer 22,Consumer,India,Delhi,Maharashtra,420779,North,PROD-037,Technology,Binders,Binder,57150,4,0.17,9178
+224,CA-2019-100224,22-02-2019,26-02-2019,Standard Class,CUST-005,Customer 43,Home Office,India,Chennai,Kerala,164348,North,PROD-096,Furniture,Accessories,Chair,25680,1,0.04,6725
+225,CA-2019-100225,06-09-2019,07-09-2019,Second Class,CUST-041,Customer 5,Corporate,India,Chennai,Gujarat,345429,North,PROD-009,Furniture,Laptops,Storage Box,34718,1,0.06,2903
+226,CA-2019-100226,16-08-2019,20-08-2019,Standard Class,CUST-023,Customer 1,Corporate,India,Hyderabad,Gujarat,306795,North,PROD-080,Technology,Accessories,Laptop,29742,2,0.1,2334
+227,CA-2019-100227,24-04-2019,25-04-2019,First Class,CUST-013,Customer 5,Consumer,India,Kochi,Telangana,956864,North,PROD-095,Office Supplies,Paper,Chair,6605,3,0.09,1548
+228,CA-2019-100228,12-06-2019,17-06-2019,Second Class,CUST-021,Customer 2,Home Office,India,Bangalore,Gujarat,821799,West,PROD-013,Office Supplies,Phones,Notebook,38083,2,0.16,3482
+229,CA-2019-100229,09-10-2019,11-10-2019,Standard Class,CUST-046,Customer 8,Home Office,India,Ahmedabad,Tamil Nadu,964539,North,PROD-054,Furniture,Paper,Table,39543,5,0.07,5735
+230,CA-2019-100230,14-04-2019,16-04-2019,First Class,CUST-010,Customer 7,Corporate,India,Surat,Maharashtra,806026,South,PROD-005,Furniture,Binders,Smartphone,14030,4,0.12,3418
+231,CA-2019-100231,04-05-2019,08-05-2019,First Class,CUST-008,Customer 12,Corporate,India,Bangalore,Gujarat,260188,West,PROD-049,Furniture,Tables,Binder,27731,4,0.13,3999
+232,CA-2019-100232,06-03-2019,09-03-2019,Second Class,CUST-050,Customer 35,Consumer,India,Mumbai,Maharashtra,163033,North,PROD-082,Office Supplies,Storage,Smartphone,36989,1,0.03,8251
+233,CA-2019-100233,19-08-2019,21-08-2019,Second Class,CUST-014,Customer 47,Corporate,India,Pune,Gujarat,783649,South,PROD-078,Furniture,Storage,Headphones,13597,2,0.16,2077
+234,CA-2019-100234,03-03-2019,06-03-2019,Standard Class,CUST-044,Customer 38,Home Office,India,Chennai,Telangana,711163,North,PROD-099,Furniture,Chairs,Headphones,14129,5,0.09,2524
+235,CA-2019-100235,26-11-2019,29-11-2019,Standard Class,CUST-025,Customer 31,Corporate,India,Hyderabad,Telangana,170495,South,PROD-001,Furniture,Laptops,Chair,25140,5,0.19,5821
+236,CA-2019-100236,04-07-2019,08-07-2019,Standard Class,CUST-018,Customer 45,Consumer,India,Surat,Telangana,422337,West,PROD-097,Furniture,Paper,Table,38745,4,0.17,6998
+237,CA-2019-100237,23-03-2019,25-03-2019,Standard Class,CUST-025,Customer 36,Consumer,India,Bangalore,Maharashtra,149496,South,PROD-089,Furniture,Tables,Chair,39861,1,0.18,4443
+238,CA-2019-100238,04-10-2019,05-10-2019,First Class,CUST-043,Customer 46,Corporate,India,Ahmedabad,Gujarat,643946,North,PROD-037,Office Supplies,Laptops,Chair,31450,2,0.18,8172
+239,CA-2019-100239,07-06-2019,08-06-2019,Standard Class,CUST-004,Customer 42,Consumer,India,Chennai,Karnataka,464094,West,PROD-025,Office Supplies,Chairs,Notebook,26231,5,0.04,3626
+240,CA-2019-100240,24-02-2019,25-02-2019,Standard Class,CUST-003,Customer 33,Home Office,India,Surat,Delhi,952422,North,PROD-075,Technology,Accessories,Headphones,12808,3,0.09,1722
+241,CA-2019-100241,11-01-2019,12-01-2019,Second Class,CUST-041,Customer 22,Home Office,India,Pune,Delhi,914745,South,PROD-074,Furniture,Paper,Smartphone,57870,1,0.13,10662
+242,CA-2019-100242,18-05-2019,19-05-2019,Second Class,CUST-049,Customer 26,Home Office,India,Pune,Tamil Nadu,401558,West,PROD-065,Furniture,Storage,Binder,6800,4,0.1,977
+243,CA-2019-100243,30-01-2019,03-02-2019,Second Class,CUST-035,Customer 12,Corporate,India,Hyderabad,Tamil Nadu,641114,West,PROD-024,Furniture,Tables,Notebook,35628,1,0.07,10200
+244,CA-2019-100244,02-04-2019,04-04-2019,First Class,CUST-047,Customer 38,Consumer,India,Surat,Telangana,804032,North,PROD-087,Office Supplies,Paper,Table,43130,1,0.18,4625
+245,CA-2019-100245,08-06-2019,09-06-2019,Standard Class,CUST-014,Customer 1,Corporate,India,Delhi,Rajasthan,185595,North,PROD-038,Office Supplies,Binders,Binder,15455,5,0.16,2182
+246,CA-2019-100246,19-07-2019,22-07-2019,First Class,CUST-030,Customer 8,Consumer,India,Pune,Telangana,406367,North,PROD-033,Furniture,Laptops,Storage Box,47667,2,0.13,6710
+247,CA-2019-100247,03-04-2019,06-04-2019,Second Class,CUST-007,Customer 34,Home Office,India,Hyderabad,Gujarat,976209,North,PROD-084,Office Supplies,Storage,Storage Box,56853,4,0.14,5168
+248,CA-2019-100248,29-06-2019,01-07-2019,Second Class,CUST-011,Customer 27,Home Office,India,Ahmedabad,Rajasthan,392106,North,PROD-048,Furniture,Chairs,Table,33620,5,0.02,8359
+249,CA-2019-100249,21-07-2019,25-07-2019,First Class,CUST-015,Customer 8,Corporate,India,Mumbai,Gujarat,312527,West,PROD-059,Furniture,Phones,Laptop,8316,1,0.14,1916
+250,CA-2019-100250,20-03-2019,22-03-2019,Second Class,CUST-037,Customer 40,Home Office,India,Surat,Maharashtra,802179,South,PROD-062,Office Supplies,Laptops,Binder,38087,3,0.02,10917
+251,CA-2019-100251,03-05-2019,08-05-2019,Second Class,CUST-047,Customer 47,Consumer,India,Jaipur,Telangana,874321,North,PROD-044,Technology,Storage,Notebook,27207,3,0.14,2203
+252,CA-2019-100252,05-07-2019,09-07-2019,Standard Class,CUST-038,Customer 2,Consumer,India,Bangalore,Telangana,636223,West,PROD-048,Furniture,Laptops,Headphones,21370,1,0.19,5208
+253,CA-2019-100253,23-03-2019,24-03-2019,Second Class,CUST-010,Customer 49,Corporate,India,Jaipur,Tamil Nadu,764996,West,PROD-088,Office Supplies,Chairs,Storage Box,22816,3,0.07,6044
+254,CA-2019-100254,11-05-2019,12-05-2019,First Class,CUST-001,Customer 46,Home Office,India,Jaipur,Tamil Nadu,207218,North,PROD-076,Technology,Binders,Notebook,22559,5,0.19,1669
+255,CA-2019-100255,02-11-2019,05-11-2019,First Class,CUST-018,Customer 9,Consumer,India,Mumbai,Tamil Nadu,514051,South,PROD-052,Furniture,Binders,Storage Box,13420,5,0.04,2563
+256,CA-2019-100256,08-09-2019,09-09-2019,Second Class,CUST-003,Customer 5,Home Office,India,Delhi,Telangana,266454,West,PROD-058,Technology,Binders,Headphones,42231,5,0.15,11532
+257,CA-2019-100257,01-02-2019,03-02-2019,First Class,CUST-028,Customer 22,Home Office,India,Jaipur,Delhi,648285,South,PROD-072,Technology,Storage,Table,47254,3,0.11,7233
+258,CA-2019-100258,14-12-2019,17-12-2019,Second Class,CUST-033,Customer 18,Consumer,India,Ahmedabad,Rajasthan,332442,West,PROD-075,Office Supplies,Paper,Table,58020,2,0.01,15987
+259,CA-2019-100259,13-12-2019,17-12-2019,Standard Class,CUST-020,Customer 23,Home Office,India,Kochi,Delhi,817540,South,PROD-091,Technology,Tables,Binder,58023,3,0.11,16082
+260,CA-2019-100260,14-05-2019,16-05-2019,Second Class,CUST-050,Customer 12,Corporate,India,Hyderabad,Tamil Nadu,824558,North,PROD-057,Technology,Tables,Storage Box,27693,4,0.06,2443
+261,CA-2019-100261,20-10-2019,23-10-2019,Standard Class,CUST-021,Customer 46,Corporate,India,Hyderabad,Kerala,914001,West,PROD-035,Office Supplies,Binders,Chair,3910,1,0.18,981
+262,CA-2019-100262,28-01-2019,29-01-2019,Second Class,CUST-016,Customer 7,Corporate,India,Pune,Maharashtra,933858,North,PROD-041,Technology,Binders,Notebook,32752,4,0.15,5929
+263,CA-2019-100263,22-07-2019,25-07-2019,Second Class,CUST-003,Customer 10,Home Office,India,Chennai,Telangana,798323,South,PROD-054,Office Supplies,Paper,Headphones,42696,4,0.14,12034
+264,CA-2019-100264,01-06-2019,06-06-2019,Second Class,CUST-023,Customer 28,Consumer,India,Hyderabad,Gujarat,239454,North,PROD-022,Technology,Tables,Smartphone,10771,3,0.1,913
+265,CA-2019-100265,31-08-2019,05-09-2019,First Class,CUST-007,Customer 46,Consumer,India,Pune,Telangana,296518,South,PROD-055,Furniture,Chairs,Table,56245,1,0.17,7239
+266,CA-2019-100266,11-06-2019,16-06-2019,Second Class,CUST-005,Customer 15,Corporate,India,Pune,Maharashtra,934699,North,PROD-051,Furniture,Binders,Binder,8993,5,0.2,691
+267,CA-2019-100267,26-08-2019,28-08-2019,Second Class,CUST-038,Customer 26,Consumer,India,Jaipur,Tamil Nadu,347613,South,PROD-019,Furniture,Laptops,Storage Box,36293,5,0.16,4238
+268,CA-2019-100268,16-05-2019,19-05-2019,Standard Class,CUST-036,Customer 27,Home Office,India,Bangalore,Telangana,481288,West,PROD-017,Technology,Accessories,Binder,50762,5,0.19,5397
+269,CA-2019-100269,16-12-2019,21-12-2019,Second Class,CUST-043,Customer 39,Consumer,India,Hyderabad,Gujarat,226087,North,PROD-070,Furniture,Accessories,Notebook,45330,1,0.11,12548
+270,CA-2019-100270,05-09-2019,08-09-2019,First Class,CUST-003,Customer 27,Consumer,India,Mumbai,Rajasthan,619125,West,PROD-048,Furniture,Tables,Headphones,41003,3,0.05,10943
+271,CA-2019-100271,16-12-2019,18-12-2019,Standard Class,CUST-026,Customer 38,Consumer,India,Ahmedabad,Tamil Nadu,460636,North,PROD-022,Technology,Laptops,Storage Box,22171,2,0.02,1488
+272,CA-2019-100272,13-04-2019,17-04-2019,Standard Class,CUST-042,Customer 39,Consumer,India,Ahmedabad,Delhi,512270,West,PROD-039,Furniture,Paper,Chair,18477,3,0.06,1376
+273,CA-2019-100273,27-08-2019,31-08-2019,Second Class,CUST-040,Customer 2,Home Office,India,Ahmedabad,Kerala,926482,North,PROD-018,Furniture,Binders,Table,11348,3,0.08,994
+274,CA-2019-100274,27-12-2019,01-01-2020,Second Class,CUST-035,Customer 44,Consumer,India,Kochi,Telangana,241520,South,PROD-086,Furniture,Storage,Laptop,35769,1,0.12,6940
+275,CA-2019-100275,20-02-2019,24-02-2019,Standard Class,CUST-037,Customer 2,Home Office,India,Surat,Maharashtra,603588,West,PROD-086,Office Supplies,Accessories,Binder,30485,2,0.07,5882
+276,CA-2019-100276,27-04-2019,01-05-2019,Second Class,CUST-007,Customer 8,Home Office,India,Hyderabad,Gujarat,477220,South,PROD-087,Technology,Paper,Notebook,54078,5,0.11,13039
+277,CA-2019-100277,19-12-2019,24-12-2019,Standard Class,CUST-006,Customer 49,Home Office,India,Ahmedabad,Rajasthan,480122,North,PROD-022,Office Supplies,Storage,Storage Box,30394,4,0.19,5956
+278,CA-2019-100278,17-11-2019,20-11-2019,Standard Class,CUST-033,Customer 3,Corporate,India,Pune,Gujarat,163554,West,PROD-022,Furniture,Storage,Smartphone,18331,4,0.17,5033
+279,CA-2019-100279,15-01-2019,20-01-2019,First Class,CUST-033,Customer 36,Consumer,India,Bangalore,Rajasthan,436236,North,PROD-023,Technology,Laptops,Binder,43298,5,0.13,8885
+280,CA-2019-100280,06-02-2019,08-02-2019,First Class,CUST-039,Customer 42,Home Office,India,Pune,Gujarat,749917,West,PROD-073,Furniture,Binders,Chair,53345,5,0.04,6060
+281,CA-2019-100281,19-07-2019,20-07-2019,First Class,CUST-026,Customer 13,Home Office,India,Kochi,Telangana,634159,South,PROD-060,Office Supplies,Accessories,Smartphone,20148,2,0.12,1508
+282,CA-2019-100282,29-08-2019,02-09-2019,Second Class,CUST-041,Customer 43,Corporate,India,Delhi,Tamil Nadu,715698,South,PROD-080,Furniture,Tables,Table,14378,5,0.02,1606
+283,CA-2019-100283,29-05-2019,30-05-2019,Standard Class,CUST-024,Customer 4,Home Office,India,Kochi,Telangana,270685,West,PROD-021,Furniture,Paper,Binder,8295,3,0.09,1500
+284,CA-2019-100284,06-07-2019,09-07-2019,Second Class,CUST-001,Customer 6,Consumer,India,Surat,Maharashtra,546201,South,PROD-057,Technology,Tables,Laptop,48310,4,0.04,9469
+285,CA-2019-100285,25-09-2019,26-09-2019,Standard Class,CUST-034,Customer 20,Consumer,India,Hyderabad,Rajasthan,680036,South,PROD-045,Furniture,Chairs,Smartphone,36213,3,0.03,8954
+286,CA-2019-100286,01-10-2019,02-10-2019,Second Class,CUST-011,Customer 37,Consumer,India,Delhi,Rajasthan,629736,South,PROD-037,Office Supplies,Phones,Notebook,27440,5,0.08,1724
+287,CA-2019-100287,09-12-2019,14-12-2019,Standard Class,CUST-009,Customer 19,Consumer,India,Ahmedabad,Gujarat,913102,South,PROD-057,Furniture,Binders,Storage Box,6156,1,0.06,1134
+288,CA-2019-100288,09-06-2019,10-06-2019,Second Class,CUST-014,Customer 50,Corporate,India,Pune,Kerala,816621,North,PROD-073,Office Supplies,Paper,Headphones,32900,4,0.12,8091
+289,CA-2019-100289,26-12-2019,27-12-2019,First Class,CUST-047,Customer 31,Corporate,India,Surat,Karnataka,832944,South,PROD-023,Furniture,Binders,Notebook,8466,2,0.2,2150
+290,CA-2019-100290,06-06-2019,08-06-2019,First Class,CUST-021,Customer 12,Consumer,India,Pune,Delhi,158010,South,PROD-024,Technology,Storage,Table,50570,5,0.03,13717
+291,CA-2019-100291,13-09-2019,17-09-2019,Second Class,CUST-047,Customer 8,Corporate,India,Pune,Karnataka,774023,North,PROD-024,Office Supplies,Laptops,Storage Box,2522,3,0.15,521
+292,CA-2019-100292,16-09-2019,21-09-2019,Standard Class,CUST-029,Customer 33,Corporate,India,Hyderabad,Kerala,601813,West,PROD-049,Office Supplies,Tables,Table,34149,4,0.15,9998
+293,CA-2019-100293,20-06-2019,22-06-2019,Standard Class,CUST-026,Customer 12,Home Office,India,Jaipur,Gujarat,761772,North,PROD-063,Technology,Tables,Binder,58064,4,0.14,4458
+294,CA-2019-100294,23-11-2019,28-11-2019,First Class,CUST-013,Customer 7,Consumer,India,Pune,Delhi,564699,West,PROD-049,Office Supplies,Tables,Storage Box,13687,2,0.11,928
+295,CA-2019-100295,29-12-2019,30-12-2019,Second Class,CUST-036,Customer 28,Consumer,India,Chennai,Gujarat,785214,West,PROD-046,Technology,Chairs,Headphones,54325,4,0.13,11225
+296,CA-2019-100296,02-09-2019,03-09-2019,Second Class,CUST-001,Customer 16,Consumer,India,Surat,Tamil Nadu,446329,South,PROD-094,Furniture,Laptops,Headphones,54534,2,0.1,16274
+297,CA-2019-100297,05-02-2019,07-02-2019,Second Class,CUST-046,Customer 32,Home Office,India,Kochi,Rajasthan,348722,North,PROD-040,Furniture,Chairs,Binder,19711,4,0.06,1502
+298,CA-2019-100298,13-01-2019,18-01-2019,Second Class,CUST-010,Customer 43,Consumer,India,Mumbai,Rajasthan,233053,North,PROD-082,Furniture,Accessories,Table,10918,3,0.09,1497
+299,CA-2019-100299,18-11-2019,21-11-2019,Second Class,CUST-009,Customer 40,Corporate,India,Mumbai,Rajasthan,743930,West,PROD-025,Technology,Accessories,Storage Box,12117,4,0.17,2348
+300,CA-2019-100300,19-11-2019,23-11-2019,Second Class,CUST-016,Customer 21,Home Office,India,Mumbai,Tamil Nadu,689043,South,PROD-040,Office Supplies,Chairs,Headphones,9146,4,0.16,528
+301,CA-2019-100301,18-03-2019,21-03-2019,First Class,CUST-019,Customer 49,Corporate,India,Bangalore,Rajasthan,933976,West,PROD-084,Office Supplies,Laptops,Smartphone,39300,4,0.13,7442
+302,CA-2019-100302,15-04-2019,17-04-2019,First Class,CUST-045,Customer 12,Consumer,India,Surat,Karnataka,815496,West,PROD-032,Furniture,Tables,Laptop,32255,5,0.09,7213
+303,CA-2019-100303,11-11-2019,16-11-2019,First Class,CUST-036,Customer 15,Consumer,India,Hyderabad,Telangana,628870,South,PROD-032,Office Supplies,Laptops,Chair,21364,4,0.02,2993
+304,CA-2019-100304,05-04-2019,06-04-2019,Standard Class,CUST-017,Customer 8,Home Office,India,Ahmedabad,Gujarat,982380,North,PROD-069,Office Supplies,Storage,Notebook,55333,5,0.11,12342
+305,CA-2019-100305,16-02-2019,17-02-2019,Second Class,CUST-005,Customer 15,Corporate,India,Hyderabad,Telangana,126605,North,PROD-065,Furniture,Accessories,Laptop,6378,5,0.03,592
+306,CA-2019-100306,08-02-2019,09-02-2019,Second Class,CUST-004,Customer 43,Consumer,India,Hyderabad,Kerala,734383,North,PROD-018,Furniture,Paper,Headphones,34366,2,0.19,3901
+307,CA-2019-100307,21-09-2019,24-09-2019,Standard Class,CUST-038,Customer 31,Home Office,India,Delhi,Gujarat,643550,South,PROD-027,Technology,Paper,Chair,31747,4,0.2,1790
+308,CA-2019-100308,23-10-2019,25-10-2019,First Class,CUST-035,Customer 23,Home Office,India,Bangalore,Rajasthan,997345,North,PROD-015,Technology,Chairs,Chair,11433,3,0.09,2241
+309,CA-2019-100309,05-03-2019,08-03-2019,First Class,CUST-008,Customer 4,Home Office,India,Pune,Telangana,707729,North,PROD-091,Furniture,Laptops,Laptop,53326,1,0.03,3562
+310,CA-2019-100310,15-09-2019,19-09-2019,Standard Class,CUST-041,Customer 36,Home Office,India,Mumbai,Maharashtra,868689,West,PROD-053,Furniture,Laptops,Storage Box,52715,4,0.02,6662
+311,CA-2019-100311,06-04-2019,08-04-2019,First Class,CUST-027,Customer 31,Corporate,India,Chennai,Telangana,361155,West,PROD-068,Office Supplies,Binders,Table,1220,4,0.03,77
+312,CA-2019-100312,07-09-2019,11-09-2019,First Class,CUST-012,Customer 39,Home Office,India,Delhi,Telangana,774417,West,PROD-036,Technology,Storage,Headphones,43286,4,0.09,12794
+313,CA-2019-100313,17-03-2019,21-03-2019,Second Class,CUST-018,Customer 44,Corporate,India,Chennai,Tamil Nadu,310045,West,PROD-013,Office Supplies,Paper,Binder,46199,4,0.02,8111
+314,CA-2019-100314,26-12-2019,31-12-2019,First Class,CUST-042,Customer 12,Home Office,India,Jaipur,Maharashtra,269034,North,PROD-052,Technology,Binders,Smartphone,48743,2,0.06,12818
+315,CA-2019-100315,27-08-2019,01-09-2019,Second Class,CUST-021,Customer 3,Home Office,India,Pune,Tamil Nadu,227517,North,PROD-085,Office Supplies,Accessories,Binder,42992,3,0.08,11900
+316,CA-2019-100316,17-12-2019,20-12-2019,Standard Class,CUST-028,Customer 42,Corporate,India,Bangalore,Maharashtra,844254,South,PROD-036,Technology,Paper,Smartphone,52945,4,0.09,9051
+317,CA-2019-100317,02-09-2019,05-09-2019,First Class,CUST-026,Customer 36,Home Office,India,Mumbai,Gujarat,546269,North,PROD-082,Furniture,Paper,Notebook,11270,3,0.14,2054
+318,CA-2019-100318,03-06-2019,04-06-2019,Second Class,CUST-021,Customer 32,Corporate,India,Hyderabad,Rajasthan,311057,North,PROD-085,Technology,Binders,Smartphone,3300,3,0.09,533
+319,CA-2019-100319,14-09-2019,19-09-2019,Standard Class,CUST-032,Customer 9,Home Office,India,Pune,Kerala,937347,West,PROD-055,Furniture,Tables,Notebook,17017,3,0.2,3094
+320,CA-2019-100320,09-10-2019,13-10-2019,First Class,CUST-035,Customer 20,Home Office,India,Surat,Kerala,753840,North,PROD-076,Furniture,Paper,Table,17743,4,0.01,5087
+321,CA-2019-100321,13-09-2019,14-09-2019,First Class,CUST-009,Customer 19,Corporate,India,Kochi,Rajasthan,564815,North,PROD-038,Furniture,Storage,Notebook,14645,1,0.17,2182
+322,CA-2019-100322,19-05-2019,24-05-2019,Standard Class,CUST-025,Customer 12,Consumer,India,Kochi,Kerala,393934,West,PROD-098,Furniture,Accessories,Binder,11747,5,0.13,3004
+323,CA-2019-100323,09-03-2019,14-03-2019,Second Class,CUST-028,Customer 17,Consumer,India,Kochi,Delhi,405471,North,PROD-059,Office Supplies,Paper,Smartphone,57952,1,0.13,10817
+324,CA-2019-100324,08-12-2019,12-12-2019,Standard Class,CUST-013,Customer 38,Corporate,India,Bangalore,Kerala,994009,West,PROD-032,Office Supplies,Phones,Storage Box,10179,2,0.19,2327
+325,CA-2019-100325,03-10-2019,08-10-2019,First Class,CUST-044,Customer 29,Consumer,India,Pune,Tamil Nadu,167319,West,PROD-052,Technology,Chairs,Notebook,59151,5,0.17,10644
+326,CA-2019-100326,17-02-2019,19-02-2019,Standard Class,CUST-011,Customer 26,Home Office,India,Jaipur,Maharashtra,649913,North,PROD-021,Office Supplies,Binders,Table,52089,5,0.16,5062
+327,CA-2019-100327,22-05-2019,24-05-2019,First Class,CUST-006,Customer 31,Corporate,India,Chennai,Telangana,879835,North,PROD-021,Technology,Binders,Laptop,14060,2,0.19,985
+328,CA-2019-100328,12-10-2019,13-10-2019,Second Class,CUST-048,Customer 1,Consumer,India,Ahmedabad,Delhi,832135,South,PROD-082,Office Supplies,Phones,Smartphone,12122,1,0.18,1151
+329,CA-2019-100329,17-04-2019,22-04-2019,Standard Class,CUST-047,Customer 37,Home Office,India,Chennai,Telangana,635919,North,PROD-007,Office Supplies,Paper,Chair,34902,1,0.07,6027
+330,CA-2019-100330,24-02-2019,28-02-2019,Second Class,CUST-022,Customer 15,Consumer,India,Pune,Rajasthan,200352,South,PROD-035,Technology,Accessories,Laptop,44792,4,0.12,9883
+331,CA-2019-100331,19-01-2019,24-01-2019,Standard Class,CUST-027,Customer 22,Corporate,India,Surat,Gujarat,687983,South,PROD-066,Furniture,Tables,Laptop,15170,5,0.06,3740
+332,CA-2019-100332,26-09-2019,29-09-2019,First Class,CUST-050,Customer 21,Consumer,India,Pune,Rajasthan,513856,South,PROD-026,Furniture,Binders,Chair,41522,5,0.04,4870
+333,CA-2019-100333,04-07-2019,07-07-2019,Standard Class,CUST-025,Customer 37,Consumer,India,Hyderabad,Maharashtra,507619,South,PROD-067,Office Supplies,Chairs,Notebook,35850,4,0.11,10028
+334,CA-2019-100334,12-07-2019,15-07-2019,Standard Class,CUST-012,Customer 7,Corporate,India,Kochi,Telangana,850383,South,PROD-033,Furniture,Tables,Binder,57970,5,0.19,10326
+335,CA-2019-100335,29-09-2019,30-09-2019,Standard Class,CUST-048,Customer 14,Home Office,India,Mumbai,Delhi,105344,West,PROD-081,Furniture,Phones,Binder,45005,5,0.17,13125
+336,CA-2019-100336,30-11-2019,01-12-2019,Standard Class,CUST-033,Customer 2,Consumer,India,Jaipur,Rajasthan,907315,North,PROD-071,Office Supplies,Accessories,Table,9567,3,0.15,2706
+337,CA-2019-100337,28-12-2019,30-12-2019,Standard Class,CUST-022,Customer 39,Home Office,India,Pune,Karnataka,955885,West,PROD-092,Office Supplies,Tables,Table,11367,4,0.02,1829
+338,CA-2019-100338,10-04-2019,11-04-2019,First Class,CUST-038,Customer 9,Home Office,India,Pune,Karnataka,887855,West,PROD-055,Furniture,Tables,Storage Box,47776,1,0.05,13749
+339,CA-2019-100339,15-11-2019,19-11-2019,Standard Class,CUST-019,Customer 1,Consumer,India,Delhi,Telangana,845139,North,PROD-008,Office Supplies,Tables,Storage Box,56730,5,0.17,6578
+340,CA-2019-100340,28-05-2019,30-05-2019,Second Class,CUST-018,Customer 29,Consumer,India,Delhi,Maharashtra,522212,West,PROD-063,Furniture,Laptops,Headphones,617,3,0.03,143
+341,CA-2019-100341,19-07-2019,20-07-2019,Standard Class,CUST-044,Customer 11,Corporate,India,Kochi,Delhi,926810,South,PROD-009,Furniture,Storage,Smartphone,35408,2,0.16,4255
+342,CA-2019-100342,20-03-2019,22-03-2019,Standard Class,CUST-041,Customer 46,Home Office,India,Hyderabad,Rajasthan,162088,West,PROD-005,Technology,Tables,Laptop,13083,2,0.05,3531
+343,CA-2019-100343,20-01-2019,21-01-2019,Second Class,CUST-007,Customer 7,Home Office,India,Pune,Rajasthan,837395,North,PROD-074,Furniture,Storage,Storage Box,53210,1,0.17,4802
+344,CA-2019-100344,19-04-2019,24-04-2019,Second Class,CUST-047,Customer 12,Home Office,India,Bangalore,Telangana,230342,South,PROD-011,Technology,Paper,Binder,28977,3,0.11,1872
+345,CA-2019-100345,30-04-2019,03-05-2019,Second Class,CUST-033,Customer 19,Home Office,India,Surat,Maharashtra,185100,West,PROD-067,Furniture,Laptops,Chair,10785,5,0.14,918
+346,CA-2019-100346,12-10-2019,14-10-2019,Second Class,CUST-022,Customer 18,Consumer,India,Surat,Telangana,965314,North,PROD-071,Office Supplies,Phones,Storage Box,34054,4,0.06,4768
+347,CA-2019-100347,28-04-2019,02-05-2019,Second Class,CUST-007,Customer 30,Home Office,India,Bangalore,Maharashtra,942563,West,PROD-039,Office Supplies,Paper,Notebook,2763,1,0.15,677
+348,CA-2019-100348,20-06-2019,25-06-2019,Second Class,CUST-015,Customer 9,Home Office,India,Chennai,Delhi,550859,North,PROD-013,Technology,Laptops,Chair,20847,1,0.2,1102
+349,CA-2019-100349,21-04-2019,25-04-2019,Standard Class,CUST-034,Customer 46,Corporate,India,Pune,Karnataka,635180,South,PROD-071,Technology,Storage,Smartphone,44220,5,0.04,12758
+350,CA-2019-100350,02-03-2019,07-03-2019,First Class,CUST-046,Customer 5,Corporate,India,Surat,Tamil Nadu,863572,West,PROD-015,Office Supplies,Accessories,Storage Box,34920,2,0.17,7960
+351,CA-2019-100351,20-09-2019,21-09-2019,First Class,CUST-035,Customer 10,Consumer,India,Hyderabad,Tamil Nadu,433904,West,PROD-088,Technology,Phones,Headphones,9052,5,0.17,2193
+352,CA-2019-100352,19-01-2019,21-01-2019,Standard Class,CUST-024,Customer 30,Home Office,India,Chennai,Kerala,756999,South,PROD-065,Furniture,Storage,Headphones,13878,4,0.14,3299
+353,CA-2019-100353,20-06-2019,25-06-2019,Second Class,CUST-024,Customer 50,Corporate,India,Mumbai,Maharashtra,593386,South,PROD-006,Office Supplies,Tables,Headphones,37819,3,0.16,10986
+354,CA-2019-100354,24-01-2019,29-01-2019,Second Class,CUST-049,Customer 35,Home Office,India,Pune,Rajasthan,521033,South,PROD-062,Furniture,Phones,Table,2660,5,0.03,648
+355,CA-2019-100355,09-05-2019,11-05-2019,First Class,CUST-016,Customer 10,Corporate,India,Kochi,Rajasthan,389338,South,PROD-045,Office Supplies,Laptops,Laptop,55741,2,0.05,14893
+356,CA-2019-100356,15-01-2019,19-01-2019,First Class,CUST-035,Customer 45,Corporate,India,Hyderabad,Karnataka,461399,West,PROD-029,Furniture,Laptops,Storage Box,19186,2,0.16,5138
+357,CA-2019-100357,12-01-2019,14-01-2019,Standard Class,CUST-029,Customer 25,Consumer,India,Mumbai,Gujarat,126908,North,PROD-063,Furniture,Storage,Notebook,48732,5,0.02,8874
+358,CA-2019-100358,07-08-2019,10-08-2019,Second Class,CUST-034,Customer 26,Corporate,India,Ahmedabad,Gujarat,988016,North,PROD-098,Furniture,Laptops,Notebook,39541,3,0.2,6605
+359,CA-2019-100359,21-09-2019,22-09-2019,Second Class,CUST-012,Customer 18,Corporate,India,Jaipur,Rajasthan,583673,South,PROD-024,Office Supplies,Storage,Smartphone,9574,4,0.06,781
+360,CA-2019-100360,17-09-2019,22-09-2019,Second Class,CUST-038,Customer 2,Corporate,India,Mumbai,Tamil Nadu,634668,North,PROD-054,Technology,Laptops,Binder,45745,4,0.04,6679
+361,CA-2019-100361,22-12-2019,26-12-2019,Second Class,CUST-019,Customer 29,Home Office,India,Chennai,Karnataka,628979,West,PROD-002,Technology,Accessories,Binder,57311,1,0.04,7918
+362,CA-2019-100362,28-01-2019,30-01-2019,First Class,CUST-036,Customer 34,Corporate,India,Mumbai,Kerala,224259,West,PROD-014,Technology,Phones,Smartphone,55804,1,0.1,4814
+363,CA-2019-100363,08-05-2019,09-05-2019,Standard Class,CUST-029,Customer 16,Corporate,India,Jaipur,Karnataka,891946,North,PROD-068,Technology,Storage,Chair,54880,3,0.08,6497
+364,CA-2019-100364,13-01-2019,15-01-2019,First Class,CUST-038,Customer 27,Corporate,India,Kochi,Tamil Nadu,104243,South,PROD-027,Technology,Phones,Laptop,11479,5,0.09,2885
+365,CA-2019-100365,10-05-2019,11-05-2019,Standard Class,CUST-015,Customer 47,Corporate,India,Ahmedabad,Tamil Nadu,144828,South,PROD-008,Office Supplies,Accessories,Binder,50570,1,0.11,10374
+366,CA-2019-100366,07-06-2019,11-06-2019,Second Class,CUST-027,Customer 46,Home Office,India,Surat,Maharashtra,986658,West,PROD-054,Furniture,Chairs,Storage Box,10823,5,0.13,916
+367,CA-2019-100367,14-02-2019,18-02-2019,First Class,CUST-021,Customer 45,Corporate,India,Kochi,Telangana,905273,North,PROD-033,Furniture,Binders,Chair,12009,4,0.06,1649
+368,CA-2019-100368,05-03-2019,07-03-2019,Standard Class,CUST-045,Customer 35,Corporate,India,Mumbai,Delhi,671843,West,PROD-040,Office Supplies,Chairs,Headphones,50897,2,0.17,3784
+369,CA-2019-100369,21-03-2019,25-03-2019,Second Class,CUST-046,Customer 18,Corporate,India,Mumbai,Maharashtra,802338,North,PROD-001,Technology,Storage,Headphones,4914,1,0.11,529
+370,CA-2019-100370,19-04-2019,21-04-2019,Second Class,CUST-002,Customer 36,Home Office,India,Chennai,Maharashtra,454748,South,PROD-083,Furniture,Binders,Headphones,18232,4,0.08,4546
+371,CA-2019-100371,04-08-2019,05-08-2019,Second Class,CUST-030,Customer 14,Consumer,India,Surat,Maharashtra,686255,West,PROD-007,Furniture,Phones,Chair,4134,4,0.18,1158
+372,CA-2019-100372,23-11-2019,27-11-2019,Standard Class,CUST-027,Customer 22,Home Office,India,Hyderabad,Karnataka,907714,West,PROD-079,Office Supplies,Laptops,Smartphone,58049,2,0.09,9600
+373,CA-2019-100373,20-09-2019,23-09-2019,Standard Class,CUST-005,Customer 9,Consumer,India,Jaipur,Maharashtra,913156,West,PROD-046,Technology,Laptops,Laptop,46088,3,0.11,5928
+374,CA-2019-100374,15-07-2019,20-07-2019,Second Class,CUST-003,Customer 4,Consumer,India,Delhi,Maharashtra,532426,West,PROD-007,Technology,Chairs,Notebook,8983,4,0.1,1766
+375,CA-2019-100375,27-01-2019,29-01-2019,Second Class,CUST-041,Customer 37,Corporate,India,Bangalore,Maharashtra,683188,North,PROD-096,Office Supplies,Tables,Table,5020,1,0.05,1444
+376,CA-2019-100376,28-12-2019,01-01-2020,Second Class,CUST-018,Customer 49,Consumer,India,Hyderabad,Delhi,263407,West,PROD-043,Furniture,Phones,Chair,14256,3,0.06,1953
+377,CA-2019-100377,23-03-2019,26-03-2019,Second Class,CUST-041,Customer 18,Home Office,India,Hyderabad,Telangana,688617,West,PROD-005,Furniture,Tables,Headphones,24875,1,0.09,4619
+378,CA-2019-100378,04-10-2019,09-10-2019,First Class,CUST-027,Customer 9,Home Office,India,Pune,Maharashtra,174847,West,PROD-077,Furniture,Accessories,Chair,44673,2,0.08,6016
+379,CA-2019-100379,07-12-2019,11-12-2019,First Class,CUST-048,Customer 6,Consumer,India,Mumbai,Delhi,284203,North,PROD-068,Furniture,Phones,Table,17758,3,0.2,1157
+380,CA-2019-100380,22-10-2019,23-10-2019,Second Class,CUST-034,Customer 34,Corporate,India,Kochi,Gujarat,866498,North,PROD-034,Office Supplies,Paper,Laptop,10363,5,0.17,2759
+381,CA-2019-100381,01-10-2019,04-10-2019,First Class,CUST-026,Customer 15,Consumer,India,Chennai,Tamil Nadu,971452,South,PROD-026,Technology,Tables,Binder,49327,5,0.13,7733
+382,CA-2019-100382,15-10-2019,16-10-2019,Second Class,CUST-046,Customer 23,Home Office,India,Ahmedabad,Rajasthan,450206,West,PROD-077,Technology,Accessories,Headphones,1770,2,0.01,103
+383,CA-2019-100383,05-11-2019,09-11-2019,Second Class,CUST-046,Customer 1,Consumer,India,Delhi,Telangana,149613,North,PROD-092,Technology,Laptops,Headphones,2294,4,0.09,466
+384,CA-2019-100384,07-10-2019,10-10-2019,First Class,CUST-031,Customer 18,Corporate,India,Hyderabad,Maharashtra,583781,North,PROD-035,Technology,Tables,Smartphone,52475,3,0.02,13491
+385,CA-2019-100385,23-01-2019,24-01-2019,First Class,CUST-042,Customer 47,Consumer,India,Kochi,Rajasthan,271613,West,PROD-014,Technology,Storage,Chair,39931,2,0.06,2634
+386,CA-2019-100386,08-01-2019,10-01-2019,Second Class,CUST-044,Customer 26,Corporate,India,Surat,Kerala,846857,West,PROD-049,Technology,Chairs,Table,58926,2,0.19,10816
+387,CA-2019-100387,30-04-2019,02-05-2019,Second Class,CUST-026,Customer 22,Corporate,India,Delhi,Gujarat,624455,West,PROD-007,Office Supplies,Accessories,Headphones,9180,2,0.1,926
+388,CA-2019-100388,20-07-2019,21-07-2019,Standard Class,CUST-036,Customer 27,Corporate,India,Mumbai,Rajasthan,435516,North,PROD-073,Furniture,Binders,Chair,26026,5,0.12,6430
+389,CA-2019-100389,26-03-2019,27-03-2019,First Class,CUST-041,Customer 29,Corporate,India,Chennai,Maharashtra,686762,South,PROD-042,Office Supplies,Paper,Table,58055,1,0.02,14619
+390,CA-2019-100390,20-06-2019,21-06-2019,Standard Class,CUST-034,Customer 49,Consumer,India,Jaipur,Kerala,827173,North,PROD-096,Office Supplies,Binders,Binder,36202,4,0.2,10551
+391,CA-2019-100391,11-12-2019,15-12-2019,First Class,CUST-042,Customer 18,Home Office,India,Mumbai,Gujarat,589094,North,PROD-038,Technology,Accessories,Binder,30206,1,0.03,8968
+392,CA-2019-100392,03-02-2019,06-02-2019,Second Class,CUST-012,Customer 20,Home Office,India,Surat,Rajasthan,583886,West,PROD-079,Technology,Phones,Storage Box,635,5,0.06,85
+393,CA-2019-100393,20-12-2019,23-12-2019,Second Class,CUST-046,Customer 41,Home Office,India,Pune,Tamil Nadu,720316,North,PROD-048,Technology,Accessories,Smartphone,32710,2,0.03,5288
+394,CA-2019-100394,24-01-2019,28-01-2019,First Class,CUST-050,Customer 48,Consumer,India,Kochi,Rajasthan,585634,North,PROD-014,Office Supplies,Tables,Table,56359,2,0.16,4360
+395,CA-2019-100395,12-01-2019,17-01-2019,Standard Class,CUST-043,Customer 31,Corporate,India,Ahmedabad,Maharashtra,781188,South,PROD-020,Technology,Paper,Notebook,14982,3,0.06,3390
+396,CA-2019-100396,05-03-2019,08-03-2019,Standard Class,CUST-035,Customer 43,Corporate,India,Pune,Rajasthan,148742,North,PROD-087,Technology,Binders,Chair,32315,2,0.02,4214
+397,CA-2019-100397,31-07-2019,03-08-2019,Second Class,CUST-050,Customer 14,Consumer,India,Ahmedabad,Maharashtra,428165,South,PROD-012,Office Supplies,Chairs,Headphones,58008,2,0.15,10045
+398,CA-2019-100398,02-04-2019,04-04-2019,Standard Class,CUST-037,Customer 8,Corporate,India,Bangalore,Tamil Nadu,147306,South,PROD-014,Furniture,Laptops,Notebook,53852,4,0.05,6844
+399,CA-2019-100399,26-12-2019,28-12-2019,Second Class,CUST-016,Customer 12,Consumer,India,Delhi,Delhi,899781,West,PROD-066,Office Supplies,Paper,Chair,8486,4,0.13,2450
+400,CA-2019-100400,23-10-2019,24-10-2019,Second Class,CUST-016,Customer 25,Home Office,India,Chennai,Kerala,303946,South,PROD-020,Furniture,Laptops,Binder,22580,1,0.18,4314
+401,CA-2019-100401,03-09-2019,06-09-2019,Second Class,CUST-006,Customer 36,Home Office,India,Pune,Delhi,636466,West,PROD-045,Technology,Paper,Laptop,50195,5,0.11,3806
+402,CA-2019-100402,21-06-2019,26-06-2019,First Class,CUST-010,Customer 16,Consumer,India,Delhi,Karnataka,584713,North,PROD-091,Furniture,Paper,Chair,49694,2,0.1,11284
+403,CA-2019-100403,23-02-2019,24-02-2019,First Class,CUST-027,Customer 8,Corporate,India,Kochi,Gujarat,612447,North,PROD-048,Office Supplies,Tables,Table,13330,4,0.07,1831
+404,CA-2019-100404,17-01-2019,22-01-2019,Second Class,CUST-040,Customer 25,Consumer,India,Delhi,Telangana,165645,West,PROD-061,Technology,Chairs,Storage Box,57319,5,0.17,14740
+405,CA-2019-100405,05-05-2019,10-05-2019,Second Class,CUST-050,Customer 37,Corporate,India,Pune,Maharashtra,651832,North,PROD-088,Office Supplies,Storage,Chair,33383,4,0.15,5443
+406,CA-2019-100406,12-12-2019,13-12-2019,First Class,CUST-015,Customer 5,Consumer,India,Mumbai,Gujarat,147207,West,PROD-059,Office Supplies,Chairs,Chair,56826,2,0.18,3126
+407,CA-2019-100407,20-10-2019,24-10-2019,First Class,CUST-048,Customer 44,Home Office,India,Kochi,Karnataka,679390,North,PROD-092,Furniture,Binders,Table,8509,5,0.1,1334
+408,CA-2019-100408,23-08-2019,28-08-2019,Second Class,CUST-049,Customer 46,Consumer,India,Ahmedabad,Delhi,943615,North,PROD-038,Furniture,Tables,Laptop,7689,3,0.1,2302
+409,CA-2019-100409,23-02-2019,25-02-2019,First Class,CUST-043,Customer 34,Corporate,India,Jaipur,Tamil Nadu,803199,North,PROD-013,Furniture,Binders,Headphones,58928,5,0.07,17546
+410,CA-2019-100410,28-10-2019,29-10-2019,Standard Class,CUST-012,Customer 50,Consumer,India,Hyderabad,Kerala,504610,North,PROD-054,Furniture,Storage,Laptop,32821,5,0.18,8916
+411,CA-2019-100411,18-12-2019,19-12-2019,Standard Class,CUST-003,Customer 33,Consumer,India,Bangalore,Delhi,862469,South,PROD-018,Office Supplies,Phones,Chair,12476,2,0.03,1994
+412,CA-2019-100412,24-04-2019,27-04-2019,Standard Class,CUST-011,Customer 33,Home Office,India,Chennai,Maharashtra,491415,South,PROD-028,Technology,Chairs,Chair,48194,5,0.05,11845
+413,CA-2019-100413,22-06-2019,27-06-2019,Standard Class,CUST-047,Customer 41,Consumer,India,Pune,Delhi,695558,South,PROD-072,Office Supplies,Phones,Storage Box,49468,3,0.09,13004
+414,CA-2019-100414,21-09-2019,23-09-2019,Second Class,CUST-022,Customer 41,Consumer,India,Surat,Karnataka,133233,South,PROD-068,Furniture,Accessories,Binder,10498,3,0.16,1765
+415,CA-2019-100415,15-06-2019,16-06-2019,Standard Class,CUST-038,Customer 14,Consumer,India,Mumbai,Maharashtra,889799,West,PROD-081,Office Supplies,Phones,Chair,26226,3,0.09,2168
+416,CA-2019-100416,27-02-2019,01-03-2019,First Class,CUST-036,Customer 32,Consumer,India,Delhi,Kerala,590126,West,PROD-027,Technology,Binders,Storage Box,24145,5,0.17,2017
+417,CA-2019-100417,31-08-2019,05-09-2019,First Class,CUST-012,Customer 25,Home Office,India,Kochi,Tamil Nadu,550195,North,PROD-018,Furniture,Tables,Laptop,22531,3,0.13,5839
+418,CA-2019-100418,18-01-2019,23-01-2019,First Class,CUST-028,Customer 26,Consumer,India,Kochi,Karnataka,420168,North,PROD-056,Office Supplies,Tables,Chair,46939,5,0.14,8568
+419,CA-2019-100419,24-09-2019,26-09-2019,First Class,CUST-021,Customer 29,Home Office,India,Hyderabad,Tamil Nadu,784386,North,PROD-043,Technology,Storage,Headphones,1504,3,0.12,226
+420,CA-2019-100420,22-08-2019,24-08-2019,Second Class,CUST-042,Customer 33,Home Office,India,Jaipur,Tamil Nadu,976335,South,PROD-099,Office Supplies,Chairs,Binder,52926,5,0.13,11604
+421,CA-2019-100421,24-02-2019,28-02-2019,Standard Class,CUST-021,Customer 14,Consumer,India,Delhi,Karnataka,227695,South,PROD-024,Furniture,Accessories,Binder,52228,1,0.15,3451
+422,CA-2019-100422,28-05-2019,30-05-2019,Second Class,CUST-038,Customer 34,Corporate,India,Ahmedabad,Tamil Nadu,904041,South,PROD-054,Technology,Binders,Laptop,48890,4,0.12,2459
+423,CA-2019-100423,30-06-2019,05-07-2019,Second Class,CUST-018,Customer 25,Corporate,India,Delhi,Gujarat,980709,South,PROD-086,Office Supplies,Laptops,Headphones,50653,1,0.09,11568
+424,CA-2019-100424,16-08-2019,20-08-2019,Second Class,CUST-015,Customer 43,Corporate,India,Surat,Kerala,587616,North,PROD-062,Furniture,Storage,Notebook,46217,3,0.09,12002
+425,CA-2019-100425,04-03-2019,08-03-2019,Second Class,CUST-050,Customer 32,Consumer,India,Pune,Delhi,343296,South,PROD-016,Office Supplies,Accessories,Smartphone,13689,5,0.19,1086
+426,CA-2019-100426,17-02-2019,19-02-2019,First Class,CUST-040,Customer 17,Corporate,India,Hyderabad,Gujarat,465068,South,PROD-014,Furniture,Chairs,Laptop,21435,4,0.11,1911
+427,CA-2019-100427,14-08-2019,18-08-2019,Standard Class,CUST-002,Customer 20,Consumer,India,Mumbai,Delhi,202679,North,PROD-007,Office Supplies,Storage,Table,25374,3,0.04,4892
+428,CA-2019-100428,22-05-2019,26-05-2019,Second Class,CUST-004,Customer 18,Corporate,India,Bangalore,Delhi,373049,West,PROD-065,Office Supplies,Accessories,Binder,11151,5,0.13,2959
+429,CA-2019-100429,18-04-2019,23-04-2019,Standard Class,CUST-038,Customer 30,Corporate,India,Ahmedabad,Kerala,784114,West,PROD-084,Office Supplies,Binders,Chair,52023,4,0.03,11854
+430,CA-2019-100430,25-10-2019,30-10-2019,Second Class,CUST-008,Customer 1,Home Office,India,Chennai,Tamil Nadu,736003,West,PROD-066,Furniture,Accessories,Binder,34464,3,0.05,2091
+431,CA-2019-100431,08-09-2019,09-09-2019,First Class,CUST-009,Customer 42,Consumer,India,Hyderabad,Delhi,919722,North,PROD-087,Furniture,Tables,Laptop,54696,1,0.17,4674
+432,CA-2019-100432,13-07-2019,18-07-2019,Standard Class,CUST-050,Customer 13,Corporate,India,Pune,Telangana,351037,West,PROD-044,Office Supplies,Paper,Table,15737,2,0.04,4175
+433,CA-2019-100433,24-04-2019,28-04-2019,Standard Class,CUST-026,Customer 1,Consumer,India,Kochi,Kerala,956711,South,PROD-087,Furniture,Chairs,Headphones,50708,4,0.1,13207
+434,CA-2019-100434,08-08-2019,10-08-2019,First Class,CUST-012,Customer 39,Corporate,India,Delhi,Rajasthan,723236,West,PROD-002,Furniture,Storage,Headphones,23874,5,0.16,6437
+435,CA-2019-100435,19-10-2019,23-10-2019,Standard Class,CUST-029,Customer 29,Corporate,India,Surat,Delhi,940512,North,PROD-074,Technology,Binders,Headphones,58100,1,0.08,2911
+436,CA-2019-100436,02-11-2019,04-11-2019,Second Class,CUST-046,Customer 32,Home Office,India,Hyderabad,Tamil Nadu,587395,West,PROD-064,Furniture,Chairs,Headphones,42672,3,0.04,11026
+437,CA-2019-100437,30-03-2019,31-03-2019,Standard Class,CUST-011,Customer 17,Corporate,India,Pune,Tamil Nadu,935336,South,PROD-032,Technology,Laptops,Smartphone,25477,2,0.07,4379
+438,CA-2019-100438,08-07-2019,13-07-2019,Standard Class,CUST-040,Customer 34,Consumer,India,Mumbai,Kerala,953318,North,PROD-026,Office Supplies,Phones,Notebook,29493,5,0.06,6089
+439,CA-2019-100439,07-11-2019,11-11-2019,Second Class,CUST-002,Customer 14,Consumer,India,Delhi,Gujarat,420996,North,PROD-081,Technology,Paper,Laptop,17805,1,0.17,4847
+440,CA-2019-100440,27-03-2019,28-03-2019,Second Class,CUST-005,Customer 10,Corporate,India,Hyderabad,Delhi,196959,North,PROD-055,Furniture,Storage,Notebook,50899,2,0.18,7826
+441,CA-2019-100441,21-09-2019,25-09-2019,Second Class,CUST-046,Customer 28,Corporate,India,Jaipur,Gujarat,965427,South,PROD-025,Furniture,Accessories,Table,41382,5,0.15,5088
+442,CA-2019-100442,05-08-2019,06-08-2019,First Class,CUST-018,Customer 11,Corporate,India,Kochi,Gujarat,770832,North,PROD-075,Furniture,Tables,Headphones,22577,5,0.05,6383
+443,CA-2019-100443,24-08-2019,25-08-2019,Second Class,CUST-026,Customer 43,Corporate,India,Ahmedabad,Maharashtra,497066,South,PROD-026,Furniture,Chairs,Laptop,26506,5,0.09,5726
+444,CA-2019-100444,07-07-2019,12-07-2019,Standard Class,CUST-027,Customer 39,Home Office,India,Jaipur,Karnataka,395564,North,PROD-017,Office Supplies,Tables,Storage Box,14960,1,0.04,1017
+445,CA-2019-100445,12-09-2019,15-09-2019,Standard Class,CUST-009,Customer 45,Home Office,India,Pune,Karnataka,707961,South,PROD-043,Furniture,Phones,Notebook,51080,5,0.06,10372
+446,CA-2019-100446,05-01-2019,09-01-2019,First Class,CUST-046,Customer 16,Home Office,India,Delhi,Tamil Nadu,447288,South,PROD-038,Furniture,Binders,Chair,9520,5,0.14,850
+447,CA-2019-100447,20-03-2019,21-03-2019,Standard Class,CUST-043,Customer 29,Consumer,India,Bangalore,Delhi,421686,West,PROD-069,Office Supplies,Storage,Chair,33084,5,0.02,8794
+448,CA-2019-100448,27-03-2019,29-03-2019,First Class,CUST-001,Customer 24,Home Office,India,Hyderabad,Telangana,507342,West,PROD-070,Office Supplies,Storage,Table,30683,2,0.15,3179
+449,CA-2019-100449,22-06-2019,23-06-2019,Standard Class,CUST-025,Customer 41,Consumer,India,Hyderabad,Maharashtra,910509,North,PROD-090,Technology,Paper,Table,43493,3,0.15,6005
+450,CA-2019-100450,28-02-2019,01-03-2019,First Class,CUST-047,Customer 11,Consumer,India,Surat,Tamil Nadu,320951,West,PROD-079,Technology,Tables,Notebook,26597,4,0.1,4108
+451,CA-2019-100451,02-08-2019,06-08-2019,Standard Class,CUST-005,Customer 14,Home Office,India,Bangalore,Maharashtra,547403,North,PROD-053,Furniture,Accessories,Binder,56835,1,0.03,13426
+452,CA-2019-100452,11-05-2019,15-05-2019,Second Class,CUST-040,Customer 35,Consumer,India,Pune,Kerala,635474,South,PROD-027,Office Supplies,Storage,Table,31510,4,0.08,5770
+453,CA-2019-100453,09-07-2019,14-07-2019,Standard Class,CUST-036,Customer 1,Consumer,India,Mumbai,Gujarat,111336,South,PROD-001,Furniture,Binders,Laptop,31582,2,0.18,8140
+454,CA-2019-100454,19-07-2019,23-07-2019,Second Class,CUST-018,Customer 43,Corporate,India,Mumbai,Karnataka,308256,North,PROD-099,Office Supplies,Laptops,Binder,3101,5,0.01,834
+455,CA-2019-100455,07-12-2019,08-12-2019,Standard Class,CUST-002,Customer 20,Home Office,India,Kochi,Delhi,628706,West,PROD-030,Office Supplies,Storage,Storage Box,53564,3,0.08,2694
+456,CA-2019-100456,30-10-2019,31-10-2019,Second Class,CUST-003,Customer 31,Home Office,India,Ahmedabad,Rajasthan,148486,North,PROD-056,Office Supplies,Accessories,Laptop,46313,5,0.13,3452
+457,CA-2019-100457,01-08-2019,03-08-2019,Second Class,CUST-002,Customer 18,Corporate,India,Mumbai,Maharashtra,644935,South,PROD-004,Technology,Storage,Storage Box,32209,2,0.11,7537
+458,CA-2019-100458,29-06-2019,01-07-2019,First Class,CUST-030,Customer 41,Consumer,India,Delhi,Tamil Nadu,818329,South,PROD-074,Technology,Binders,Laptop,9978,3,0.04,1537
+459,CA-2019-100459,20-02-2019,24-02-2019,Standard Class,CUST-042,Customer 33,Consumer,India,Delhi,Rajasthan,824804,North,PROD-008,Furniture,Chairs,Chair,34220,1,0.2,2754
+460,CA-2019-100460,10-09-2019,15-09-2019,Standard Class,CUST-049,Customer 2,Consumer,India,Delhi,Kerala,379431,South,PROD-012,Office Supplies,Binders,Storage Box,19191,1,0.1,5704
+461,CA-2019-100461,28-04-2019,02-05-2019,Second Class,CUST-045,Customer 25,Consumer,India,Mumbai,Tamil Nadu,694833,West,PROD-059,Technology,Accessories,Notebook,5738,5,0.04,804
+462,CA-2019-100462,19-10-2019,21-10-2019,Standard Class,CUST-032,Customer 43,Consumer,India,Surat,Rajasthan,466370,South,PROD-048,Office Supplies,Laptops,Notebook,36443,3,0.07,10440
+463,CA-2019-100463,15-08-2019,17-08-2019,First Class,CUST-027,Customer 8,Consumer,India,Kochi,Tamil Nadu,720807,West,PROD-028,Technology,Tables,Storage Box,28063,4,0.06,7283
+464,CA-2019-100464,03-02-2019,07-02-2019,First Class,CUST-016,Customer 36,Consumer,India,Delhi,Telangana,568385,South,PROD-068,Office Supplies,Laptops,Notebook,24239,1,0.2,3304
+465,CA-2019-100465,31-08-2019,01-09-2019,Second Class,CUST-020,Customer 24,Home Office,India,Pune,Karnataka,474020,South,PROD-062,Office Supplies,Paper,Chair,56245,1,0.16,5400
+466,CA-2019-100466,30-04-2019,01-05-2019,Standard Class,CUST-007,Customer 50,Consumer,India,Chennai,Delhi,752603,South,PROD-007,Office Supplies,Tables,Storage Box,59757,4,0.02,17549
+467,CA-2019-100467,01-05-2019,04-05-2019,First Class,CUST-018,Customer 49,Consumer,India,Kochi,Rajasthan,767923,West,PROD-059,Furniture,Storage,Notebook,24020,3,0.16,1815
+468,CA-2019-100468,28-01-2019,29-01-2019,Second Class,CUST-002,Customer 25,Corporate,India,Bangalore,Kerala,171932,North,PROD-093,Office Supplies,Accessories,Notebook,55557,2,0.17,2811
+469,CA-2019-100469,22-12-2019,26-12-2019,First Class,CUST-044,Customer 43,Corporate,India,Bangalore,Karnataka,334460,West,PROD-010,Technology,Storage,Laptop,54087,5,0.16,3873
+470,CA-2019-100470,05-03-2019,08-03-2019,First Class,CUST-019,Customer 20,Consumer,India,Ahmedabad,Maharashtra,377166,South,PROD-026,Furniture,Paper,Chair,24147,3,0.19,6589
+471,CA-2019-100471,29-12-2019,30-12-2019,First Class,CUST-034,Customer 21,Home Office,India,Pune,Gujarat,160697,South,PROD-028,Technology,Laptops,Notebook,52426,4,0.15,12474
+472,CA-2019-100472,02-09-2019,03-09-2019,First Class,CUST-017,Customer 36,Corporate,India,Ahmedabad,Tamil Nadu,449218,North,PROD-084,Technology,Chairs,Smartphone,37270,4,0.08,10079
+473,CA-2019-100473,01-03-2019,04-03-2019,Second Class,CUST-009,Customer 13,Home Office,India,Delhi,Karnataka,264289,South,PROD-065,Furniture,Laptops,Storage Box,6080,3,0.12,1493
+474,CA-2019-100474,11-04-2019,12-04-2019,Standard Class,CUST-016,Customer 13,Home Office,India,Pune,Gujarat,933329,South,PROD-070,Office Supplies,Phones,Headphones,55765,1,0.19,11160
+475,CA-2019-100475,12-10-2019,15-10-2019,Second Class,CUST-043,Customer 23,Home Office,India,Delhi,Gujarat,661746,West,PROD-007,Technology,Laptops,Smartphone,51198,2,0.15,4728
+476,CA-2019-100476,10-01-2019,12-01-2019,Second Class,CUST-029,Customer 22,Consumer,India,Surat,Kerala,117196,North,PROD-058,Furniture,Laptops,Binder,51320,1,0.02,13414
+477,CA-2019-100477,21-02-2019,24-02-2019,Second Class,CUST-026,Customer 37,Consumer,India,Jaipur,Telangana,763760,North,PROD-010,Furniture,Laptops,Table,26677,2,0.15,5054
+478,CA-2019-100478,19-06-2019,24-06-2019,First Class,CUST-046,Customer 30,Home Office,India,Chennai,Maharashtra,298483,West,PROD-085,Office Supplies,Phones,Chair,10366,4,0.14,2939
+479,CA-2019-100479,10-05-2019,13-05-2019,Standard Class,CUST-022,Customer 13,Corporate,India,Delhi,Kerala,576411,West,PROD-026,Office Supplies,Laptops,Notebook,44764,2,0.05,3399
+480,CA-2019-100480,28-12-2019,01-01-2020,First Class,CUST-007,Customer 46,Home Office,India,Chennai,Telangana,194127,South,PROD-089,Technology,Paper,Notebook,55737,1,0.19,3668
+481,CA-2019-100481,13-09-2019,17-09-2019,Second Class,CUST-036,Customer 24,Home Office,India,Bangalore,Delhi,194253,West,PROD-064,Office Supplies,Laptops,Table,6152,5,0.06,468
+482,CA-2019-100482,13-09-2019,18-09-2019,Standard Class,CUST-050,Customer 20,Consumer,India,Kochi,Delhi,936857,West,PROD-029,Office Supplies,Paper,Binder,58867,3,0.18,8751
+483,CA-2019-100483,30-03-2019,04-04-2019,Second Class,CUST-027,Customer 39,Home Office,India,Ahmedabad,Gujarat,836344,South,PROD-069,Technology,Tables,Chair,44041,1,0.12,9197
+484,CA-2019-100484,02-09-2019,04-09-2019,Standard Class,CUST-038,Customer 36,Consumer,India,Hyderabad,Gujarat,788228,North,PROD-097,Technology,Storage,Binder,47334,4,0.03,10307
+485,CA-2019-100485,01-04-2019,02-04-2019,First Class,CUST-047,Customer 12,Home Office,India,Pune,Gujarat,147587,North,PROD-035,Technology,Paper,Binder,9710,2,0.18,1297
+486,CA-2019-100486,11-09-2019,12-09-2019,Standard Class,CUST-049,Customer 25,Home Office,India,Hyderabad,Maharashtra,756836,South,PROD-079,Furniture,Chairs,Notebook,47248,4,0.11,7564
+487,CA-2019-100487,19-08-2019,22-08-2019,Second Class,CUST-042,Customer 5,Corporate,India,Chennai,Gujarat,940684,South,PROD-026,Furniture,Laptops,Laptop,5201,4,0.19,839
+488,CA-2019-100488,24-06-2019,26-06-2019,Second Class,CUST-022,Customer 48,Corporate,India,Delhi,Karnataka,441242,South,PROD-061,Office Supplies,Binders,Storage Box,6146,2,0.07,1717
+489,CA-2019-100489,31-05-2019,04-06-2019,Second Class,CUST-015,Customer 44,Consumer,India,Kochi,Telangana,689807,North,PROD-078,Office Supplies,Phones,Storage Box,16582,2,0.11,4689
+490,CA-2019-100490,05-03-2019,10-03-2019,First Class,CUST-024,Customer 43,Consumer,India,Kochi,Karnataka,682719,West,PROD-071,Office Supplies,Chairs,Smartphone,2774,3,0.03,806
+491,CA-2019-100491,03-11-2019,08-11-2019,First Class,CUST-047,Customer 25,Corporate,India,Bangalore,Delhi,171650,West,PROD-027,Office Supplies,Accessories,Headphones,28328,5,0.19,6271
+492,CA-2019-100492,24-07-2019,27-07-2019,First Class,CUST-033,Customer 48,Home Office,India,Pune,Telangana,658609,West,PROD-093,Office Supplies,Storage,Headphones,16259,2,0.07,3465
+493,CA-2019-100493,15-09-2019,16-09-2019,Second Class,CUST-014,Customer 25,Home Office,India,Mumbai,Delhi,710452,South,PROD-039,Furniture,Laptops,Headphones,48716,4,0.13,7939
+494,CA-2019-100494,06-10-2019,08-10-2019,Second Class,CUST-042,Customer 30,Home Office,India,Mumbai,Maharashtra,898821,West,PROD-065,Office Supplies,Storage,Chair,27743,3,0.12,3665
+495,CA-2019-100495,12-01-2019,14-01-2019,Second Class,CUST-011,Customer 16,Corporate,India,Bangalore,Tamil Nadu,914728,North,PROD-087,Technology,Chairs,Table,12129,3,0.17,2681
+496,CA-2019-100496,04-02-2019,08-02-2019,First Class,CUST-042,Customer 35,Corporate,India,Pune,Telangana,946497,North,PROD-004,Technology,Paper,Storage Box,5838,3,0.18,590
+497,CA-2019-100497,18-11-2019,20-11-2019,Standard Class,CUST-036,Customer 26,Consumer,India,Ahmedabad,Delhi,227764,North,PROD-019,Office Supplies,Laptops,Chair,32377,4,0.05,8918
+498,CA-2019-100498,23-01-2019,25-01-2019,First Class,CUST-004,Customer 16,Home Office,India,Hyderabad,Kerala,692240,South,PROD-063,Furniture,Accessories,Table,36746,5,0.13,4633
+499,CA-2019-100499,09-03-2019,14-03-2019,First Class,CUST-015,Customer 46,Corporate,India,Pune,Tamil Nadu,645166,North,PROD-096,Technology,Paper,Chair,52420,2,0.06,10253
+500,CA-2019-100500,25-05-2019,26-05-2019,First Class,CUST-026,Customer 9,Consumer,India,Hyderabad,Rajasthan,436754,South,PROD-075,Office Supplies,Storage,Table,23974,2,0.2,3831
+501,CA-2019-100501,27-07-2019,28-07-2019,First Class,CUST-040,Customer 9,Consumer,India,Pune,Maharashtra,487008,South,PROD-083,Office Supplies,Laptops,Storage Box,51246,1,0.1,8625
+502,CA-2019-100502,26-06-2019,01-07-2019,Second Class,CUST-040,Customer 36,Corporate,India,Chennai,Gujarat,896902,North,PROD-062,Office Supplies,Laptops,Laptop,17942,5,0.05,4907
+503,CA-2019-100503,07-06-2019,12-06-2019,Standard Class,CUST-005,Customer 33,Consumer,India,Bangalore,Rajasthan,354854,South,PROD-036,Office Supplies,Laptops,Chair,1901,2,0.1,237
+504,CA-2019-100504,22-04-2019,24-04-2019,Standard Class,CUST-030,Customer 24,Consumer,India,Kochi,Rajasthan,180663,North,PROD-089,Office Supplies,Tables,Table,57728,1,0.13,6516
+505,CA-2019-100505,18-04-2019,22-04-2019,First Class,CUST-033,Customer 18,Consumer,India,Mumbai,Kerala,918214,South,PROD-089,Furniture,Phones,Headphones,25143,2,0.08,5112
+506,CA-2019-100506,28-08-2019,02-09-2019,First Class,CUST-004,Customer 21,Home Office,India,Mumbai,Maharashtra,433377,South,PROD-099,Furniture,Paper,Laptop,16763,2,0.16,3203
+507,CA-2019-100507,06-11-2019,09-11-2019,Second Class,CUST-039,Customer 17,Corporate,India,Mumbai,Telangana,211073,South,PROD-031,Furniture,Tables,Binder,23527,5,0.15,5974
+508,CA-2019-100508,13-07-2019,18-07-2019,Second Class,CUST-016,Customer 33,Home Office,India,Delhi,Delhi,922827,West,PROD-031,Office Supplies,Tables,Notebook,49765,3,0.1,3746
+509,CA-2019-100509,25-07-2019,30-07-2019,Second Class,CUST-040,Customer 1,Corporate,India,Bangalore,Karnataka,751032,West,PROD-045,Office Supplies,Tables,Chair,50589,5,0.15,9110
+510,CA-2019-100510,22-12-2019,26-12-2019,First Class,CUST-029,Customer 46,Home Office,India,Pune,Rajasthan,407849,North,PROD-051,Office Supplies,Paper,Headphones,18671,2,0.12,4598
+511,CA-2019-100511,23-12-2019,26-12-2019,First Class,CUST-008,Customer 16,Consumer,India,Chennai,Delhi,858909,South,PROD-052,Furniture,Storage,Notebook,31926,3,0.13,4168
+512,CA-2019-100512,06-09-2019,08-09-2019,First Class,CUST-049,Customer 17,Consumer,India,Delhi,Delhi,262487,North,PROD-037,Office Supplies,Paper,Notebook,51943,1,0.06,8034
+513,CA-2019-100513,20-04-2019,25-04-2019,First Class,CUST-015,Customer 40,Consumer,India,Hyderabad,Delhi,136179,South,PROD-010,Technology,Paper,Headphones,59348,5,0.05,3784
+514,CA-2019-100514,06-03-2019,11-03-2019,First Class,CUST-038,Customer 2,Home Office,India,Ahmedabad,Telangana,784158,West,PROD-063,Furniture,Binders,Storage Box,57338,5,0.01,10998
+515,CA-2019-100515,13-05-2019,15-05-2019,First Class,CUST-019,Customer 23,Corporate,India,Mumbai,Delhi,210561,North,PROD-095,Office Supplies,Tables,Storage Box,44383,2,0.02,8829
+516,CA-2019-100516,01-01-2019,03-01-2019,Second Class,CUST-015,Customer 8,Corporate,India,Surat,Rajasthan,629478,South,PROD-029,Technology,Tables,Smartphone,19863,2,0.16,2871
+517,CA-2019-100517,14-05-2019,19-05-2019,Standard Class,CUST-037,Customer 1,Corporate,India,Surat,Karnataka,235974,West,PROD-025,Office Supplies,Chairs,Storage Box,48062,5,0.11,7776
+518,CA-2019-100518,23-07-2019,24-07-2019,Standard Class,CUST-017,Customer 4,Consumer,India,Surat,Telangana,142822,West,PROD-032,Technology,Binders,Smartphone,38719,4,0.19,2266
+519,CA-2019-100519,29-12-2019,31-12-2019,First Class,CUST-050,Customer 17,Home Office,India,Mumbai,Telangana,480507,North,PROD-034,Furniture,Laptops,Notebook,10772,5,0.16,1219
+520,CA-2019-100520,04-01-2019,07-01-2019,Standard Class,CUST-008,Customer 47,Consumer,India,Ahmedabad,Rajasthan,866653,North,PROD-028,Furniture,Binders,Table,44647,5,0.06,12396
+521,CA-2019-100521,08-04-2019,12-04-2019,First Class,CUST-016,Customer 30,Corporate,India,Kochi,Rajasthan,654149,North,PROD-060,Furniture,Laptops,Laptop,6643,5,0.09,1252
+522,CA-2019-100522,08-01-2019,12-01-2019,First Class,CUST-044,Customer 26,Consumer,India,Bangalore,Tamil Nadu,834138,West,PROD-089,Technology,Laptops,Storage Box,12916,5,0.1,3733
+523,CA-2019-100523,05-10-2019,07-10-2019,Second Class,CUST-034,Customer 14,Consumer,India,Kochi,Maharashtra,329631,South,PROD-022,Office Supplies,Accessories,Notebook,28522,1,0.09,7273
+524,CA-2019-100524,21-06-2019,24-06-2019,Second Class,CUST-038,Customer 2,Home Office,India,Chennai,Karnataka,332774,North,PROD-030,Office Supplies,Accessories,Notebook,3201,4,0.17,708
+525,CA-2019-100525,15-10-2019,20-10-2019,First Class,CUST-012,Customer 25,Consumer,India,Delhi,Karnataka,528721,West,PROD-053,Furniture,Storage,Smartphone,31139,4,0.12,3370
+526,CA-2019-100526,03-05-2019,08-05-2019,First Class,CUST-035,Customer 26,Corporate,India,Chennai,Gujarat,536781,South,PROD-041,Office Supplies,Chairs,Headphones,28403,5,0.01,6631
+527,CA-2019-100527,07-11-2019,08-11-2019,Second Class,CUST-031,Customer 32,Consumer,India,Chennai,Maharashtra,990799,West,PROD-055,Office Supplies,Phones,Binder,25620,5,0.04,1892
+528,CA-2019-100528,15-04-2019,18-04-2019,First Class,CUST-036,Customer 10,Corporate,India,Delhi,Karnataka,489749,North,PROD-042,Office Supplies,Laptops,Headphones,31736,4,0.12,7216
+529,CA-2019-100529,31-07-2019,05-08-2019,Standard Class,CUST-002,Customer 18,Corporate,India,Chennai,Delhi,479476,North,PROD-027,Office Supplies,Binders,Smartphone,14159,3,0.02,1407
+530,CA-2019-100530,30-08-2019,31-08-2019,Second Class,CUST-028,Customer 9,Consumer,India,Delhi,Maharashtra,661206,South,PROD-039,Furniture,Chairs,Notebook,22944,5,0.08,4649
+531,CA-2019-100531,06-05-2019,09-05-2019,Second Class,CUST-004,Customer 26,Corporate,India,Pune,Kerala,791138,West,PROD-040,Furniture,Binders,Binder,49487,1,0.11,12621
+532,CA-2019-100532,23-10-2019,28-10-2019,Second Class,CUST-031,Customer 19,Consumer,India,Jaipur,Gujarat,821248,West,PROD-015,Office Supplies,Accessories,Headphones,5526,1,0.04,1290
+533,CA-2019-100533,24-02-2019,01-03-2019,First Class,CUST-044,Customer 31,Consumer,India,Pune,Maharashtra,569970,South,PROD-032,Office Supplies,Binders,Laptop,23664,1,0.03,4937
+534,CA-2019-100534,15-07-2019,16-07-2019,First Class,CUST-005,Customer 3,Home Office,India,Pune,Tamil Nadu,785891,North,PROD-043,Technology,Paper,Notebook,30818,2,0.19,8529
+535,CA-2019-100535,08-12-2019,09-12-2019,Second Class,CUST-028,Customer 48,Corporate,India,Kochi,Karnataka,503399,North,PROD-051,Furniture,Chairs,Storage Box,15550,2,0.15,2225
+536,CA-2019-100536,24-11-2019,29-11-2019,Standard Class,CUST-040,Customer 14,Home Office,India,Chennai,Telangana,338518,North,PROD-093,Office Supplies,Binders,Laptop,43253,3,0.12,12632
+537,CA-2019-100537,23-08-2019,28-08-2019,First Class,CUST-022,Customer 4,Consumer,India,Chennai,Gujarat,887031,North,PROD-080,Technology,Accessories,Laptop,44411,1,0.05,4681
+538,CA-2019-100538,08-07-2019,10-07-2019,Standard Class,CUST-008,Customer 42,Consumer,India,Mumbai,Delhi,317928,West,PROD-014,Technology,Phones,Notebook,32793,2,0.04,3771
+539,CA-2019-100539,26-05-2019,30-05-2019,Standard Class,CUST-038,Customer 44,Corporate,India,Kochi,Maharashtra,155063,North,PROD-034,Furniture,Binders,Binder,47946,3,0.1,5551
+540,CA-2019-100540,15-05-2019,17-05-2019,Second Class,CUST-039,Customer 44,Consumer,India,Surat,Karnataka,720159,West,PROD-099,Office Supplies,Laptops,Storage Box,17595,3,0.12,968
+541,CA-2019-100541,15-04-2019,16-04-2019,First Class,CUST-002,Customer 27,Home Office,India,Mumbai,Rajasthan,941787,West,PROD-049,Furniture,Laptops,Smartphone,11131,3,0.16,1380
+542,CA-2019-100542,14-02-2019,19-02-2019,Standard Class,CUST-036,Customer 16,Consumer,India,Surat,Gujarat,263212,North,PROD-074,Office Supplies,Laptops,Headphones,4249,5,0.15,257
+543,CA-2019-100543,09-06-2019,11-06-2019,Second Class,CUST-018,Customer 34,Consumer,India,Hyderabad,Maharashtra,945493,North,PROD-030,Office Supplies,Tables,Storage Box,3953,4,0.12,282
+544,CA-2019-100544,16-09-2019,18-09-2019,Second Class,CUST-021,Customer 18,Consumer,India,Surat,Gujarat,736174,South,PROD-017,Technology,Binders,Smartphone,3833,5,0.17,721
+545,CA-2019-100545,05-03-2019,08-03-2019,Second Class,CUST-028,Customer 37,Consumer,India,Chennai,Kerala,984637,South,PROD-043,Office Supplies,Paper,Notebook,53682,3,0.04,14679
+546,CA-2019-100546,09-05-2019,13-05-2019,Second Class,CUST-031,Customer 49,Consumer,India,Chennai,Telangana,793284,West,PROD-077,Furniture,Chairs,Table,52911,4,0.11,15376
+547,CA-2019-100547,20-02-2019,24-02-2019,Second Class,CUST-048,Customer 20,Home Office,India,Pune,Tamil Nadu,312380,North,PROD-015,Technology,Accessories,Notebook,49593,5,0.05,4017
+548,CA-2019-100548,22-03-2019,27-03-2019,Second Class,CUST-014,Customer 4,Corporate,India,Pune,Karnataka,443860,North,PROD-016,Technology,Storage,Notebook,45923,5,0.17,8223
+549,CA-2019-100549,22-03-2019,26-03-2019,First Class,CUST-044,Customer 28,Home Office,India,Pune,Tamil Nadu,787621,West,PROD-085,Furniture,Accessories,Storage Box,35380,5,0.12,5906
+550,CA-2019-100550,19-10-2019,22-10-2019,Second Class,CUST-018,Customer 9,Consumer,India,Chennai,Delhi,936859,North,PROD-080,Technology,Tables,Storage Box,893,2,0.04,85
+551,CA-2019-100551,25-10-2019,27-10-2019,First Class,CUST-029,Customer 48,Corporate,India,Ahmedabad,Kerala,824694,North,PROD-089,Office Supplies,Binders,Notebook,15892,1,0.04,2530
+552,CA-2019-100552,02-03-2019,06-03-2019,First Class,CUST-049,Customer 34,Home Office,India,Ahmedabad,Gujarat,562788,West,PROD-088,Technology,Laptops,Table,31372,2,0.11,3598
+553,CA-2019-100553,16-01-2019,17-01-2019,Second Class,CUST-008,Customer 11,Consumer,India,Ahmedabad,Karnataka,886891,South,PROD-077,Furniture,Binders,Headphones,56265,3,0.11,7934
+554,CA-2019-100554,02-05-2019,03-05-2019,First Class,CUST-017,Customer 46,Corporate,India,Hyderabad,Maharashtra,477508,North,PROD-068,Furniture,Chairs,Headphones,49885,2,0.08,13613
+555,CA-2019-100555,21-04-2019,24-04-2019,Second Class,CUST-023,Customer 50,Home Office,India,Surat,Delhi,223802,West,PROD-008,Furniture,Phones,Headphones,43454,2,0.07,11381
+556,CA-2019-100556,10-08-2019,14-08-2019,Standard Class,CUST-004,Customer 22,Home Office,India,Kochi,Tamil Nadu,994762,North,PROD-075,Furniture,Chairs,Laptop,45471,4,0.15,3630
+557,CA-2019-100557,28-01-2019,31-01-2019,First Class,CUST-004,Customer 32,Home Office,India,Kochi,Telangana,295261,South,PROD-076,Furniture,Laptops,Headphones,14435,2,0.13,1741
+558,CA-2019-100558,16-01-2019,20-01-2019,First Class,CUST-016,Customer 22,Consumer,India,Jaipur,Maharashtra,625921,South,PROD-008,Furniture,Accessories,Table,5799,1,0.17,1568
+559,CA-2019-100559,04-01-2019,07-01-2019,Standard Class,CUST-040,Customer 22,Home Office,India,Surat,Karnataka,547036,South,PROD-045,Technology,Chairs,Binder,8348,2,0.12,1672
+560,CA-2019-100560,19-04-2019,21-04-2019,Standard Class,CUST-016,Customer 3,Corporate,India,Delhi,Telangana,614180,North,PROD-085,Technology,Binders,Binder,9591,4,0.01,2571
+561,CA-2019-100561,17-09-2019,20-09-2019,Second Class,CUST-005,Customer 34,Consumer,India,Bangalore,Tamil Nadu,375005,North,PROD-024,Office Supplies,Tables,Laptop,48986,3,0.02,9773
+562,CA-2019-100562,01-12-2019,02-12-2019,Standard Class,CUST-020,Customer 28,Home Office,India,Pune,Telangana,735080,North,PROD-084,Office Supplies,Storage,Notebook,49847,2,0.15,12463
+563,CA-2019-100563,06-02-2019,08-02-2019,Second Class,CUST-007,Customer 43,Consumer,India,Bangalore,Maharashtra,647017,North,PROD-084,Office Supplies,Chairs,Table,28533,5,0.04,4505
+564,CA-2019-100564,22-08-2019,26-08-2019,Second Class,CUST-015,Customer 13,Consumer,India,Hyderabad,Kerala,595461,North,PROD-077,Technology,Laptops,Chair,3714,2,0.03,1100
+565,CA-2019-100565,05-11-2019,08-11-2019,First Class,CUST-045,Customer 39,Consumer,India,Ahmedabad,Gujarat,542856,North,PROD-058,Office Supplies,Binders,Table,2225,2,0.17,322
+566,CA-2019-100566,07-01-2019,09-01-2019,First Class,CUST-021,Customer 30,Corporate,India,Bangalore,Karnataka,863287,West,PROD-075,Furniture,Chairs,Laptop,45589,4,0.18,6903
+567,CA-2019-100567,11-06-2019,12-06-2019,Standard Class,CUST-031,Customer 36,Consumer,India,Ahmedabad,Delhi,140203,South,PROD-058,Office Supplies,Accessories,Headphones,56415,2,0.12,11827
+568,CA-2019-100568,29-06-2019,30-06-2019,Standard Class,CUST-019,Customer 38,Home Office,India,Kochi,Gujarat,588635,South,PROD-077,Furniture,Accessories,Chair,32931,4,0.19,2825
+569,CA-2019-100569,30-07-2019,03-08-2019,Second Class,CUST-038,Customer 13,Corporate,India,Bangalore,Gujarat,527887,West,PROD-049,Office Supplies,Laptops,Notebook,23260,1,0.12,6323
+570,CA-2019-100570,11-05-2019,15-05-2019,Second Class,CUST-037,Customer 23,Corporate,India,Delhi,Tamil Nadu,786600,West,PROD-052,Furniture,Storage,Laptop,58490,4,0.16,5708
+571,CA-2019-100571,09-01-2019,10-01-2019,First Class,CUST-016,Customer 36,Corporate,India,Delhi,Gujarat,139926,North,PROD-031,Technology,Laptops,Binder,30158,4,0.13,4607
+572,CA-2019-100572,01-06-2019,05-06-2019,Second Class,CUST-014,Customer 40,Corporate,India,Delhi,Karnataka,336126,West,PROD-033,Technology,Paper,Smartphone,51001,1,0.05,10176
+573,CA-2019-100573,13-05-2019,17-05-2019,Second Class,CUST-031,Customer 46,Consumer,India,Hyderabad,Gujarat,832170,South,PROD-013,Furniture,Binders,Chair,3110,2,0.06,498
+574,CA-2019-100574,12-04-2019,16-04-2019,Standard Class,CUST-048,Customer 12,Corporate,India,Bangalore,Kerala,925225,West,PROD-014,Furniture,Chairs,Notebook,20183,2,0.08,3533
+575,CA-2019-100575,28-10-2019,29-10-2019,First Class,CUST-030,Customer 43,Consumer,India,Bangalore,Karnataka,911500,South,PROD-044,Furniture,Laptops,Storage Box,59648,4,0.19,9543
+576,CA-2019-100576,25-08-2019,28-08-2019,Standard Class,CUST-011,Customer 37,Consumer,India,Chennai,Maharashtra,903473,West,PROD-036,Furniture,Tables,Laptop,32536,4,0.11,3816
+577,CA-2019-100577,29-12-2019,02-01-2020,Second Class,CUST-015,Customer 19,Corporate,India,Mumbai,Rajasthan,516555,West,PROD-033,Office Supplies,Tables,Notebook,10860,1,0.07,2704
+578,CA-2019-100578,17-06-2019,22-06-2019,Second Class,CUST-028,Customer 32,Corporate,India,Mumbai,Delhi,447587,West,PROD-059,Technology,Tables,Laptop,38080,5,0.15,7229
+579,CA-2019-100579,05-04-2019,08-04-2019,First Class,CUST-016,Customer 32,Consumer,India,Chennai,Karnataka,633539,West,PROD-040,Office Supplies,Binders,Headphones,41943,3,0.13,10660
+580,CA-2019-100580,26-06-2019,01-07-2019,Standard Class,CUST-026,Customer 45,Home Office,India,Hyderabad,Kerala,310486,South,PROD-006,Office Supplies,Accessories,Smartphone,7466,2,0.05,419
+581,CA-2019-100581,04-02-2019,08-02-2019,Standard Class,CUST-027,Customer 29,Corporate,India,Hyderabad,Rajasthan,378844,South,PROD-024,Office Supplies,Binders,Smartphone,24635,5,0.12,5406
+582,CA-2019-100582,09-09-2019,12-09-2019,First Class,CUST-001,Customer 11,Home Office,India,Delhi,Tamil Nadu,774971,West,PROD-050,Office Supplies,Laptops,Chair,1777,5,0.02,427
+583,CA-2019-100583,22-06-2019,25-06-2019,Standard Class,CUST-012,Customer 31,Home Office,India,Mumbai,Delhi,473664,North,PROD-070,Furniture,Binders,Table,42668,5,0.04,4391
+584,CA-2019-100584,06-10-2019,08-10-2019,Second Class,CUST-031,Customer 2,Consumer,India,Chennai,Rajasthan,309589,South,PROD-038,Furniture,Accessories,Headphones,9447,3,0.02,578
+585,CA-2019-100585,04-06-2019,05-06-2019,Standard Class,CUST-018,Customer 5,Home Office,India,Jaipur,Rajasthan,560696,North,PROD-090,Technology,Binders,Table,32070,3,0.03,8524
+586,CA-2019-100586,30-09-2019,04-10-2019,Second Class,CUST-005,Customer 30,Corporate,India,Delhi,Telangana,382371,South,PROD-094,Office Supplies,Accessories,Headphones,36705,2,0.12,9752
+587,CA-2019-100587,14-04-2019,16-04-2019,First Class,CUST-033,Customer 14,Home Office,India,Bangalore,Rajasthan,305423,North,PROD-088,Furniture,Chairs,Binder,38909,5,0.06,7053
+588,CA-2019-100588,23-05-2019,26-05-2019,Standard Class,CUST-044,Customer 45,Corporate,India,Delhi,Kerala,955820,South,PROD-012,Technology,Binders,Smartphone,4998,1,0.1,517
+589,CA-2019-100589,23-09-2019,28-09-2019,Second Class,CUST-009,Customer 11,Corporate,India,Chennai,Telangana,779845,North,PROD-070,Technology,Storage,Notebook,26118,1,0.19,3217
+590,CA-2019-100590,17-04-2019,19-04-2019,Second Class,CUST-043,Customer 22,Consumer,India,Hyderabad,Kerala,425185,North,PROD-058,Furniture,Paper,Binder,40836,1,0.17,8593
+591,CA-2019-100591,04-03-2019,08-03-2019,Second Class,CUST-047,Customer 29,Consumer,India,Ahmedabad,Kerala,542136,West,PROD-100,Technology,Paper,Headphones,46050,5,0.13,11591
+592,CA-2019-100592,24-07-2019,28-07-2019,Second Class,CUST-019,Customer 20,Home Office,India,Ahmedabad,Gujarat,997416,South,PROD-016,Office Supplies,Binders,Binder,59530,5,0.16,4057
+593,CA-2019-100593,05-02-2019,08-02-2019,Second Class,CUST-010,Customer 16,Home Office,India,Bangalore,Tamil Nadu,428977,West,PROD-066,Technology,Storage,Chair,55025,4,0.14,9764
+594,CA-2019-100594,16-05-2019,21-05-2019,First Class,CUST-019,Customer 12,Consumer,India,Pune,Maharashtra,218051,North,PROD-074,Office Supplies,Storage,Smartphone,9343,2,0.12,696
+595,CA-2019-100595,04-10-2019,09-10-2019,Standard Class,CUST-036,Customer 10,Home Office,India,Jaipur,Delhi,552336,South,PROD-040,Office Supplies,Binders,Chair,19254,3,0.08,1038
+596,CA-2019-100596,05-09-2019,09-09-2019,Standard Class,CUST-021,Customer 41,Corporate,India,Kochi,Tamil Nadu,591137,West,PROD-082,Office Supplies,Laptops,Notebook,8032,2,0.11,1675
+597,CA-2019-100597,25-11-2019,27-11-2019,Standard Class,CUST-050,Customer 27,Consumer,India,Delhi,Delhi,268104,West,PROD-082,Furniture,Paper,Headphones,49653,1,0.04,3942
+598,CA-2019-100598,19-09-2019,23-09-2019,Second Class,CUST-034,Customer 48,Consumer,India,Delhi,Telangana,726556,North,PROD-043,Office Supplies,Tables,Notebook,55784,2,0.03,5820
+599,CA-2019-100599,12-02-2019,17-02-2019,Second Class,CUST-011,Customer 1,Consumer,India,Ahmedabad,Rajasthan,172146,West,PROD-051,Technology,Phones,Notebook,35473,5,0.12,10276
+600,CA-2019-100600,24-03-2019,29-03-2019,First Class,CUST-050,Customer 46,Consumer,India,Surat,Telangana,902228,West,PROD-036,Furniture,Tables,Storage Box,31583,4,0.15,6259
+601,CA-2019-100601,16-08-2019,17-08-2019,Second Class,CUST-040,Customer 36,Home Office,India,Ahmedabad,Telangana,927879,South,PROD-009,Technology,Paper,Headphones,56955,1,0.15,13101
+602,CA-2019-100602,08-08-2019,09-08-2019,Standard Class,CUST-037,Customer 45,Home Office,India,Jaipur,Rajasthan,677852,West,PROD-055,Technology,Paper,Storage Box,49691,2,0.16,13907
+603,CA-2019-100603,23-02-2019,27-02-2019,First Class,CUST-041,Customer 29,Home Office,India,Surat,Karnataka,445283,South,PROD-004,Furniture,Paper,Chair,17405,1,0.05,5176
+604,CA-2019-100604,11-12-2019,14-12-2019,First Class,CUST-019,Customer 46,Consumer,India,Jaipur,Delhi,449172,South,PROD-082,Furniture,Binders,Storage Box,8232,1,0.08,884
+605,CA-2019-100605,14-03-2019,15-03-2019,First Class,CUST-045,Customer 10,Consumer,India,Kochi,Delhi,514848,South,PROD-040,Furniture,Storage,Smartphone,51197,5,0.07,9955
+606,CA-2019-100606,05-09-2019,07-09-2019,First Class,CUST-039,Customer 37,Corporate,India,Pune,Kerala,800963,West,PROD-069,Technology,Chairs,Table,13853,2,0.08,3846
+607,CA-2019-100607,04-02-2019,08-02-2019,Standard Class,CUST-049,Customer 1,Consumer,India,Chennai,Gujarat,997141,North,PROD-056,Furniture,Tables,Storage Box,19456,2,0.18,5157
+608,CA-2019-100608,23-07-2019,27-07-2019,First Class,CUST-043,Customer 30,Corporate,India,Bangalore,Karnataka,422566,South,PROD-022,Technology,Storage,Binder,39221,2,0.06,10264
+609,CA-2019-100609,13-11-2019,16-11-2019,Second Class,CUST-040,Customer 16,Home Office,India,Jaipur,Gujarat,585959,North,PROD-079,Technology,Binders,Notebook,20737,4,0.02,3277
+610,CA-2019-100610,30-06-2019,04-07-2019,Standard Class,CUST-035,Customer 11,Home Office,India,Ahmedabad,Rajasthan,365949,West,PROD-048,Furniture,Tables,Headphones,40158,5,0.04,6261
+611,CA-2019-100611,24-07-2019,25-07-2019,Second Class,CUST-031,Customer 18,Corporate,India,Bangalore,Delhi,339981,West,PROD-003,Technology,Storage,Smartphone,6949,4,0.09,664
+612,CA-2019-100612,17-04-2019,21-04-2019,Standard Class,CUST-035,Customer 34,Consumer,India,Surat,Kerala,574315,South,PROD-092,Furniture,Paper,Notebook,59555,5,0.18,14335
+613,CA-2019-100613,22-06-2019,27-06-2019,Standard Class,CUST-036,Customer 40,Consumer,India,Pune,Kerala,841826,South,PROD-056,Technology,Storage,Notebook,11417,4,0.07,802
+614,CA-2019-100614,19-01-2019,24-01-2019,Standard Class,CUST-042,Customer 2,Home Office,India,Jaipur,Tamil Nadu,669321,North,PROD-075,Office Supplies,Binders,Headphones,47010,1,0.06,9775
+615,CA-2019-100615,21-04-2019,23-04-2019,Standard Class,CUST-018,Customer 18,Consumer,India,Mumbai,Karnataka,609682,West,PROD-035,Technology,Storage,Binder,13769,5,0.07,1021
+616,CA-2019-100616,16-10-2019,21-10-2019,Second Class,CUST-036,Customer 48,Consumer,India,Bangalore,Telangana,706798,West,PROD-073,Furniture,Phones,Table,46994,5,0.13,12663
+617,CA-2019-100617,24-10-2019,28-10-2019,Second Class,CUST-002,Customer 47,Consumer,India,Jaipur,Kerala,620350,South,PROD-015,Technology,Accessories,Laptop,15303,4,0.05,2563
+618,CA-2019-100618,31-03-2019,04-04-2019,Standard Class,CUST-004,Customer 23,Consumer,India,Surat,Telangana,617330,South,PROD-099,Technology,Tables,Laptop,32339,4,0.03,2110
+619,CA-2019-100619,13-03-2019,17-03-2019,Second Class,CUST-020,Customer 4,Corporate,India,Ahmedabad,Maharashtra,342070,South,PROD-043,Office Supplies,Laptops,Notebook,2252,4,0.19,274
+620,CA-2019-100620,15-08-2019,16-08-2019,First Class,CUST-033,Customer 11,Home Office,India,Bangalore,Rajasthan,134781,South,PROD-052,Office Supplies,Laptops,Notebook,34497,1,0.11,5692
+621,CA-2019-100621,23-09-2019,27-09-2019,Standard Class,CUST-046,Customer 11,Home Office,India,Ahmedabad,Rajasthan,330090,South,PROD-060,Office Supplies,Laptops,Smartphone,49735,5,0.15,12510
+622,CA-2019-100622,18-08-2019,21-08-2019,Second Class,CUST-016,Customer 29,Corporate,India,Hyderabad,Rajasthan,144282,North,PROD-038,Technology,Laptops,Notebook,26684,4,0.2,4629
+623,CA-2019-100623,02-01-2019,05-01-2019,First Class,CUST-041,Customer 3,Home Office,India,Pune,Karnataka,813423,West,PROD-005,Office Supplies,Storage,Table,44731,1,0.1,8547
+624,CA-2019-100624,06-08-2019,07-08-2019,Second Class,CUST-031,Customer 41,Corporate,India,Kochi,Telangana,500425,West,PROD-059,Technology,Paper,Storage Box,22697,4,0.05,6507
+625,CA-2019-100625,30-06-2019,04-07-2019,Standard Class,CUST-005,Customer 31,Consumer,India,Delhi,Telangana,575309,South,PROD-098,Office Supplies,Storage,Notebook,44089,5,0.17,7538
+626,CA-2019-100626,07-05-2019,10-05-2019,Standard Class,CUST-044,Customer 43,Home Office,India,Pune,Gujarat,390790,North,PROD-029,Furniture,Laptops,Headphones,50523,5,0.16,10193
+627,CA-2019-100627,15-02-2019,18-02-2019,First Class,CUST-006,Customer 41,Consumer,India,Ahmedabad,Rajasthan,993557,North,PROD-055,Furniture,Paper,Binder,24315,3,0.08,4126
+628,CA-2019-100628,23-08-2019,28-08-2019,First Class,CUST-026,Customer 26,Home Office,India,Kochi,Telangana,540974,West,PROD-098,Office Supplies,Chairs,Chair,47289,2,0.16,3763
+629,CA-2019-100629,10-03-2019,15-03-2019,First Class,CUST-023,Customer 37,Corporate,India,Bangalore,Tamil Nadu,380828,South,PROD-029,Office Supplies,Storage,Smartphone,53338,2,0.01,4744
+630,CA-2019-100630,23-11-2019,25-11-2019,Standard Class,CUST-046,Customer 25,Consumer,India,Hyderabad,Delhi,311169,North,PROD-091,Technology,Storage,Binder,14429,3,0.07,1681
+631,CA-2019-100631,13-11-2019,14-11-2019,Second Class,CUST-022,Customer 28,Home Office,India,Chennai,Tamil Nadu,601095,West,PROD-065,Furniture,Tables,Binder,1535,5,0.15,456
+632,CA-2019-100632,23-03-2019,26-03-2019,Standard Class,CUST-005,Customer 31,Consumer,India,Bangalore,Tamil Nadu,331425,South,PROD-036,Office Supplies,Binders,Table,39762,2,0.11,3215
+633,CA-2019-100633,04-02-2019,06-02-2019,Standard Class,CUST-037,Customer 47,Consumer,India,Hyderabad,Gujarat,330316,West,PROD-027,Furniture,Phones,Chair,27607,3,0.09,2015
+634,CA-2019-100634,04-12-2019,07-12-2019,Standard Class,CUST-014,Customer 28,Home Office,India,Surat,Telangana,886778,South,PROD-071,Technology,Storage,Headphones,56009,5,0.12,15609
+635,CA-2019-100635,09-12-2019,10-12-2019,First Class,CUST-048,Customer 47,Home Office,India,Delhi,Rajasthan,159979,North,PROD-018,Furniture,Tables,Headphones,27227,1,0.03,6865
+636,CA-2019-100636,15-09-2019,20-09-2019,First Class,CUST-035,Customer 3,Consumer,India,Delhi,Karnataka,586913,South,PROD-095,Furniture,Phones,Smartphone,57743,4,0.01,16559
+637,CA-2019-100637,24-02-2019,28-02-2019,Second Class,CUST-027,Customer 50,Consumer,India,Ahmedabad,Gujarat,563651,West,PROD-005,Technology,Accessories,Storage Box,8415,4,0.15,2006
+638,CA-2019-100638,20-06-2019,25-06-2019,Standard Class,CUST-037,Customer 4,Home Office,India,Mumbai,Gujarat,617570,South,PROD-056,Technology,Phones,Smartphone,10621,5,0.05,1441
+639,CA-2019-100639,22-08-2019,24-08-2019,Second Class,CUST-034,Customer 8,Corporate,India,Jaipur,Maharashtra,695167,South,PROD-009,Furniture,Tables,Table,11457,4,0.05,1346
+640,CA-2019-100640,25-04-2019,28-04-2019,First Class,CUST-050,Customer 6,Corporate,India,Chennai,Telangana,659631,North,PROD-086,Furniture,Chairs,Table,37420,2,0.11,4769
+641,CA-2019-100641,23-11-2019,26-11-2019,Second Class,CUST-013,Customer 44,Consumer,India,Kochi,Karnataka,266001,West,PROD-049,Office Supplies,Binders,Table,2615,3,0.17,162
+642,CA-2019-100642,16-05-2019,20-05-2019,Standard Class,CUST-031,Customer 10,Home Office,India,Delhi,Rajasthan,329693,North,PROD-067,Technology,Paper,Chair,9470,4,0.03,1256
+643,CA-2019-100643,31-10-2019,02-11-2019,Standard Class,CUST-039,Customer 42,Consumer,India,Mumbai,Delhi,416096,West,PROD-098,Technology,Chairs,Laptop,2872,5,0.18,600
+644,CA-2019-100644,14-01-2019,16-01-2019,First Class,CUST-002,Customer 14,Consumer,India,Surat,Delhi,809453,South,PROD-093,Technology,Storage,Smartphone,28288,3,0.02,5189
+645,CA-2019-100645,21-06-2019,23-06-2019,Second Class,CUST-012,Customer 1,Home Office,India,Delhi,Delhi,755292,North,PROD-026,Furniture,Storage,Storage Box,20414,5,0.19,3868
+646,CA-2019-100646,26-12-2019,27-12-2019,Standard Class,CUST-020,Customer 24,Consumer,India,Chennai,Tamil Nadu,149439,North,PROD-032,Office Supplies,Paper,Chair,51259,5,0.06,14443
+647,CA-2019-100647,12-09-2019,17-09-2019,First Class,CUST-042,Customer 38,Consumer,India,Hyderabad,Gujarat,571969,South,PROD-072,Technology,Storage,Laptop,49922,5,0.1,7344
+648,CA-2019-100648,11-03-2019,16-03-2019,First Class,CUST-049,Customer 27,Corporate,India,Mumbai,Karnataka,263671,North,PROD-005,Office Supplies,Phones,Chair,58404,1,0.17,6189
+649,CA-2019-100649,30-04-2019,04-05-2019,First Class,CUST-022,Customer 23,Consumer,India,Chennai,Rajasthan,574658,South,PROD-046,Office Supplies,Chairs,Notebook,33093,3,0.14,2037
+650,CA-2019-100650,27-10-2019,31-10-2019,First Class,CUST-023,Customer 39,Consumer,India,Pune,Karnataka,259867,South,PROD-098,Furniture,Tables,Table,2402,1,0.15,262
+651,CA-2019-100651,13-02-2019,16-02-2019,First Class,CUST-019,Customer 20,Corporate,India,Surat,Telangana,536022,North,PROD-006,Office Supplies,Phones,Laptop,24198,1,0.02,3158
+652,CA-2019-100652,21-11-2019,24-11-2019,Second Class,CUST-008,Customer 2,Corporate,India,Surat,Tamil Nadu,452690,West,PROD-023,Furniture,Binders,Smartphone,58445,1,0.02,14312
+653,CA-2019-100653,15-01-2019,16-01-2019,Standard Class,CUST-044,Customer 3,Consumer,India,Delhi,Kerala,192759,North,PROD-086,Furniture,Paper,Headphones,31263,2,0.14,6799
+654,CA-2019-100654,24-09-2019,29-09-2019,First Class,CUST-010,Customer 27,Home Office,India,Kochi,Maharashtra,710466,South,PROD-036,Office Supplies,Binders,Laptop,23662,3,0.06,7007
+655,CA-2019-100655,31-12-2019,02-01-2020,First Class,CUST-025,Customer 1,Corporate,India,Chennai,Telangana,151431,South,PROD-094,Office Supplies,Storage,Laptop,43365,5,0.06,6979
+656,CA-2019-100656,01-12-2019,06-12-2019,Second Class,CUST-029,Customer 42,Consumer,India,Pune,Kerala,653341,North,PROD-025,Technology,Accessories,Laptop,29698,2,0.05,4639
+657,CA-2019-100657,21-04-2019,24-04-2019,Second Class,CUST-009,Customer 26,Corporate,India,Bangalore,Karnataka,803677,West,PROD-011,Furniture,Paper,Table,39530,3,0.02,5543
+658,CA-2019-100658,25-02-2019,27-02-2019,Standard Class,CUST-037,Customer 50,Corporate,India,Surat,Telangana,778392,West,PROD-039,Technology,Laptops,Notebook,27004,1,0.19,3855
+659,CA-2019-100659,03-09-2019,07-09-2019,Standard Class,CUST-002,Customer 34,Home Office,India,Kochi,Telangana,251416,South,PROD-016,Furniture,Paper,Headphones,55254,5,0.11,4190
+660,CA-2019-100660,24-01-2019,25-01-2019,Second Class,CUST-003,Customer 10,Consumer,India,Bangalore,Kerala,617616,North,PROD-056,Technology,Accessories,Chair,23161,2,0.17,5821
+661,CA-2019-100661,04-05-2019,08-05-2019,Standard Class,CUST-019,Customer 10,Consumer,India,Chennai,Delhi,298730,North,PROD-069,Technology,Phones,Table,13466,1,0.16,1980
+662,CA-2019-100662,20-07-2019,24-07-2019,First Class,CUST-033,Customer 18,Corporate,India,Delhi,Telangana,985341,West,PROD-077,Office Supplies,Tables,Table,23493,3,0.06,6311
+663,CA-2019-100663,02-12-2019,03-12-2019,Second Class,CUST-020,Customer 35,Home Office,India,Jaipur,Tamil Nadu,975786,West,PROD-040,Office Supplies,Storage,Headphones,47381,5,0.15,10827
+664,CA-2019-100664,10-08-2019,12-08-2019,Second Class,CUST-011,Customer 12,Consumer,India,Ahmedabad,Delhi,537296,West,PROD-072,Technology,Laptops,Headphones,32615,4,0.08,2538
+665,CA-2019-100665,15-10-2019,18-10-2019,Second Class,CUST-021,Customer 28,Consumer,India,Jaipur,Karnataka,869802,West,PROD-056,Office Supplies,Binders,Chair,1414,3,0.16,361
+666,CA-2019-100666,14-12-2019,16-12-2019,Standard Class,CUST-033,Customer 8,Consumer,India,Ahmedabad,Delhi,817336,North,PROD-094,Office Supplies,Laptops,Chair,46300,5,0.19,11235
+667,CA-2019-100667,09-06-2019,12-06-2019,Second Class,CUST-049,Customer 7,Corporate,India,Ahmedabad,Rajasthan,813143,South,PROD-006,Office Supplies,Paper,Laptop,49745,3,0.06,7139
+668,CA-2019-100668,05-08-2019,06-08-2019,First Class,CUST-013,Customer 6,Home Office,India,Pune,Gujarat,209699,South,PROD-038,Office Supplies,Accessories,Storage Box,40140,4,0.08,3462
+669,CA-2019-100669,31-03-2019,05-04-2019,First Class,CUST-013,Customer 26,Corporate,India,Kochi,Karnataka,435048,West,PROD-092,Office Supplies,Storage,Smartphone,14864,1,0.11,2559
+670,CA-2019-100670,17-07-2019,21-07-2019,Second Class,CUST-018,Customer 5,Consumer,India,Pune,Delhi,294630,North,PROD-096,Technology,Paper,Headphones,47522,2,0.15,7499
+671,CA-2019-100671,11-05-2019,16-05-2019,Second Class,CUST-043,Customer 49,Consumer,India,Jaipur,Maharashtra,831895,West,PROD-059,Technology,Accessories,Headphones,21613,3,0.1,6252
+672,CA-2019-100672,16-05-2019,20-05-2019,Second Class,CUST-001,Customer 45,Consumer,India,Kochi,Tamil Nadu,122826,West,PROD-063,Furniture,Tables,Laptop,1879,1,0.04,357
+673,CA-2019-100673,16-02-2019,20-02-2019,Second Class,CUST-027,Customer 18,Corporate,India,Bangalore,Gujarat,822790,North,PROD-094,Furniture,Laptops,Binder,54357,1,0.19,11309
+674,CA-2019-100674,11-09-2019,14-09-2019,First Class,CUST-047,Customer 20,Consumer,India,Chennai,Rajasthan,617375,North,PROD-041,Office Supplies,Tables,Headphones,33477,5,0.13,9431
+675,CA-2019-100675,17-06-2019,19-06-2019,Second Class,CUST-001,Customer 27,Corporate,India,Bangalore,Maharashtra,632665,South,PROD-034,Technology,Accessories,Headphones,46110,4,0.03,13213
+676,CA-2019-100676,30-08-2019,03-09-2019,Standard Class,CUST-029,Customer 35,Home Office,India,Bangalore,Delhi,935830,North,PROD-063,Office Supplies,Binders,Binder,21138,3,0.05,2312
+677,CA-2019-100677,29-10-2019,01-11-2019,First Class,CUST-049,Customer 3,Home Office,India,Pune,Gujarat,367446,South,PROD-006,Technology,Accessories,Laptop,9403,4,0.19,2751
+678,CA-2019-100678,02-12-2019,04-12-2019,Standard Class,CUST-003,Customer 43,Consumer,India,Bangalore,Maharashtra,287015,North,PROD-051,Furniture,Binders,Chair,39725,4,0.17,4274
+679,CA-2019-100679,11-12-2019,15-12-2019,Second Class,CUST-031,Customer 45,Home Office,India,Hyderabad,Maharashtra,602769,West,PROD-067,Technology,Tables,Storage Box,59165,2,0.03,8917
+680,CA-2019-100680,10-10-2019,14-10-2019,Standard Class,CUST-028,Customer 41,Corporate,India,Ahmedabad,Tamil Nadu,703672,West,PROD-009,Office Supplies,Storage,Chair,47499,1,0.09,3195
+681,CA-2019-100681,01-01-2019,04-01-2019,Standard Class,CUST-033,Customer 30,Home Office,India,Jaipur,Rajasthan,660502,North,PROD-096,Office Supplies,Binders,Binder,35011,1,0.2,4369
+682,CA-2019-100682,29-11-2019,03-12-2019,Second Class,CUST-016,Customer 12,Consumer,India,Delhi,Tamil Nadu,172395,West,PROD-006,Office Supplies,Phones,Laptop,56098,3,0.02,12678
+683,CA-2019-100683,26-09-2019,01-10-2019,Standard Class,CUST-017,Customer 10,Corporate,India,Ahmedabad,Delhi,382581,South,PROD-079,Furniture,Laptops,Headphones,58600,4,0.02,7644
+684,CA-2019-100684,08-10-2019,10-10-2019,First Class,CUST-017,Customer 15,Corporate,India,Delhi,Gujarat,367116,South,PROD-079,Technology,Binders,Binder,10297,4,0.08,713
+685,CA-2019-100685,16-07-2019,20-07-2019,Standard Class,CUST-007,Customer 34,Corporate,India,Hyderabad,Maharashtra,646773,South,PROD-052,Furniture,Phones,Smartphone,56080,1,0.08,3938
+686,CA-2019-100686,05-06-2019,06-06-2019,Second Class,CUST-040,Customer 29,Consumer,India,Bangalore,Tamil Nadu,940534,North,PROD-049,Furniture,Tables,Chair,58486,1,0.08,16642
+687,CA-2019-100687,06-01-2019,07-01-2019,Second Class,CUST-028,Customer 45,Corporate,India,Bangalore,Gujarat,640584,South,PROD-038,Office Supplies,Storage,Laptop,19582,4,0.13,5579
+688,CA-2019-100688,20-10-2019,21-10-2019,Standard Class,CUST-024,Customer 41,Corporate,India,Pune,Karnataka,449194,North,PROD-098,Technology,Chairs,Chair,48426,1,0.12,6669
+689,CA-2019-100689,23-04-2019,28-04-2019,Second Class,CUST-037,Customer 37,Consumer,India,Delhi,Tamil Nadu,480615,West,PROD-044,Office Supplies,Tables,Notebook,23670,1,0.09,2396
+690,CA-2019-100690,17-06-2019,19-06-2019,Second Class,CUST-026,Customer 35,Consumer,India,Jaipur,Telangana,711376,North,PROD-005,Office Supplies,Laptops,Chair,27672,3,0.12,6085
+691,CA-2019-100691,08-08-2019,11-08-2019,Second Class,CUST-006,Customer 21,Home Office,India,Chennai,Karnataka,561435,North,PROD-023,Technology,Storage,Binder,42342,2,0.19,5353
+692,CA-2019-100692,11-08-2019,15-08-2019,Second Class,CUST-037,Customer 29,Consumer,India,Ahmedabad,Tamil Nadu,665431,West,PROD-069,Office Supplies,Phones,Headphones,56130,3,0.03,3130
+693,CA-2019-100693,20-07-2019,23-07-2019,First Class,CUST-030,Customer 29,Home Office,India,Surat,Karnataka,511778,South,PROD-071,Office Supplies,Paper,Chair,32592,1,0.1,4024
+694,CA-2019-100694,19-01-2019,22-01-2019,Second Class,CUST-035,Customer 19,Consumer,India,Delhi,Rajasthan,421796,North,PROD-090,Furniture,Tables,Smartphone,33767,5,0.02,3789
+695,CA-2019-100695,07-08-2019,10-08-2019,Standard Class,CUST-023,Customer 4,Consumer,India,Bangalore,Delhi,750753,West,PROD-036,Furniture,Chairs,Chair,25778,2,0.16,3484
+696,CA-2019-100696,26-11-2019,27-11-2019,First Class,CUST-016,Customer 40,Consumer,India,Kochi,Delhi,432983,North,PROD-031,Office Supplies,Laptops,Storage Box,51409,5,0.19,12493
+697,CA-2019-100697,05-04-2019,06-04-2019,Second Class,CUST-029,Customer 11,Corporate,India,Bangalore,Kerala,616945,West,PROD-047,Furniture,Phones,Notebook,35436,3,0.07,4536
+698,CA-2019-100698,28-04-2019,01-05-2019,First Class,CUST-034,Customer 19,Home Office,India,Kochi,Tamil Nadu,129979,West,PROD-097,Furniture,Paper,Notebook,17658,4,0.08,2032
+699,CA-2019-100699,29-03-2019,31-03-2019,First Class,CUST-033,Customer 26,Consumer,India,Bangalore,Delhi,865554,North,PROD-033,Office Supplies,Storage,Storage Box,7958,5,0.2,1659
+700,CA-2019-100700,28-09-2019,01-10-2019,Second Class,CUST-018,Customer 49,Consumer,India,Chennai,Karnataka,954025,South,PROD-007,Technology,Laptops,Storage Box,34472,3,0.05,6623
+701,CA-2019-100701,27-02-2019,01-03-2019,First Class,CUST-006,Customer 13,Corporate,India,Bangalore,Delhi,194943,South,PROD-037,Furniture,Laptops,Chair,19801,2,0.14,1695
+702,CA-2019-100702,22-01-2019,25-01-2019,First Class,CUST-033,Customer 4,Consumer,India,Pune,Rajasthan,635081,West,PROD-071,Office Supplies,Accessories,Smartphone,58523,4,0.15,10669
+703,CA-2019-100703,05-05-2019,09-05-2019,Standard Class,CUST-019,Customer 34,Home Office,India,Pune,Rajasthan,946825,North,PROD-081,Office Supplies,Paper,Chair,37810,5,0.08,2308
+704,CA-2019-100704,09-04-2019,12-04-2019,First Class,CUST-010,Customer 13,Consumer,India,Jaipur,Tamil Nadu,439508,South,PROD-045,Office Supplies,Binders,Laptop,7031,2,0.2,524
+705,CA-2019-100705,01-02-2019,05-02-2019,Standard Class,CUST-027,Customer 16,Corporate,India,Jaipur,Telangana,584729,North,PROD-080,Office Supplies,Phones,Smartphone,3827,4,0.02,964
+706,CA-2019-100706,15-01-2019,17-01-2019,First Class,CUST-030,Customer 9,Corporate,India,Hyderabad,Rajasthan,488136,South,PROD-070,Office Supplies,Storage,Headphones,2910,5,0.15,178
+707,CA-2019-100707,16-06-2019,19-06-2019,First Class,CUST-033,Customer 20,Corporate,India,Delhi,Rajasthan,842718,West,PROD-027,Furniture,Storage,Storage Box,15206,5,0.17,2670
+708,CA-2019-100708,14-04-2019,17-04-2019,Standard Class,CUST-004,Customer 7,Home Office,India,Kochi,Rajasthan,357841,South,PROD-022,Technology,Laptops,Storage Box,10910,5,0.17,2092
+709,CA-2019-100709,04-10-2019,08-10-2019,Standard Class,CUST-022,Customer 42,Consumer,India,Delhi,Karnataka,439736,North,PROD-042,Furniture,Storage,Binder,49963,3,0.18,14048
+710,CA-2019-100710,17-04-2019,20-04-2019,First Class,CUST-050,Customer 10,Consumer,India,Kochi,Rajasthan,618506,North,PROD-085,Technology,Binders,Laptop,4294,1,0.02,940
+711,CA-2019-100711,28-08-2019,31-08-2019,Standard Class,CUST-031,Customer 2,Corporate,India,Bangalore,Gujarat,248648,North,PROD-022,Office Supplies,Storage,Laptop,38429,2,0.19,9622
+712,CA-2019-100712,22-09-2019,25-09-2019,First Class,CUST-016,Customer 27,Corporate,India,Jaipur,Delhi,814475,North,PROD-100,Furniture,Storage,Laptop,26644,2,0.18,3774
+713,CA-2019-100713,27-03-2019,01-04-2019,Standard Class,CUST-028,Customer 42,Corporate,India,Surat,Karnataka,629945,West,PROD-014,Furniture,Phones,Binder,51810,1,0.13,13833
+714,CA-2019-100714,25-01-2019,27-01-2019,First Class,CUST-043,Customer 29,Corporate,India,Jaipur,Gujarat,369269,North,PROD-020,Technology,Binders,Smartphone,11831,3,0.17,3414
+715,CA-2019-100715,06-04-2019,10-04-2019,Standard Class,CUST-023,Customer 42,Home Office,India,Ahmedabad,Karnataka,361158,South,PROD-085,Office Supplies,Tables,Storage Box,38338,2,0.11,5749
+716,CA-2019-100716,07-06-2019,08-06-2019,First Class,CUST-015,Customer 11,Corporate,India,Ahmedabad,Telangana,900153,South,PROD-022,Office Supplies,Tables,Smartphone,45558,3,0.14,9824
+717,CA-2019-100717,26-05-2019,30-05-2019,Standard Class,CUST-036,Customer 32,Home Office,India,Chennai,Telangana,799543,North,PROD-002,Technology,Phones,Storage Box,18415,4,0.14,3442
+718,CA-2019-100718,03-05-2019,06-05-2019,Second Class,CUST-015,Customer 49,Consumer,India,Kochi,Karnataka,444265,South,PROD-063,Furniture,Tables,Chair,40095,3,0.13,11948
+719,CA-2019-100719,12-12-2019,13-12-2019,First Class,CUST-017,Customer 2,Corporate,India,Hyderabad,Gujarat,651674,West,PROD-083,Office Supplies,Binders,Smartphone,40439,3,0.03,5119
+720,CA-2019-100720,21-08-2019,25-08-2019,Standard Class,CUST-047,Customer 19,Consumer,India,Mumbai,Tamil Nadu,306068,North,PROD-070,Technology,Accessories,Chair,56874,2,0.12,11091
+721,CA-2019-100721,02-06-2019,04-06-2019,First Class,CUST-040,Customer 3,Corporate,India,Ahmedabad,Karnataka,469863,West,PROD-060,Technology,Paper,Laptop,47452,5,0.18,5396
+722,CA-2019-100722,09-12-2019,12-12-2019,First Class,CUST-041,Customer 23,Consumer,India,Pune,Gujarat,825614,West,PROD-069,Office Supplies,Binders,Binder,23712,1,0.02,3008
+723,CA-2019-100723,09-10-2019,14-10-2019,First Class,CUST-029,Customer 28,Consumer,India,Mumbai,Karnataka,802891,North,PROD-049,Technology,Chairs,Headphones,12444,2,0.08,3435
+724,CA-2019-100724,17-01-2019,22-01-2019,Second Class,CUST-018,Customer 5,Home Office,India,Pune,Kerala,829046,North,PROD-022,Office Supplies,Binders,Binder,30030,1,0.16,5457
+725,CA-2019-100725,01-03-2019,02-03-2019,First Class,CUST-025,Customer 39,Consumer,India,Hyderabad,Tamil Nadu,287583,North,PROD-086,Furniture,Paper,Storage Box,19155,1,0.17,3715
+726,CA-2019-100726,13-12-2019,17-12-2019,Second Class,CUST-028,Customer 46,Consumer,India,Bangalore,Tamil Nadu,870426,North,PROD-099,Furniture,Storage,Storage Box,13761,4,0.17,1072
+727,CA-2019-100727,18-10-2019,22-10-2019,Standard Class,CUST-015,Customer 20,Consumer,India,Pune,Telangana,671271,South,PROD-017,Furniture,Tables,Notebook,30364,4,0.19,7820
+728,CA-2019-100728,03-12-2019,08-12-2019,Standard Class,CUST-046,Customer 17,Home Office,India,Chennai,Maharashtra,101400,West,PROD-018,Office Supplies,Paper,Headphones,51666,3,0.06,11756
+729,CA-2019-100729,22-03-2019,25-03-2019,Second Class,CUST-032,Customer 34,Corporate,India,Jaipur,Kerala,392315,North,PROD-010,Technology,Paper,Smartphone,51833,3,0.06,2775
+730,CA-2019-100730,04-01-2019,06-01-2019,First Class,CUST-030,Customer 50,Corporate,India,Surat,Rajasthan,740760,South,PROD-037,Office Supplies,Tables,Chair,37629,5,0.03,3528
+731,CA-2019-100731,02-09-2019,03-09-2019,Second Class,CUST-025,Customer 50,Corporate,India,Kochi,Rajasthan,441260,North,PROD-081,Furniture,Chairs,Binder,38409,4,0.16,5971
+732,CA-2019-100732,10-05-2019,14-05-2019,Standard Class,CUST-043,Customer 47,Home Office,India,Surat,Telangana,961793,West,PROD-056,Furniture,Chairs,Chair,41231,2,0.18,5649
+733,CA-2019-100733,02-02-2019,07-02-2019,Second Class,CUST-042,Customer 10,Consumer,India,Pune,Kerala,686663,West,PROD-062,Office Supplies,Paper,Binder,33118,3,0.11,2855
+734,CA-2019-100734,26-10-2019,28-10-2019,Standard Class,CUST-026,Customer 34,Home Office,India,Mumbai,Kerala,911155,South,PROD-040,Technology,Chairs,Headphones,1917,3,0.09,144
+735,CA-2019-100735,16-10-2019,20-10-2019,First Class,CUST-002,Customer 27,Consumer,India,Ahmedabad,Telangana,762568,South,PROD-066,Furniture,Phones,Storage Box,55353,4,0.18,13209
+736,CA-2019-100736,20-02-2019,25-02-2019,Standard Class,CUST-046,Customer 24,Home Office,India,Mumbai,Karnataka,585139,South,PROD-092,Furniture,Paper,Table,48074,1,0.17,5370
+737,CA-2019-100737,21-06-2019,23-06-2019,First Class,CUST-046,Customer 12,Corporate,India,Chennai,Kerala,105546,West,PROD-033,Technology,Laptops,Laptop,2773,5,0.18,266
+738,CA-2019-100738,17-04-2019,21-04-2019,First Class,CUST-023,Customer 6,Corporate,India,Jaipur,Karnataka,543182,West,PROD-040,Furniture,Chairs,Notebook,37320,3,0.1,5573
+739,CA-2019-100739,31-12-2019,03-01-2020,Second Class,CUST-041,Customer 48,Home Office,India,Pune,Maharashtra,753057,North,PROD-020,Office Supplies,Binders,Chair,6248,5,0.07,1701
+740,CA-2019-100740,24-12-2019,27-12-2019,First Class,CUST-049,Customer 32,Home Office,India,Bangalore,Karnataka,393830,North,PROD-042,Furniture,Paper,Storage Box,55268,1,0.07,9034
+741,CA-2019-100741,01-05-2019,04-05-2019,Second Class,CUST-033,Customer 32,Corporate,India,Ahmedabad,Tamil Nadu,593943,West,PROD-079,Furniture,Tables,Laptop,58145,1,0.18,6001
+742,CA-2019-100742,20-06-2019,21-06-2019,First Class,CUST-014,Customer 3,Home Office,India,Hyderabad,Kerala,924077,North,PROD-059,Technology,Storage,Table,49475,2,0.03,11688
+743,CA-2019-100743,21-12-2019,25-12-2019,Standard Class,CUST-027,Customer 20,Corporate,India,Jaipur,Delhi,218068,North,PROD-066,Technology,Tables,Table,1671,1,0.09,435
+744,CA-2019-100744,05-06-2019,10-06-2019,Second Class,CUST-018,Customer 23,Corporate,India,Mumbai,Gujarat,102720,West,PROD-083,Office Supplies,Laptops,Table,20928,1,0.06,5490
+745,CA-2019-100745,13-03-2019,18-03-2019,First Class,CUST-021,Customer 44,Consumer,India,Bangalore,Telangana,758309,South,PROD-083,Furniture,Accessories,Notebook,31286,5,0.07,6622
+746,CA-2019-100746,04-01-2019,05-01-2019,Standard Class,CUST-003,Customer 48,Consumer,India,Pune,Kerala,263707,North,PROD-020,Office Supplies,Phones,Storage Box,1594,2,0.16,436
+747,CA-2019-100747,01-11-2019,05-11-2019,Standard Class,CUST-028,Customer 7,Corporate,India,Chennai,Karnataka,668770,South,PROD-043,Office Supplies,Paper,Notebook,36090,1,0.1,5304
+748,CA-2019-100748,01-11-2019,02-11-2019,Second Class,CUST-032,Customer 26,Home Office,India,Delhi,Karnataka,874602,North,PROD-006,Office Supplies,Chairs,Notebook,10783,3,0.19,2905
+749,CA-2019-100749,16-08-2019,21-08-2019,Standard Class,CUST-018,Customer 44,Consumer,India,Chennai,Maharashtra,320585,West,PROD-033,Furniture,Paper,Chair,35678,2,0.05,9115
+750,CA-2019-100750,06-03-2019,09-03-2019,Second Class,CUST-037,Customer 25,Corporate,India,Kochi,Kerala,485370,West,PROD-052,Office Supplies,Accessories,Binder,20332,4,0.08,4684
+751,CA-2019-100751,18-01-2019,21-01-2019,First Class,CUST-024,Customer 40,Consumer,India,Surat,Gujarat,994181,South,PROD-040,Furniture,Accessories,Notebook,1522,3,0.16,394
+752,CA-2019-100752,02-09-2019,06-09-2019,Second Class,CUST-013,Customer 12,Home Office,India,Chennai,Karnataka,150580,South,PROD-089,Office Supplies,Chairs,Notebook,46122,5,0.16,7088
+753,CA-2019-100753,09-05-2019,11-05-2019,First Class,CUST-004,Customer 31,Corporate,India,Chennai,Delhi,511461,West,PROD-028,Office Supplies,Chairs,Binder,55729,3,0.03,3886
+754,CA-2019-100754,03-02-2019,05-02-2019,First Class,CUST-032,Customer 36,Corporate,India,Jaipur,Maharashtra,104602,South,PROD-065,Furniture,Accessories,Notebook,45603,2,0.19,8842
+755,CA-2019-100755,21-07-2019,23-07-2019,First Class,CUST-006,Customer 34,Home Office,India,Surat,Delhi,913738,North,PROD-076,Technology,Chairs,Smartphone,57823,2,0.17,10208
+756,CA-2019-100756,09-10-2019,14-10-2019,Standard Class,CUST-028,Customer 41,Home Office,India,Jaipur,Kerala,549111,West,PROD-066,Furniture,Storage,Laptop,32677,4,0.1,5740
+757,CA-2019-100757,24-11-2019,26-11-2019,Standard Class,CUST-013,Customer 7,Consumer,India,Chennai,Karnataka,897600,North,PROD-011,Office Supplies,Accessories,Table,22284,5,0.09,3456
+758,CA-2019-100758,19-08-2019,24-08-2019,Standard Class,CUST-049,Customer 36,Home Office,India,Delhi,Rajasthan,194356,North,PROD-009,Office Supplies,Chairs,Binder,30187,1,0.18,8160
+759,CA-2019-100759,14-12-2019,16-12-2019,Second Class,CUST-021,Customer 36,Home Office,India,Kochi,Karnataka,485323,North,PROD-023,Technology,Phones,Headphones,45125,1,0.19,11228
+760,CA-2019-100760,24-09-2019,27-09-2019,Standard Class,CUST-025,Customer 16,Home Office,India,Jaipur,Rajasthan,832920,South,PROD-073,Furniture,Chairs,Chair,52259,5,0.16,13961
+761,CA-2019-100761,01-06-2019,02-06-2019,First Class,CUST-012,Customer 47,Consumer,India,Bangalore,Kerala,715030,West,PROD-048,Furniture,Paper,Chair,25930,1,0.04,5488
+762,CA-2019-100762,02-07-2019,04-07-2019,Standard Class,CUST-006,Customer 44,Home Office,India,Bangalore,Maharashtra,677253,South,PROD-035,Office Supplies,Accessories,Notebook,27625,5,0.17,7939
+763,CA-2019-100763,21-01-2019,25-01-2019,Standard Class,CUST-050,Customer 28,Corporate,India,Pune,Rajasthan,207983,North,PROD-074,Furniture,Laptops,Laptop,31949,3,0.01,9490
+764,CA-2019-100764,12-11-2019,13-11-2019,First Class,CUST-030,Customer 30,Corporate,India,Pune,Gujarat,142261,North,PROD-017,Office Supplies,Accessories,Notebook,37505,3,0.1,1880
+765,CA-2019-100765,05-12-2019,09-12-2019,Second Class,CUST-009,Customer 22,Consumer,India,Jaipur,Delhi,185591,West,PROD-076,Technology,Chairs,Smartphone,45752,5,0.06,4499
+766,CA-2019-100766,14-05-2019,15-05-2019,Second Class,CUST-028,Customer 17,Home Office,India,Pune,Karnataka,613790,South,PROD-077,Furniture,Phones,Notebook,17411,2,0.13,1382
+767,CA-2019-100767,02-12-2019,05-12-2019,First Class,CUST-033,Customer 9,Consumer,India,Delhi,Kerala,907587,West,PROD-096,Furniture,Paper,Notebook,16847,5,0.12,2499
+768,CA-2019-100768,10-07-2019,13-07-2019,Standard Class,CUST-035,Customer 18,Corporate,India,Bangalore,Gujarat,294695,South,PROD-068,Furniture,Chairs,Table,21331,4,0.01,4995
+769,CA-2019-100769,02-02-2019,07-02-2019,Standard Class,CUST-023,Customer 47,Corporate,India,Kochi,Rajasthan,645165,West,PROD-047,Furniture,Paper,Binder,17298,4,0.14,1034
+770,CA-2019-100770,25-10-2019,28-10-2019,Standard Class,CUST-036,Customer 12,Consumer,India,Mumbai,Maharashtra,760365,North,PROD-006,Furniture,Laptops,Table,37465,5,0.14,9516
+771,CA-2019-100771,01-02-2019,06-02-2019,Second Class,CUST-045,Customer 17,Home Office,India,Delhi,Maharashtra,786804,West,PROD-078,Office Supplies,Storage,Storage Box,47689,2,0.05,2610
+772,CA-2019-100772,16-06-2019,19-06-2019,Standard Class,CUST-024,Customer 45,Corporate,India,Mumbai,Karnataka,154898,South,PROD-070,Technology,Binders,Table,29428,1,0.13,3344
+773,CA-2019-100773,08-12-2019,13-12-2019,First Class,CUST-044,Customer 38,Corporate,India,Jaipur,Gujarat,716395,North,PROD-035,Office Supplies,Binders,Headphones,53086,5,0.19,14647
+774,CA-2019-100774,06-02-2019,08-02-2019,Standard Class,CUST-039,Customer 30,Consumer,India,Bangalore,Karnataka,668233,North,PROD-065,Furniture,Accessories,Laptop,59187,4,0.15,14316
+775,CA-2019-100775,20-05-2019,21-05-2019,Second Class,CUST-046,Customer 5,Corporate,India,Chennai,Delhi,392702,North,PROD-087,Furniture,Binders,Table,59236,2,0.1,8481
+776,CA-2019-100776,26-09-2019,01-10-2019,Standard Class,CUST-021,Customer 29,Corporate,India,Jaipur,Kerala,245197,West,PROD-090,Technology,Laptops,Storage Box,15751,3,0.06,3237
+777,CA-2019-100777,22-05-2019,25-05-2019,Second Class,CUST-009,Customer 23,Consumer,India,Delhi,Tamil Nadu,357914,North,PROD-058,Technology,Chairs,Headphones,11779,5,0.07,2996
+778,CA-2019-100778,15-02-2019,19-02-2019,Second Class,CUST-046,Customer 36,Home Office,India,Jaipur,Maharashtra,583282,North,PROD-075,Technology,Tables,Table,42193,5,0.09,11588
+779,CA-2019-100779,18-03-2019,22-03-2019,First Class,CUST-022,Customer 45,Consumer,India,Jaipur,Telangana,352968,South,PROD-035,Furniture,Tables,Laptop,42315,2,0.17,12508
+780,CA-2019-100780,03-11-2019,07-11-2019,Standard Class,CUST-007,Customer 49,Corporate,India,Ahmedabad,Delhi,279046,West,PROD-078,Technology,Chairs,Chair,27734,2,0.03,2426
+781,CA-2019-100781,22-10-2019,27-10-2019,Standard Class,CUST-012,Customer 5,Consumer,India,Bangalore,Telangana,345282,South,PROD-077,Technology,Phones,Chair,49824,3,0.19,14467
+782,CA-2019-100782,22-03-2019,23-03-2019,Second Class,CUST-045,Customer 31,Home Office,India,Kochi,Maharashtra,865050,North,PROD-073,Office Supplies,Phones,Binder,51697,4,0.18,12106
+783,CA-2019-100783,06-10-2019,08-10-2019,First Class,CUST-028,Customer 6,Home Office,India,Chennai,Karnataka,903709,North,PROD-093,Office Supplies,Storage,Binder,53951,4,0.11,7118
+784,CA-2019-100784,12-03-2019,14-03-2019,Standard Class,CUST-039,Customer 41,Consumer,India,Pune,Kerala,557759,North,PROD-093,Furniture,Paper,Storage Box,35949,2,0.03,9691
+785,CA-2019-100785,25-03-2019,27-03-2019,Second Class,CUST-012,Customer 36,Consumer,India,Hyderabad,Delhi,102499,West,PROD-044,Office Supplies,Tables,Table,10667,3,0.18,853
+786,CA-2019-100786,30-01-2019,03-02-2019,First Class,CUST-043,Customer 38,Home Office,India,Surat,Karnataka,932291,West,PROD-063,Technology,Paper,Chair,12017,3,0.16,2011
+787,CA-2019-100787,30-08-2019,01-09-2019,Second Class,CUST-036,Customer 22,Corporate,India,Pune,Karnataka,576184,South,PROD-011,Office Supplies,Binders,Notebook,44038,2,0.2,3886
+788,CA-2019-100788,23-09-2019,24-09-2019,Second Class,CUST-041,Customer 17,Consumer,India,Surat,Telangana,262487,North,PROD-019,Furniture,Storage,Headphones,18569,4,0.19,5066
+789,CA-2019-100789,08-10-2019,09-10-2019,First Class,CUST-030,Customer 34,Consumer,India,Chennai,Karnataka,563580,North,PROD-039,Office Supplies,Storage,Smartphone,46191,5,0.05,13145
+790,CA-2019-100790,27-08-2019,28-08-2019,Standard Class,CUST-043,Customer 12,Consumer,India,Pune,Telangana,556423,West,PROD-010,Office Supplies,Laptops,Smartphone,39025,1,0.05,5642
+791,CA-2019-100791,05-12-2019,07-12-2019,First Class,CUST-047,Customer 42,Home Office,India,Kochi,Delhi,261812,West,PROD-041,Technology,Accessories,Binder,55645,4,0.01,4409
+792,CA-2019-100792,21-08-2019,22-08-2019,First Class,CUST-018,Customer 9,Corporate,India,Surat,Telangana,117960,South,PROD-086,Furniture,Tables,Laptop,40822,5,0.02,11961
+793,CA-2019-100793,29-01-2019,03-02-2019,First Class,CUST-002,Customer 26,Home Office,India,Jaipur,Maharashtra,319540,North,PROD-053,Technology,Phones,Storage Box,28148,4,0.15,5211
+794,CA-2019-100794,31-05-2019,03-06-2019,Standard Class,CUST-007,Customer 8,Corporate,India,Kochi,Kerala,626348,West,PROD-006,Furniture,Chairs,Storage Box,13507,3,0.15,1754
+795,CA-2019-100795,24-08-2019,25-08-2019,First Class,CUST-033,Customer 16,Corporate,India,Bangalore,Rajasthan,673691,West,PROD-059,Furniture,Chairs,Chair,23511,4,0.03,1382
+796,CA-2019-100796,03-04-2019,05-04-2019,Second Class,CUST-017,Customer 30,Home Office,India,Ahmedabad,Kerala,157527,West,PROD-087,Technology,Accessories,Chair,52794,2,0.08,10253
+797,CA-2019-100797,01-10-2019,04-10-2019,Standard Class,CUST-008,Customer 27,Corporate,India,Delhi,Delhi,404155,West,PROD-010,Technology,Chairs,Chair,26894,3,0.11,7569
+798,CA-2019-100798,14-06-2019,15-06-2019,Second Class,CUST-015,Customer 10,Home Office,India,Ahmedabad,Delhi,254457,West,PROD-027,Office Supplies,Tables,Table,55225,5,0.04,5854
+799,CA-2019-100799,10-09-2019,11-09-2019,Second Class,CUST-007,Customer 23,Corporate,India,Surat,Delhi,988138,North,PROD-017,Furniture,Chairs,Chair,48293,1,0.02,3395
+800,CA-2019-100800,01-12-2019,02-12-2019,First Class,CUST-042,Customer 41,Corporate,India,Delhi,Karnataka,435651,North,PROD-092,Office Supplies,Laptops,Storage Box,22865,1,0.12,4273
+801,CA-2019-100801,27-01-2019,31-01-2019,First Class,CUST-038,Customer 14,Home Office,India,Jaipur,Tamil Nadu,460716,South,PROD-056,Technology,Storage,Laptop,7785,2,0.08,1337
+802,CA-2019-100802,24-01-2019,26-01-2019,Standard Class,CUST-018,Customer 23,Corporate,India,Bangalore,Tamil Nadu,362524,West,PROD-034,Office Supplies,Chairs,Table,29659,5,0.03,8483
+803,CA-2019-100803,23-04-2019,26-04-2019,Second Class,CUST-035,Customer 23,Consumer,India,Delhi,Rajasthan,306522,West,PROD-068,Technology,Laptops,Smartphone,8129,4,0.13,1833
+804,CA-2019-100804,22-07-2019,23-07-2019,Second Class,CUST-006,Customer 29,Consumer,India,Pune,Kerala,745366,West,PROD-099,Furniture,Storage,Table,6499,2,0.08,1648
+805,CA-2019-100805,14-01-2019,16-01-2019,Standard Class,CUST-028,Customer 50,Consumer,India,Mumbai,Tamil Nadu,282390,West,PROD-095,Technology,Storage,Laptop,33480,2,0.18,7998
+806,CA-2019-100806,28-01-2019,02-02-2019,Standard Class,CUST-040,Customer 21,Consumer,India,Jaipur,Maharashtra,430878,South,PROD-060,Office Supplies,Paper,Binder,27263,4,0.2,4759
+807,CA-2019-100807,05-02-2019,10-02-2019,Standard Class,CUST-047,Customer 32,Home Office,India,Delhi,Tamil Nadu,863473,West,PROD-027,Furniture,Chairs,Binder,28919,5,0.02,7759
+808,CA-2019-100808,25-07-2019,27-07-2019,Standard Class,CUST-046,Customer 17,Corporate,India,Delhi,Maharashtra,475262,South,PROD-098,Technology,Phones,Notebook,43639,1,0.11,12388
+809,CA-2019-100809,16-02-2019,17-02-2019,Standard Class,CUST-022,Customer 33,Consumer,India,Surat,Karnataka,899099,South,PROD-081,Office Supplies,Chairs,Table,29025,2,0.03,6160
+810,CA-2019-100810,03-01-2019,04-01-2019,Second Class,CUST-028,Customer 30,Consumer,India,Bangalore,Rajasthan,943103,West,PROD-045,Technology,Binders,Laptop,58474,2,0.06,3077
+811,CA-2019-100811,26-03-2019,27-03-2019,Second Class,CUST-001,Customer 5,Corporate,India,Hyderabad,Kerala,267044,North,PROD-090,Office Supplies,Tables,Table,36631,4,0.15,8822
+812,CA-2019-100812,13-09-2019,16-09-2019,Second Class,CUST-008,Customer 21,Corporate,India,Mumbai,Karnataka,827255,West,PROD-075,Office Supplies,Paper,Smartphone,8095,2,0.06,1143
+813,CA-2019-100813,08-02-2019,13-02-2019,Second Class,CUST-049,Customer 45,Consumer,India,Delhi,Tamil Nadu,134609,North,PROD-028,Office Supplies,Chairs,Chair,44268,1,0.06,8888
+814,CA-2019-100814,26-03-2019,29-03-2019,Standard Class,CUST-046,Customer 21,Consumer,India,Mumbai,Gujarat,563103,South,PROD-069,Technology,Paper,Notebook,9918,2,0.16,2047
+815,CA-2019-100815,23-09-2019,28-09-2019,Standard Class,CUST-007,Customer 32,Corporate,India,Pune,Tamil Nadu,912171,West,PROD-060,Technology,Accessories,Storage Box,51100,2,0.07,14266
+816,CA-2019-100816,28-06-2019,02-07-2019,Second Class,CUST-018,Customer 29,Home Office,India,Surat,Telangana,326708,South,PROD-084,Technology,Paper,Notebook,26190,4,0.1,4598
+817,CA-2019-100817,15-08-2019,19-08-2019,Standard Class,CUST-002,Customer 11,Corporate,India,Hyderabad,Gujarat,529973,North,PROD-089,Furniture,Phones,Notebook,57132,1,0.01,4861
+818,CA-2019-100818,14-01-2019,18-01-2019,First Class,CUST-004,Customer 6,Corporate,India,Ahmedabad,Kerala,524895,West,PROD-040,Technology,Paper,Binder,5251,2,0.02,918
+819,CA-2019-100819,21-02-2019,26-02-2019,Standard Class,CUST-009,Customer 19,Consumer,India,Kochi,Kerala,401783,North,PROD-009,Furniture,Laptops,Binder,5608,1,0.13,1355
+820,CA-2019-100820,17-11-2019,21-11-2019,Second Class,CUST-009,Customer 33,Corporate,India,Bangalore,Delhi,972200,South,PROD-061,Office Supplies,Accessories,Smartphone,53913,2,0.18,12935
+821,CA-2019-100821,19-05-2019,21-05-2019,Second Class,CUST-046,Customer 47,Home Office,India,Kochi,Kerala,988869,West,PROD-048,Office Supplies,Binders,Table,41749,4,0.13,2540
+822,CA-2019-100822,12-05-2019,17-05-2019,Standard Class,CUST-021,Customer 34,Consumer,India,Mumbai,Tamil Nadu,127608,South,PROD-063,Technology,Chairs,Storage Box,31461,2,0.11,6697
+823,CA-2019-100823,20-01-2019,22-01-2019,Second Class,CUST-007,Customer 4,Consumer,India,Pune,Telangana,450827,West,PROD-005,Technology,Paper,Chair,10218,3,0.01,2404
+824,CA-2019-100824,29-07-2019,31-07-2019,Second Class,CUST-041,Customer 19,Corporate,India,Delhi,Rajasthan,663539,South,PROD-036,Furniture,Binders,Notebook,12840,5,0.19,3568
+825,CA-2019-100825,27-08-2019,28-08-2019,First Class,CUST-006,Customer 20,Corporate,India,Bangalore,Delhi,860660,South,PROD-096,Furniture,Accessories,Laptop,53058,4,0.08,12410
+826,CA-2019-100826,15-09-2019,16-09-2019,First Class,CUST-005,Customer 35,Home Office,India,Pune,Maharashtra,188888,South,PROD-086,Technology,Paper,Headphones,27520,5,0.05,3937
+827,CA-2019-100827,10-12-2019,12-12-2019,Standard Class,CUST-017,Customer 37,Consumer,India,Mumbai,Maharashtra,544928,West,PROD-049,Furniture,Storage,Table,57809,2,0.07,9648
+828,CA-2019-100828,13-10-2019,18-10-2019,Standard Class,CUST-036,Customer 13,Corporate,India,Surat,Karnataka,471337,West,PROD-026,Office Supplies,Storage,Table,35419,4,0.02,2085
+829,CA-2019-100829,11-09-2019,14-09-2019,Standard Class,CUST-005,Customer 7,Corporate,India,Ahmedabad,Kerala,235390,South,PROD-004,Furniture,Laptops,Binder,20415,5,0.08,5486
+830,CA-2019-100830,18-05-2019,23-05-2019,First Class,CUST-014,Customer 47,Corporate,India,Hyderabad,Tamil Nadu,538207,West,PROD-076,Furniture,Binders,Binder,7657,3,0.05,916
+831,CA-2019-100831,13-01-2019,14-01-2019,Second Class,CUST-019,Customer 39,Home Office,India,Pune,Gujarat,241703,South,PROD-022,Technology,Binders,Notebook,15303,2,0.06,3778
+832,CA-2019-100832,14-06-2019,17-06-2019,Standard Class,CUST-023,Customer 49,Home Office,India,Pune,Gujarat,109650,West,PROD-052,Office Supplies,Paper,Chair,58931,1,0.19,17387
+833,CA-2019-100833,12-03-2019,14-03-2019,First Class,CUST-012,Customer 45,Corporate,India,Mumbai,Karnataka,587212,West,PROD-070,Office Supplies,Laptops,Chair,37186,3,0.19,8356
+834,CA-2019-100834,01-12-2019,06-12-2019,Second Class,CUST-038,Customer 40,Corporate,India,Chennai,Maharashtra,652775,West,PROD-012,Technology,Tables,Chair,13537,1,0.07,3788
+835,CA-2019-100835,13-12-2019,16-12-2019,Second Class,CUST-007,Customer 11,Corporate,India,Kochi,Karnataka,984456,South,PROD-037,Furniture,Storage,Chair,25616,2,0.07,1535
+836,CA-2019-100836,14-02-2019,18-02-2019,Standard Class,CUST-039,Customer 2,Consumer,India,Hyderabad,Karnataka,253186,North,PROD-074,Furniture,Binders,Notebook,41220,1,0.12,7210
+837,CA-2019-100837,01-03-2019,06-03-2019,Second Class,CUST-015,Customer 15,Corporate,India,Delhi,Telangana,718073,North,PROD-013,Technology,Phones,Binder,40642,3,0.01,8842
+838,CA-2019-100838,17-08-2019,18-08-2019,Standard Class,CUST-014,Customer 1,Consumer,India,Kochi,Delhi,927500,West,PROD-070,Furniture,Paper,Headphones,49855,3,0.12,3754
+839,CA-2019-100839,08-03-2019,09-03-2019,Second Class,CUST-037,Customer 49,Home Office,India,Surat,Delhi,205980,North,PROD-023,Furniture,Paper,Laptop,38595,4,0.04,3372
+840,CA-2019-100840,08-04-2019,12-04-2019,Second Class,CUST-019,Customer 12,Consumer,India,Jaipur,Delhi,994343,North,PROD-081,Technology,Laptops,Smartphone,45948,5,0.16,7848
+841,CA-2019-100841,24-01-2019,26-01-2019,First Class,CUST-040,Customer 21,Consumer,India,Jaipur,Tamil Nadu,533211,North,PROD-039,Office Supplies,Chairs,Headphones,48784,5,0.14,7045
+842,CA-2019-100842,29-07-2019,02-08-2019,Standard Class,CUST-039,Customer 2,Home Office,India,Surat,Telangana,565674,South,PROD-056,Furniture,Accessories,Notebook,39153,3,0.01,4219
+843,CA-2019-100843,07-06-2019,11-06-2019,Standard Class,CUST-008,Customer 42,Consumer,India,Ahmedabad,Karnataka,368654,West,PROD-054,Furniture,Binders,Headphones,53591,2,0.08,15860
+844,CA-2019-100844,14-03-2019,18-03-2019,Second Class,CUST-037,Customer 5,Home Office,India,Pune,Delhi,277542,South,PROD-008,Furniture,Laptops,Headphones,37443,5,0.2,3576
+845,CA-2019-100845,20-11-2019,22-11-2019,First Class,CUST-017,Customer 9,Home Office,India,Hyderabad,Kerala,364702,North,PROD-073,Furniture,Storage,Chair,35864,2,0.01,5915
+846,CA-2019-100846,07-07-2019,12-07-2019,Standard Class,CUST-016,Customer 15,Corporate,India,Kochi,Delhi,807301,West,PROD-003,Technology,Chairs,Binder,20675,2,0.05,5300
+847,CA-2019-100847,05-12-2019,06-12-2019,Second Class,CUST-035,Customer 34,Corporate,India,Mumbai,Kerala,400040,North,PROD-097,Technology,Laptops,Laptop,22303,1,0.18,2785
+848,CA-2019-100848,20-10-2019,24-10-2019,Standard Class,CUST-023,Customer 35,Home Office,India,Jaipur,Telangana,656087,North,PROD-060,Furniture,Paper,Notebook,38270,4,0.09,5205
+849,CA-2019-100849,21-01-2019,26-01-2019,Second Class,CUST-049,Customer 30,Corporate,India,Delhi,Gujarat,540576,West,PROD-002,Technology,Laptops,Storage Box,29232,1,0.19,3708
+850,CA-2019-100850,03-12-2019,08-12-2019,Second Class,CUST-030,Customer 29,Corporate,India,Kochi,Maharashtra,980301,South,PROD-038,Technology,Phones,Notebook,25139,4,0.08,6581
+851,CA-2019-100851,11-01-2019,12-01-2019,Standard Class,CUST-041,Customer 34,Home Office,India,Mumbai,Delhi,429678,North,PROD-004,Furniture,Binders,Chair,28531,4,0.08,5388
+852,CA-2019-100852,03-01-2019,04-01-2019,Second Class,CUST-001,Customer 14,Corporate,India,Jaipur,Tamil Nadu,621865,North,PROD-019,Office Supplies,Chairs,Table,15879,2,0.17,3446
+853,CA-2019-100853,06-03-2019,09-03-2019,First Class,CUST-025,Customer 18,Consumer,India,Surat,Rajasthan,309224,West,PROD-046,Office Supplies,Chairs,Notebook,28835,2,0.05,7647
+854,CA-2019-100854,05-10-2019,10-10-2019,Second Class,CUST-036,Customer 22,Home Office,India,Hyderabad,Telangana,191919,North,PROD-007,Office Supplies,Paper,Storage Box,9903,1,0.02,2335
+855,CA-2019-100855,27-11-2019,01-12-2019,First Class,CUST-023,Customer 29,Home Office,India,Ahmedabad,Telangana,669357,West,PROD-038,Office Supplies,Accessories,Notebook,2267,3,0.02,633
+856,CA-2019-100856,13-07-2019,18-07-2019,Second Class,CUST-038,Customer 28,Corporate,India,Pune,Kerala,237048,West,PROD-006,Furniture,Storage,Chair,4591,2,0.08,1363
+857,CA-2019-100857,15-06-2019,20-06-2019,Standard Class,CUST-038,Customer 33,Corporate,India,Surat,Tamil Nadu,842648,West,PROD-016,Office Supplies,Paper,Headphones,36627,3,0.03,1933
+858,CA-2019-100858,30-06-2019,01-07-2019,Standard Class,CUST-011,Customer 3,Corporate,India,Kochi,Gujarat,676339,South,PROD-099,Office Supplies,Phones,Table,26250,4,0.13,5453
+859,CA-2019-100859,02-03-2019,06-03-2019,Second Class,CUST-015,Customer 46,Home Office,India,Ahmedabad,Maharashtra,947124,South,PROD-083,Office Supplies,Accessories,Laptop,11779,1,0.17,1820
+860,CA-2019-100860,10-04-2019,15-04-2019,Standard Class,CUST-030,Customer 38,Home Office,India,Mumbai,Karnataka,834158,North,PROD-061,Office Supplies,Accessories,Chair,8422,1,0.12,1083
+861,CA-2019-100861,26-11-2019,01-12-2019,First Class,CUST-043,Customer 43,Home Office,India,Hyderabad,Rajasthan,224426,West,PROD-015,Office Supplies,Chairs,Storage Box,38514,2,0.11,4882
+862,CA-2019-100862,19-02-2019,22-02-2019,Standard Class,CUST-033,Customer 13,Consumer,India,Jaipur,Karnataka,992234,South,PROD-007,Furniture,Chairs,Laptop,32819,1,0.17,4613
+863,CA-2019-100863,02-11-2019,04-11-2019,Second Class,CUST-024,Customer 44,Corporate,India,Chennai,Gujarat,605673,North,PROD-053,Technology,Laptops,Table,59790,1,0.06,10487
+864,CA-2019-100864,15-08-2019,20-08-2019,First Class,CUST-005,Customer 30,Home Office,India,Surat,Telangana,549906,South,PROD-069,Technology,Paper,Smartphone,47226,1,0.18,11730
+865,CA-2019-100865,18-05-2019,19-05-2019,First Class,CUST-050,Customer 19,Corporate,India,Chennai,Maharashtra,199498,South,PROD-026,Furniture,Chairs,Table,46043,2,0.02,9486
+866,CA-2019-100866,07-11-2019,10-11-2019,Second Class,CUST-014,Customer 46,Consumer,India,Kochi,Gujarat,326580,North,PROD-070,Office Supplies,Phones,Storage Box,37181,3,0.08,3872
+867,CA-2019-100867,28-09-2019,29-09-2019,Second Class,CUST-009,Customer 36,Home Office,India,Chennai,Telangana,953746,North,PROD-075,Furniture,Accessories,Laptop,41629,2,0.15,7508
+868,CA-2019-100868,16-08-2019,20-08-2019,Standard Class,CUST-011,Customer 1,Home Office,India,Chennai,Telangana,474066,South,PROD-089,Office Supplies,Laptops,Table,35118,4,0.09,6450
+869,CA-2019-100869,22-02-2019,25-02-2019,Second Class,CUST-020,Customer 49,Home Office,India,Jaipur,Telangana,136474,West,PROD-026,Technology,Accessories,Chair,56589,5,0.1,8911
+870,CA-2019-100870,20-02-2019,25-02-2019,First Class,CUST-024,Customer 44,Home Office,India,Bangalore,Delhi,215637,South,PROD-051,Furniture,Chairs,Chair,50102,5,0.19,6500
+871,CA-2019-100871,21-10-2019,24-10-2019,Standard Class,CUST-034,Customer 35,Consumer,India,Delhi,Gujarat,290101,North,PROD-020,Technology,Laptops,Smartphone,39722,3,0.2,2463
+872,CA-2019-100872,20-10-2019,23-10-2019,First Class,CUST-042,Customer 1,Home Office,India,Hyderabad,Rajasthan,266201,North,PROD-043,Furniture,Binders,Binder,57090,4,0.02,5188
+873,CA-2019-100873,17-09-2019,18-09-2019,Standard Class,CUST-003,Customer 50,Corporate,India,Pune,Maharashtra,643818,West,PROD-018,Office Supplies,Paper,Laptop,41158,4,0.13,5739
+874,CA-2019-100874,01-05-2019,05-05-2019,First Class,CUST-026,Customer 30,Home Office,India,Surat,Karnataka,802428,South,PROD-079,Office Supplies,Chairs,Notebook,6842,4,0.19,1259
+875,CA-2019-100875,05-04-2019,09-04-2019,First Class,CUST-032,Customer 9,Corporate,India,Hyderabad,Tamil Nadu,646077,North,PROD-003,Office Supplies,Tables,Table,59690,1,0.15,15951
+876,CA-2019-100876,02-06-2019,03-06-2019,Second Class,CUST-038,Customer 37,Corporate,India,Delhi,Rajasthan,996450,North,PROD-042,Technology,Storage,Headphones,50461,1,0.17,12639
+877,CA-2019-100877,15-07-2019,18-07-2019,Second Class,CUST-008,Customer 38,Corporate,India,Chennai,Tamil Nadu,726659,South,PROD-059,Technology,Chairs,Headphones,12339,4,0.15,2566
+878,CA-2019-100878,14-06-2019,19-06-2019,Standard Class,CUST-013,Customer 10,Corporate,India,Hyderabad,Kerala,648111,South,PROD-087,Technology,Laptops,Smartphone,54210,1,0.14,14038
+879,CA-2019-100879,18-12-2019,21-12-2019,Second Class,CUST-026,Customer 11,Corporate,India,Surat,Maharashtra,818740,North,PROD-018,Furniture,Phones,Smartphone,46165,2,0.18,8818
+880,CA-2019-100880,04-05-2019,05-05-2019,First Class,CUST-039,Customer 45,Home Office,India,Pune,Kerala,791638,West,PROD-083,Technology,Tables,Notebook,26735,1,0.02,3017
+881,CA-2019-100881,20-09-2019,24-09-2019,Second Class,CUST-018,Customer 35,Corporate,India,Chennai,Telangana,246797,North,PROD-075,Furniture,Accessories,Notebook,42224,5,0.17,11641
+882,CA-2019-100882,15-07-2019,20-07-2019,Standard Class,CUST-027,Customer 12,Consumer,India,Delhi,Gujarat,158139,West,PROD-057,Office Supplies,Chairs,Table,33293,2,0.15,2869
+883,CA-2019-100883,03-08-2019,04-08-2019,Standard Class,CUST-027,Customer 32,Consumer,India,Chennai,Telangana,652809,South,PROD-003,Furniture,Tables,Chair,37254,4,0.04,5540
+884,CA-2019-100884,05-07-2019,07-07-2019,Standard Class,CUST-037,Customer 45,Corporate,India,Hyderabad,Kerala,553903,West,PROD-081,Technology,Laptops,Smartphone,33937,4,0.04,1976
+885,CA-2019-100885,14-01-2019,15-01-2019,Standard Class,CUST-031,Customer 37,Corporate,India,Hyderabad,Rajasthan,118615,West,PROD-099,Office Supplies,Accessories,Table,4356,5,0.08,1064
+886,CA-2019-100886,08-12-2019,13-12-2019,Second Class,CUST-024,Customer 5,Consumer,India,Delhi,Kerala,902399,South,PROD-061,Office Supplies,Binders,Chair,57543,1,0.1,16053
+887,CA-2019-100887,30-11-2019,03-12-2019,First Class,CUST-038,Customer 12,Corporate,India,Pune,Telangana,575051,South,PROD-068,Technology,Accessories,Notebook,55264,5,0.02,3321
+888,CA-2019-100888,31-10-2019,05-11-2019,First Class,CUST-037,Customer 2,Consumer,India,Bangalore,Maharashtra,604951,South,PROD-007,Office Supplies,Phones,Headphones,48359,2,0.07,14052
+889,CA-2019-100889,14-06-2019,16-06-2019,Second Class,CUST-010,Customer 9,Home Office,India,Chennai,Gujarat,398224,West,PROD-054,Office Supplies,Storage,Chair,34580,5,0.15,6229
+890,CA-2019-100890,05-04-2019,07-04-2019,Standard Class,CUST-003,Customer 39,Corporate,India,Kochi,Tamil Nadu,179109,West,PROD-095,Furniture,Binders,Headphones,30288,5,0.03,6962
+891,CA-2019-100891,03-07-2019,08-07-2019,First Class,CUST-041,Customer 5,Home Office,India,Bangalore,Tamil Nadu,226182,West,PROD-020,Office Supplies,Laptops,Smartphone,41122,3,0.13,6827
+892,CA-2019-100892,29-09-2019,01-10-2019,Second Class,CUST-004,Customer 3,Home Office,India,Delhi,Karnataka,866998,South,PROD-032,Furniture,Binders,Laptop,18316,3,0.18,1701
+893,CA-2019-100893,07-12-2019,11-12-2019,Second Class,CUST-034,Customer 50,Consumer,India,Ahmedabad,Delhi,778106,South,PROD-096,Technology,Storage,Table,40509,5,0.09,10786
+894,CA-2019-100894,06-03-2019,07-03-2019,Standard Class,CUST-011,Customer 14,Corporate,India,Hyderabad,Maharashtra,391273,South,PROD-087,Technology,Chairs,Table,32116,1,0.05,3682
+895,CA-2019-100895,08-12-2019,11-12-2019,Standard Class,CUST-048,Customer 30,Home Office,India,Pune,Telangana,117103,North,PROD-026,Office Supplies,Chairs,Chair,7873,2,0.07,786
+896,CA-2019-100896,30-01-2019,04-02-2019,Second Class,CUST-045,Customer 12,Corporate,India,Chennai,Telangana,210753,North,PROD-079,Office Supplies,Chairs,Laptop,41854,5,0.02,8645
+897,CA-2019-100897,25-08-2019,29-08-2019,First Class,CUST-015,Customer 13,Home Office,India,Hyderabad,Karnataka,158928,North,PROD-038,Office Supplies,Binders,Binder,15460,4,0.14,4156
+898,CA-2019-100898,22-04-2019,26-04-2019,First Class,CUST-035,Customer 49,Home Office,India,Bangalore,Karnataka,265713,South,PROD-085,Office Supplies,Storage,Laptop,43643,2,0.17,3509
+899,CA-2019-100899,14-01-2019,17-01-2019,Second Class,CUST-014,Customer 46,Home Office,India,Hyderabad,Kerala,815434,North,PROD-067,Office Supplies,Storage,Laptop,19076,4,0.14,2280
+900,CA-2019-100900,02-02-2019,05-02-2019,Second Class,CUST-043,Customer 40,Corporate,India,Jaipur,Kerala,680284,North,PROD-070,Technology,Chairs,Headphones,825,5,0.15,54
+901,CA-2019-100901,16-10-2019,21-10-2019,First Class,CUST-028,Customer 18,Consumer,India,Pune,Kerala,296863,West,PROD-048,Office Supplies,Laptops,Smartphone,38236,5,0.11,7912
+902,CA-2019-100902,24-04-2019,29-04-2019,Standard Class,CUST-025,Customer 43,Home Office,India,Ahmedabad,Maharashtra,884919,West,PROD-055,Furniture,Storage,Laptop,29837,4,0.16,8242
+903,CA-2019-100903,03-10-2019,05-10-2019,First Class,CUST-049,Customer 13,Home Office,India,Mumbai,Delhi,166227,South,PROD-048,Technology,Storage,Chair,25779,5,0.18,7058
+904,CA-2019-100904,29-10-2019,01-11-2019,First Class,CUST-023,Customer 41,Corporate,India,Bangalore,Telangana,758451,South,PROD-024,Furniture,Paper,Smartphone,45542,5,0.13,8877
+905,CA-2019-100905,04-05-2019,09-05-2019,Standard Class,CUST-034,Customer 24,Home Office,India,Pune,Rajasthan,100145,North,PROD-045,Office Supplies,Storage,Chair,3791,5,0.06,926
+906,CA-2019-100906,21-12-2019,22-12-2019,Second Class,CUST-048,Customer 12,Consumer,India,Mumbai,Rajasthan,197261,South,PROD-074,Office Supplies,Binders,Headphones,51901,1,0.12,15102
+907,CA-2019-100907,12-11-2019,16-11-2019,Standard Class,CUST-012,Customer 9,Home Office,India,Pune,Tamil Nadu,998780,North,PROD-055,Furniture,Chairs,Headphones,39606,4,0.17,8256
+908,CA-2019-100908,09-10-2019,10-10-2019,Standard Class,CUST-004,Customer 28,Corporate,India,Hyderabad,Telangana,354709,West,PROD-028,Furniture,Accessories,Smartphone,16988,3,0.04,994
+909,CA-2019-100909,11-05-2019,15-05-2019,Standard Class,CUST-033,Customer 29,Corporate,India,Surat,Gujarat,265458,South,PROD-087,Office Supplies,Paper,Table,3652,5,0.07,642
+910,CA-2019-100910,09-05-2019,13-05-2019,First Class,CUST-004,Customer 33,Home Office,India,Kochi,Delhi,176763,West,PROD-049,Office Supplies,Tables,Notebook,40223,5,0.08,7678
+911,CA-2019-100911,12-05-2019,15-05-2019,First Class,CUST-005,Customer 27,Home Office,India,Bangalore,Tamil Nadu,860339,West,PROD-067,Technology,Laptops,Binder,38764,3,0.1,9158
+912,CA-2019-100912,31-08-2019,02-09-2019,Second Class,CUST-045,Customer 25,Consumer,India,Hyderabad,Delhi,733156,North,PROD-088,Furniture,Tables,Notebook,22273,2,0.02,2723
+913,CA-2019-100913,02-06-2019,05-06-2019,Second Class,CUST-027,Customer 50,Corporate,India,Surat,Karnataka,734117,North,PROD-072,Furniture,Accessories,Table,57826,4,0.06,9437
+914,CA-2019-100914,26-09-2019,29-09-2019,First Class,CUST-027,Customer 50,Consumer,India,Surat,Kerala,948391,South,PROD-073,Office Supplies,Laptops,Smartphone,47644,5,0.09,7230
+915,CA-2019-100915,07-02-2019,08-02-2019,Standard Class,CUST-008,Customer 45,Consumer,India,Bangalore,Kerala,907847,North,PROD-010,Furniture,Tables,Binder,35532,4,0.09,7371
+916,CA-2019-100916,18-01-2019,22-01-2019,Second Class,CUST-007,Customer 17,Consumer,India,Bangalore,Gujarat,572490,West,PROD-029,Office Supplies,Tables,Notebook,50048,5,0.01,7003
+917,CA-2019-100917,31-05-2019,01-06-2019,Second Class,CUST-008,Customer 19,Corporate,India,Jaipur,Telangana,628568,South,PROD-067,Office Supplies,Storage,Headphones,58964,1,0.09,12823
+918,CA-2019-100918,13-12-2019,14-12-2019,Second Class,CUST-015,Customer 36,Corporate,India,Pune,Maharashtra,856526,South,PROD-018,Office Supplies,Laptops,Laptop,22694,1,0.13,2307
+919,CA-2019-100919,13-01-2019,14-01-2019,First Class,CUST-036,Customer 40,Consumer,India,Surat,Karnataka,942157,South,PROD-090,Technology,Tables,Storage Box,28890,2,0.12,4217
+920,CA-2019-100920,15-01-2019,18-01-2019,First Class,CUST-035,Customer 45,Home Office,India,Bangalore,Kerala,802418,North,PROD-030,Office Supplies,Chairs,Notebook,36091,2,0.19,9802
+921,CA-2019-100921,16-06-2019,18-06-2019,First Class,CUST-027,Customer 1,Consumer,India,Delhi,Maharashtra,200010,West,PROD-020,Technology,Paper,Notebook,39585,5,0.16,3454
+922,CA-2019-100922,20-12-2019,21-12-2019,Second Class,CUST-038,Customer 3,Home Office,India,Surat,Maharashtra,822436,South,PROD-016,Office Supplies,Chairs,Smartphone,45319,2,0.07,2269
+923,CA-2019-100923,24-01-2019,26-01-2019,First Class,CUST-014,Customer 45,Home Office,India,Mumbai,Kerala,930855,North,PROD-083,Technology,Accessories,Binder,27130,2,0.05,6538
+924,CA-2019-100924,27-10-2019,30-10-2019,Second Class,CUST-032,Customer 1,Consumer,India,Jaipur,Kerala,628647,West,PROD-094,Office Supplies,Chairs,Table,9517,5,0.2,1367
+925,CA-2019-100925,28-05-2019,30-05-2019,First Class,CUST-008,Customer 20,Corporate,India,Mumbai,Tamil Nadu,288386,West,PROD-095,Office Supplies,Paper,Binder,4666,5,0.19,413
+926,CA-2019-100926,18-04-2019,23-04-2019,Second Class,CUST-046,Customer 46,Home Office,India,Jaipur,Tamil Nadu,427567,West,PROD-066,Office Supplies,Laptops,Headphones,8505,4,0.02,1999
+927,CA-2019-100927,08-12-2019,13-12-2019,First Class,CUST-042,Customer 49,Consumer,India,Mumbai,Maharashtra,627389,West,PROD-088,Office Supplies,Chairs,Smartphone,3478,4,0.01,208
+928,CA-2019-100928,16-10-2019,17-10-2019,First Class,CUST-002,Customer 42,Consumer,India,Mumbai,Karnataka,355951,North,PROD-099,Furniture,Laptops,Headphones,47012,2,0.08,8457
+929,CA-2019-100929,25-04-2019,29-04-2019,First Class,CUST-025,Customer 6,Home Office,India,Mumbai,Kerala,771533,South,PROD-069,Furniture,Phones,Binder,11851,3,0.05,2992
+930,CA-2019-100930,29-03-2019,02-04-2019,Second Class,CUST-045,Customer 29,Corporate,India,Bangalore,Maharashtra,218871,North,PROD-018,Office Supplies,Laptops,Chair,11407,1,0.13,2969
+931,CA-2019-100931,10-08-2019,11-08-2019,Standard Class,CUST-026,Customer 1,Consumer,India,Hyderabad,Karnataka,930982,West,PROD-068,Office Supplies,Tables,Laptop,37873,5,0.07,6724
+932,CA-2019-100932,07-08-2019,09-08-2019,First Class,CUST-039,Customer 32,Home Office,India,Pune,Kerala,607514,West,PROD-013,Office Supplies,Phones,Binder,18823,5,0.18,2119
+933,CA-2019-100933,23-03-2019,28-03-2019,Standard Class,CUST-042,Customer 42,Home Office,India,Delhi,Tamil Nadu,137205,North,PROD-030,Office Supplies,Paper,Headphones,20174,3,0.04,4447
+934,CA-2019-100934,30-09-2019,01-10-2019,First Class,CUST-035,Customer 21,Consumer,India,Jaipur,Gujarat,112761,North,PROD-051,Furniture,Chairs,Notebook,21406,5,0.03,2230
+935,CA-2019-100935,28-01-2019,31-01-2019,Standard Class,CUST-027,Customer 30,Corporate,India,Surat,Tamil Nadu,555121,West,PROD-074,Furniture,Paper,Table,31548,3,0.19,2588
+936,CA-2019-100936,26-03-2019,29-03-2019,Second Class,CUST-013,Customer 46,Consumer,India,Kochi,Gujarat,817125,West,PROD-085,Furniture,Storage,Smartphone,58375,5,0.09,16146
+937,CA-2019-100937,24-09-2019,29-09-2019,Second Class,CUST-029,Customer 27,Home Office,India,Hyderabad,Karnataka,813217,North,PROD-029,Furniture,Paper,Notebook,15643,4,0.15,2033
+938,CA-2019-100938,06-03-2019,10-03-2019,First Class,CUST-047,Customer 1,Home Office,India,Mumbai,Tamil Nadu,547529,South,PROD-100,Office Supplies,Storage,Storage Box,33090,5,0.09,3731
+939,CA-2019-100939,28-05-2019,01-06-2019,First Class,CUST-035,Customer 49,Consumer,India,Chennai,Gujarat,864146,South,PROD-041,Office Supplies,Accessories,Table,19178,3,0.05,3202
+940,CA-2019-100940,05-09-2019,06-09-2019,Standard Class,CUST-009,Customer 9,Corporate,India,Surat,Delhi,957394,West,PROD-047,Office Supplies,Accessories,Laptop,30465,1,0.09,5007
+941,CA-2019-100941,08-06-2019,09-06-2019,Standard Class,CUST-022,Customer 34,Corporate,India,Hyderabad,Gujarat,999006,West,PROD-079,Office Supplies,Paper,Binder,5235,2,0.07,855
+942,CA-2019-100942,02-05-2019,03-05-2019,Second Class,CUST-020,Customer 11,Home Office,India,Kochi,Delhi,870995,South,PROD-056,Office Supplies,Tables,Smartphone,51210,3,0.12,10924
+943,CA-2019-100943,06-07-2019,09-07-2019,Second Class,CUST-030,Customer 4,Home Office,India,Delhi,Karnataka,724014,North,PROD-047,Technology,Tables,Storage Box,42182,2,0.1,3882
+944,CA-2019-100944,12-09-2019,15-09-2019,First Class,CUST-006,Customer 27,Corporate,India,Jaipur,Gujarat,957380,North,PROD-060,Furniture,Storage,Laptop,57600,5,0.13,6401
+945,CA-2019-100945,25-08-2019,28-08-2019,First Class,CUST-006,Customer 37,Consumer,India,Kochi,Telangana,623985,North,PROD-059,Office Supplies,Paper,Table,44395,2,0.06,3263
+946,CA-2019-100946,21-11-2019,22-11-2019,Second Class,CUST-025,Customer 10,Consumer,India,Ahmedabad,Kerala,950132,South,PROD-011,Office Supplies,Storage,Laptop,31194,1,0.17,7609
+947,CA-2019-100947,14-10-2019,15-10-2019,Standard Class,CUST-030,Customer 46,Consumer,India,Mumbai,Karnataka,155878,West,PROD-053,Furniture,Paper,Binder,54061,2,0.05,9819
+948,CA-2019-100948,30-11-2019,02-12-2019,Standard Class,CUST-026,Customer 45,Consumer,India,Pune,Delhi,892316,South,PROD-065,Furniture,Accessories,Headphones,12742,3,0.12,1017
+949,CA-2019-100949,07-05-2019,11-05-2019,First Class,CUST-046,Customer 24,Consumer,India,Jaipur,Kerala,836839,South,PROD-057,Furniture,Phones,Notebook,56352,3,0.2,5419
+950,CA-2019-100950,03-08-2019,05-08-2019,Standard Class,CUST-044,Customer 43,Consumer,India,Chennai,Gujarat,893344,South,PROD-042,Furniture,Paper,Table,48905,3,0.1,7176
+951,CA-2019-100951,01-08-2019,06-08-2019,First Class,CUST-048,Customer 27,Home Office,India,Kochi,Delhi,660943,North,PROD-041,Technology,Tables,Table,28352,4,0.18,5645
+952,CA-2019-100952,19-09-2019,21-09-2019,Standard Class,CUST-020,Customer 11,Home Office,India,Mumbai,Maharashtra,240373,South,PROD-006,Technology,Chairs,Table,50626,3,0.12,2843
+953,CA-2019-100953,15-12-2019,20-12-2019,First Class,CUST-050,Customer 28,Home Office,India,Ahmedabad,Kerala,516213,North,PROD-062,Office Supplies,Laptops,Chair,31609,1,0.11,5566
+954,CA-2019-100954,04-11-2019,08-11-2019,Standard Class,CUST-008,Customer 13,Consumer,India,Bangalore,Delhi,500987,West,PROD-053,Furniture,Binders,Chair,35239,4,0.04,2525
+955,CA-2019-100955,10-04-2019,15-04-2019,Second Class,CUST-050,Customer 49,Corporate,India,Delhi,Maharashtra,249959,West,PROD-022,Office Supplies,Binders,Notebook,14419,4,0.19,941
+956,CA-2019-100956,30-04-2019,04-05-2019,Standard Class,CUST-013,Customer 41,Consumer,India,Pune,Delhi,920604,South,PROD-047,Furniture,Paper,Laptop,28949,4,0.14,4547
+957,CA-2019-100957,09-11-2019,12-11-2019,Second Class,CUST-003,Customer 12,Home Office,India,Mumbai,Karnataka,345714,West,PROD-076,Technology,Paper,Notebook,48960,3,0.12,9256
+958,CA-2019-100958,06-07-2019,08-07-2019,Standard Class,CUST-019,Customer 32,Corporate,India,Hyderabad,Delhi,392118,South,PROD-007,Office Supplies,Laptops,Notebook,30915,1,0.17,4990
+959,CA-2019-100959,11-01-2019,16-01-2019,First Class,CUST-004,Customer 9,Consumer,India,Pune,Kerala,868698,West,PROD-062,Technology,Chairs,Chair,19850,4,0.14,3813
+960,CA-2019-100960,26-11-2019,28-11-2019,Second Class,CUST-017,Customer 41,Home Office,India,Bangalore,Rajasthan,853297,West,PROD-009,Furniture,Chairs,Chair,31125,5,0.07,8452
+961,CA-2019-100961,06-09-2019,08-09-2019,Second Class,CUST-017,Customer 1,Consumer,India,Hyderabad,Karnataka,881338,North,PROD-068,Furniture,Paper,Laptop,43938,2,0.2,7248
+962,CA-2019-100962,09-06-2019,14-06-2019,Standard Class,CUST-045,Customer 32,Corporate,India,Chennai,Telangana,542604,West,PROD-050,Office Supplies,Accessories,Binder,59273,1,0.18,5214
+963,CA-2019-100963,04-07-2019,05-07-2019,First Class,CUST-011,Customer 7,Home Office,India,Pune,Delhi,690412,West,PROD-082,Technology,Storage,Laptop,50567,3,0.12,12807
+964,CA-2019-100964,14-06-2019,16-06-2019,Standard Class,CUST-026,Customer 41,Consumer,India,Jaipur,Telangana,421689,North,PROD-084,Office Supplies,Binders,Notebook,30159,4,0.19,5660
+965,CA-2019-100965,05-06-2019,07-06-2019,Second Class,CUST-049,Customer 37,Consumer,India,Delhi,Kerala,557988,West,PROD-052,Office Supplies,Accessories,Chair,36079,1,0.18,7164
+966,CA-2019-100966,16-09-2019,19-09-2019,Standard Class,CUST-044,Customer 50,Home Office,India,Mumbai,Tamil Nadu,386437,South,PROD-041,Furniture,Tables,Laptop,58228,5,0.14,14071
+967,CA-2019-100967,27-06-2019,28-06-2019,First Class,CUST-005,Customer 1,Home Office,India,Pune,Rajasthan,936279,North,PROD-008,Furniture,Laptops,Notebook,43580,3,0.01,12175
+968,CA-2019-100968,07-12-2019,09-12-2019,Standard Class,CUST-007,Customer 33,Home Office,India,Ahmedabad,Gujarat,445751,West,PROD-079,Furniture,Laptops,Smartphone,57841,3,0.16,8434
+969,CA-2019-100969,12-12-2019,15-12-2019,Standard Class,CUST-007,Customer 29,Consumer,India,Jaipur,Karnataka,616228,South,PROD-086,Technology,Laptops,Storage Box,16407,3,0.18,4471
+970,CA-2019-100970,23-12-2019,25-12-2019,Second Class,CUST-047,Customer 3,Consumer,India,Delhi,Telangana,945932,West,PROD-081,Office Supplies,Chairs,Laptop,7118,4,0.16,835
+971,CA-2019-100971,19-08-2019,22-08-2019,Second Class,CUST-020,Customer 14,Corporate,India,Chennai,Telangana,966066,South,PROD-063,Office Supplies,Tables,Storage Box,13138,4,0.17,1700
+972,CA-2019-100972,17-09-2019,20-09-2019,Second Class,CUST-048,Customer 38,Consumer,India,Delhi,Delhi,735374,South,PROD-027,Office Supplies,Paper,Table,3239,5,0.17,811
+973,CA-2019-100973,26-01-2019,30-01-2019,Second Class,CUST-016,Customer 28,Consumer,India,Ahmedabad,Tamil Nadu,242743,West,PROD-016,Furniture,Phones,Notebook,37310,3,0.18,3105
+974,CA-2019-100974,21-07-2019,26-07-2019,First Class,CUST-011,Customer 19,Corporate,India,Bangalore,Telangana,138261,North,PROD-096,Technology,Tables,Notebook,32101,4,0.1,4316
+975,CA-2019-100975,01-11-2019,02-11-2019,Second Class,CUST-047,Customer 38,Corporate,India,Mumbai,Telangana,333171,South,PROD-037,Office Supplies,Chairs,Laptop,7790,4,0.11,2088
+976,CA-2019-100976,17-01-2019,18-01-2019,Standard Class,CUST-008,Customer 30,Corporate,India,Chennai,Karnataka,869113,South,PROD-090,Furniture,Paper,Binder,13569,4,0.06,3762
+977,CA-2019-100977,18-07-2019,19-07-2019,Second Class,CUST-049,Customer 27,Corporate,India,Jaipur,Kerala,637018,North,PROD-097,Office Supplies,Laptops,Table,40771,1,0.06,4599
+978,CA-2019-100978,06-10-2019,07-10-2019,First Class,CUST-028,Customer 30,Corporate,India,Delhi,Gujarat,427245,North,PROD-059,Technology,Paper,Laptop,49096,3,0.04,6492
+979,CA-2019-100979,18-12-2019,22-12-2019,Second Class,CUST-015,Customer 44,Home Office,India,Bangalore,Telangana,607605,South,PROD-057,Furniture,Phones,Table,46332,1,0.1,5175
+980,CA-2019-100980,05-06-2019,06-06-2019,Standard Class,CUST-018,Customer 42,Home Office,India,Delhi,Maharashtra,638809,South,PROD-025,Office Supplies,Phones,Binder,12322,3,0.06,2978
+981,CA-2019-100981,19-07-2019,21-07-2019,Second Class,CUST-049,Customer 45,Consumer,India,Pune,Kerala,680136,South,PROD-024,Office Supplies,Binders,Storage Box,5958,4,0.13,1127
+982,CA-2019-100982,30-05-2019,03-06-2019,First Class,CUST-023,Customer 46,Consumer,India,Hyderabad,Maharashtra,874314,South,PROD-012,Furniture,Binders,Storage Box,38240,5,0.11,2802
+983,CA-2019-100983,30-10-2019,31-10-2019,Second Class,CUST-031,Customer 45,Home Office,India,Surat,Maharashtra,474230,South,PROD-011,Technology,Phones,Laptop,35180,1,0.1,5423
+984,CA-2019-100984,01-08-2019,03-08-2019,Standard Class,CUST-030,Customer 12,Corporate,India,Ahmedabad,Karnataka,361044,North,PROD-035,Office Supplies,Chairs,Notebook,21868,2,0.14,5796
+985,CA-2019-100985,08-03-2019,12-03-2019,Second Class,CUST-018,Customer 5,Home Office,India,Hyderabad,Rajasthan,840599,West,PROD-064,Furniture,Storage,Chair,34941,2,0.02,7943
+986,CA-2019-100986,06-05-2019,08-05-2019,Standard Class,CUST-024,Customer 38,Home Office,India,Surat,Karnataka,501778,South,PROD-034,Furniture,Tables,Headphones,29753,3,0.04,3561
+987,CA-2019-100987,21-09-2019,25-09-2019,Second Class,CUST-050,Customer 8,Consumer,India,Ahmedabad,Kerala,496347,North,PROD-009,Technology,Chairs,Headphones,55367,2,0.12,9459
+988,CA-2019-100988,04-03-2019,09-03-2019,Second Class,CUST-023,Customer 31,Consumer,India,Ahmedabad,Kerala,758770,South,PROD-054,Technology,Tables,Notebook,31045,5,0.13,2093
+989,CA-2019-100989,01-10-2019,05-10-2019,First Class,CUST-037,Customer 18,Home Office,India,Surat,Delhi,336859,West,PROD-055,Office Supplies,Accessories,Storage Box,15341,2,0.09,1611
+990,CA-2019-100990,24-07-2019,25-07-2019,Standard Class,CUST-005,Customer 26,Consumer,India,Hyderabad,Telangana,665653,North,PROD-008,Office Supplies,Paper,Chair,44187,2,0.12,6289
+991,CA-2019-100991,14-01-2019,19-01-2019,First Class,CUST-002,Customer 32,Home Office,India,Bangalore,Delhi,694012,West,PROD-093,Technology,Accessories,Notebook,18699,4,0.11,2688
+992,CA-2019-100992,07-02-2019,11-02-2019,First Class,CUST-005,Customer 28,Corporate,India,Delhi,Maharashtra,941635,South,PROD-054,Office Supplies,Storage,Smartphone,8755,5,0.05,1142
+993,CA-2019-100993,16-12-2019,21-12-2019,First Class,CUST-010,Customer 9,Consumer,India,Chennai,Telangana,774506,West,PROD-064,Technology,Chairs,Headphones,31332,5,0.15,2535
+994,CA-2019-100994,13-08-2019,14-08-2019,Second Class,CUST-043,Customer 32,Consumer,India,Hyderabad,Tamil Nadu,266284,North,PROD-069,Office Supplies,Binders,Table,17470,2,0.1,1778
+995,CA-2019-100995,23-09-2019,26-09-2019,Second Class,CUST-028,Customer 33,Consumer,India,Kochi,Telangana,540154,South,PROD-088,Technology,Tables,Chair,21146,1,0.17,3208
+996,CA-2019-100996,30-06-2019,01-07-2019,Second Class,CUST-044,Customer 45,Consumer,India,Kochi,Tamil Nadu,474882,North,PROD-024,Technology,Storage,Laptop,29045,4,0.12,7498
+997,CA-2019-100997,04-05-2019,09-05-2019,Standard Class,CUST-010,Customer 23,Corporate,India,Chennai,Rajasthan,914337,West,PROD-058,Technology,Paper,Chair,37895,1,0.04,10202
+998,CA-2019-100998,10-08-2019,11-08-2019,First Class,CUST-025,Customer 24,Corporate,India,Chennai,Tamil Nadu,665237,South,PROD-082,Technology,Binders,Chair,21148,2,0.15,5145
+999,CA-2019-100999,30-03-2019,04-04-2019,Second Class,CUST-042,Customer 11,Consumer,India,Mumbai,Karnataka,462722,West,PROD-055,Furniture,Laptops,Smartphone,7106,4,0.19,387
+1000,CA-2019-101000,24-02-2019,01-03-2019,Standard Class,CUST-020,Customer 8,Consumer,India,Mumbai,Gujarat,645184,North,PROD-051,Technology,Laptops,Binder,51399,2,0.18,13185

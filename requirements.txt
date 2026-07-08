@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+prophet
+supabase
+groq
+statsmodels
+scikit-learn
+reportlab
+kaleido
