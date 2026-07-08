@@ -451,9 +451,13 @@ st.markdown("""
     }
     
     /* Sidebar Collapse/Expand Button Styling */
+    [data-testid="stSidebarCollapseButton"],
+    [data-testid="stSidebarCollapsedControl"],
     [data-testid="stSidebarCollapseButton"] button,
     [data-testid="stSidebarCollapsedControl"] button,
     button[kind="header"] {
+        opacity: 1 !important;
+        visibility: visible !important;
         background: linear-gradient(135deg, #4F46E5 0%, #7C3AED 100%) !important;
         border: none !important;
         border-radius: 8px !important;
