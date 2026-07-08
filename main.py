@@ -451,20 +451,31 @@ st.markdown("""
     }
     
     /* Sidebar Collapse/Expand Button Styling */
+    [data-testid="stSidebarCollapseButton"] button,
+    [data-testid="stSidebarCollapsedControl"] button,
     button[kind="header"] {
         background: linear-gradient(135deg, #4F46E5 0%, #7C3AED 100%) !important;
         border: none !important;
         border-radius: 8px !important;
         color: white !important;
         font-weight: 600 !important;
-        padding: 8px 12px !important;
         box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3) !important;
         transition: all 0.3s ease !important;
     }
     
+    [data-testid="stSidebarCollapseButton"] button:hover,
+    [data-testid="stSidebarCollapsedControl"] button:hover,
     button[kind="header"]:hover {
         transform: scale(1.05) !important;
         box-shadow: 0 6px 16px rgba(79, 70, 229, 0.4) !important;
+    }
+
+    /* Ensure icons (SVGs) inside these buttons are white */
+    [data-testid="stSidebarCollapseButton"] button svg,
+    [data-testid="stSidebarCollapsedControl"] button svg {
+        stroke: white !important;
+        fill: white !important;
+        color: white !important;
     }
     
     /* Completely Hide Radio Button Elements */
