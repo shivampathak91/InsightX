@@ -2,7 +2,11 @@ import streamlit as st
 from supabase import create_client
 from config import SUPABASE_URL, SUPABASE_KEY
 
-# Initialize Supabase client
+# Initialize Supabase client with verification
+if not SUPABASE_URL or not SUPABASE_KEY:
+    st.error("🔑 **Supabase secrets are missing!** Please configure `SUPABASE_URL` and `SUPABASE_KEY` in your `.streamlit/secrets.toml` locally, or under your **Secrets** settings in Streamlit Cloud.")
+    st.stop()
+
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 def initialize_session_state():
