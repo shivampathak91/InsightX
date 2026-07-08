@@ -622,6 +622,80 @@ st.markdown("""
     ::-webkit-scrollbar-thumb:hover {
         background: var(--text-secondary);
     }
+    
+    /* Responsive Sticky Header */
+    .sticky-header {
+        position: sticky;
+        top: 0;
+        z-index: 999;
+        background: rgba(11, 15, 25, 0.95);
+        backdrop-filter: blur(10px);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        padding: 16px 24px;
+        margin: -2rem -2rem 2rem -2rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+    }
+    
+    .header-left {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+    
+    .header-right {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+    
+    .header-datetime {
+        text-align: right;
+    }
+    
+    /* Mobile Responsive View (< 768px) */
+    @media (max-width: 768px) {
+        .sticky-header {
+            flex-direction: column;
+            align-items: stretch;
+            padding: 12px 16px;
+            margin: -2rem -1rem 1.5rem -1rem;
+            gap: 10px;
+        }
+        
+        .header-left {
+            justify-content: space-between;
+            width: 100%;
+        }
+        
+        .header-right {
+            justify-content: space-between;
+            width: 100%;
+            gap: 12px;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            padding-top: 8px;
+        }
+        
+        /* Hide datetime on mobile to save space */
+        .header-datetime {
+            display: none !important;
+        }
+        
+        .header-left svg {
+            width: 32px;
+            height: 32px;
+        }
+        
+        .header-left h1 {
+            font-size: 16px !important;
+        }
+        
+        .header-left p {
+            font-size: 10px !important;
+        }
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -748,7 +822,28 @@ if st.session_state["is_paid"]:
 else:
     badge_or_button_html = '<a href="/?page=premium" target="_self" style="text-decoration: none; background: linear-gradient(135deg, #7C3AED 0%, #4F46E5 100%); color: white; padding: 8px 16px; border-radius: 8px; font-weight: 600; font-size: 14px; box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3); margin-right: 12px;">⭐ Upgrade to Premium</a>'
 
-st.markdown(f'<div style="position: sticky; top: 0; z-index: 999; background: rgba(11, 15, 25, 0.95); backdrop-filter: blur(10px); border-bottom: 1px solid rgba(255, 255, 255, 0.08); padding: 16px 24px; margin: -2rem -2rem 2rem -2rem; display: flex; align-items: center; justify-content: space-between;"><div style="display: flex; align-items: center; gap: 16px;"><svg width="40" height="40" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 12px;"><path d="M4 24V16h4v8H4zM12 24V8h4v16h-4zM20 24V12h4v12h-4z" fill="#A78BFA"/><path d="M28 24V4h4v20h-4z" fill="#7C3AED"/></svg><div><h1 style="margin: 0; color: #F9FAFB; font-size: 20px; font-weight: 600;">InSightX Dashboard</h1><p style="margin: 4px 0 0 0; color: #9CA3AF; font-size: 12px;">AI Retail Intelligence Platform</p></div></div><div style="display: flex; align-items: center; gap: 24px;">{badge_or_button_html}<div style="text-align: right;"><p style="margin: 0; color: #F9FAFB; font-size: 14px; font-weight: 500;">{datetime.now().strftime("%B %d, %Y")}</p><p style="margin: 0; color: #9CA3AF; font-size: 12px;">{datetime.now().strftime("%I:%M %p")}</p></div><div style="width: 40px; height: 40px; background: linear-gradient(135deg, #10B981 0%, #059669 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px;">👤</div></div></div>', unsafe_allow_html=True)
+st.markdown(f"""
+<div class="sticky-header">
+    <div class="header-left">
+        <svg width="36" height="36" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4 24V16h4v8H4zM12 24V8h4v16h-4zM20 24V12h4v12h-4z" fill="#A78BFA"/>
+            <path d="M28 24V4h4v20h-4z" fill="#7C3AED"/>
+        </svg>
+        <div>
+            <h1 style="margin: 0; color: #F9FAFB; font-size: 18px; font-weight: 600;">InSightX Dashboard</h1>
+            <p style="margin: 2px 0 0 0; color: #9CA3AF; font-size: 11px;">AI Retail Intelligence Platform</p>
+        </div>
+    </div>
+    <div class="header-right">
+        {badge_or_button_html}
+        <div class="header-datetime">
+            <p style="margin: 0; color: #F9FAFB; font-size: 13px; font-weight: 500;">{datetime.now().strftime("%B %d, %Y")}</p>
+            <p style="margin: 0; color: #9CA3AF; font-size: 11px;">{datetime.now().strftime("%I:%M %p")}</p>
+        </div>
+        <div style="width: 36px; height: 36px; background: linear-gradient(135deg, #10B981 0%, #059669 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0;">👤</div>
+    </div>
+</div>
+""", unsafe_allow_html=True)
 
 # Demo Mode top banner
 if not st.session_state["is_paid"]:
